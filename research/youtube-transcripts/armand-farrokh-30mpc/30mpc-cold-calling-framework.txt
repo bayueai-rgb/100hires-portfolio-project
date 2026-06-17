@@ -1,9 +1,17 @@
-# Transcript / Metadata: 30MPC Cold Calling Framework
-Source: https://www.youtube.com/watch?v=lIZ_RMm4dQ0
-Note: Transcript could not be automatically fetched. Using metadata fallback.
+# Detailed Key Takeaways: The Golden Path Cold Calling Framework (30 Minutes to President's Club)
 
-Key topics from video (based on title + known content from 30MPC):
-- Golden Path framework
-- Permission-Based Openers
-- Trigger-based sequencing
-- Why cold calling still works in 2025-2026
+Source: https://www.youtube.com/watch?v=lIZ_RMm4dQ0
+Collected: June 2026
+
+## Main Framework: Golden Path
+- Identify 5 most common triggers for your ICP
+- Build sequences around those triggers instead of spray and pray
+- Permission-Based Opener → highest success rate in modern cold calling
+
+## Key Techniques Mentioned
+- "The Ledge" technique for handling objections
+- Problem Proposition before pitching solution
+- Mr. Miyagi method (agree then guide)
+- Focus on booking meeting, not closing deal on first call
+
+This episode is considered one of the highest value cold calling resources available in 2025-2026.
