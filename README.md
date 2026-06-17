@@ -54,7 +54,8 @@ fetch_linkedin_posts.py ← Apify API scraper for LinkedIn posts
 fetch_transcripts.py ← yt-dlp script for YouTube metadata
 SETUP.md ← Step-by-step setup guide
 README.md ← This file
-```text
+` ``` `
+
 
 ---
 
