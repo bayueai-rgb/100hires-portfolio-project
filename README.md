@@ -73,6 +73,7 @@ README.md ← This file
 | 10 | Vincent Fourcade (ColdIQ) | YouTube/Blog | AI + Clay outbound systems | Mid-market/Enterprise |
 
 Full annotations and framework breakdowns: `/research/sources.md`
+```
 
 ---
 
