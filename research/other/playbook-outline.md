@@ -23,3 +23,18 @@
 - Meeting booking rate per sequence
 - Cost per qualified lead
 - Pipeline velocity by channel
+
+
+---
+
+## My Synthesis: What I'd Actually Build
+
+If I were building a cold outreach pipeline for a B2B SaaS in APAC tomorrow, I'd combine:
+
+1. Jason Bay's signal-based approach for ICP identification (intent data + trigger events)
+2. Alex Berman's 3C framework for email copy (scalable, reproducible)
+3. Nick Abraham's pay-per-meeting model as the success metric (forces quality over volume)
+
+The gap in current practitioner content: Most frameworks are built for US/EU markets. For APAC (especially Indonesia where I operate), the missing piece is local signal identification - regulatory changes, competitor pricing moves, and supply chain shifts that don't appear in standard intent databases. My next research phase would focus on building APAC-specific trigger libraries.
+
+Connection to SawitPRO: In agricultural tech, we learned that "funding round" signals don't apply. Instead, harvest season timing, weather anomalies, and commodity price spikes are the real triggers. This same principle applies to any non-Silicon-Valley market: the signals that matter are local, not generic.
