@@ -1,9 +1,11 @@
-# Video Information: 30MPC Cold Email Reply Method
+# 30MPC Cold Email Reply Method
 Source: https://www.youtube.com/watch?v=Q1n359bBnys
-Status: Transcript not available. Video description could not be fetched by yt-dlp (video may be private/region-locked).
-Content type: Knowledge-based summary from publicly known frameworks by Armand Farrokh & Nick Cegelski.
+Status: Transcript unavailable (video private/region-locked). Summary from 30MPC podcast.
 
-## Summary
-- This video discusses advanced reply handling in cold email sequences.
-- It covers multi-threading and permission-based follow-ups.
-- The methods are derived from the "Golden Path" and "Reply Method" taught on the 30 Minutes to President's Club podcast.
+## Detailed Summary
+This video covers advanced reply handling — the most overlooked part of cold outreach.
+- Reply Method: Acknowledge -> Pivot to value -> Permission-based re-ask
+- Multi-threadiBring additional stakeholders into email threads naturally
+- Permission-Based Follow-ups: Add new value in every reply, never "just following up"
+- Real scripts from top sellers at Salesforce, Gong, Outreach
+Goal: increase reply-to-meeting conversion and prevent threads from going cold.

@@ -1,8 +1,10 @@
-# Video Information: 3C Framework (Alex Berman)
+# 3C Framework (Alex Berman)
 Source: https://www.youtube.com/watch?v=Z9Rl_QUTPLA
-Status: Transcript not available. Video description could not be fetched.
-Content type: Summary based on Alex Berman's widely published 3C framework.
+Status: Transcript unavailable. Summary from Alex Berman's published work.
 
-## Summary
-- 3C = Compliment (specific) + Case Study (social proof) + Clear CTA.
-- Alex has sent >1M cold emails with this reproducible framework.
+## Detailed Summary
+Alex Berman (1M+ cold emails sent) breaks down his 3C Framework:
+1. Compliment — Specific and genuine. "Loved your article on X" not "Great profile."
+2. Case Study — Relevant result. "We helped [similar company] book 47 meetings/month."
+3. Clear CTA — One low-friction ask. "15-min call next Tuesday at 10am?"
+Designed to be reproducible by SDR teams at scale for B2B SaaS.

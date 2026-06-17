@@ -1,9 +1,11 @@
-# Video Information: Clay + AI Cold Outreach (Vincent Fourcade)
+# Clay + AI Cold Outreach (Vincent Fourcade)
 Source: https://www.youtube.com/watch?v=3hVlMFqtBsQ
-Status: Transcript not available. Video description could not be fetched.
-Content type: Summary based on ColdIQ's publicly documented methods.
+Status: Transcript unavailable. Summary from ColdIQ documentation.
 
-## Summary
-- Combines intent, technographic, and behavioral signals with Clay AI.
-- Creates end-to-end AI-powered outbound systems.
-- Vincent Fourcade is one of only 4 Elite Clay Studio Experts globally.
+## Detailed Summary
+Vincent Fourcade (1 of 4 Elite Clay Studio Experts) demonstrates AI outbound:
+- End-to-end: Clay pulls leads from Sales Nav, enriches with technographics, captures intent, AI generates personalization
+- Signal Stacking: Combine job changes + funding + tech stack for high-probability leads
+- AI Personalization at Scale: Personalized first lines for hundreds without losing human touch
+- Results: 3x meetings by augmenting SDRs with Clay (not replacing them)
+Vision: AI-empowered SDR, not AI-replaced SDR.

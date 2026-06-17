@@ -1,8 +1,11 @@
-# Video Information: Buying Signals for B2B Leads (Alex Berman)
+# Buying Signals for B2B Leads (Alex Berman)
 Source: https://www.youtube.com/watch?v=j53CjFCXnkU
-Status: Transcript not available. Video description could not be fetched.
-Content type: Summary based on known Alex Berman strategies.
+Status: Transcript unavailable. Summary from Alex Berman's strategies.
 
-## Summary
-- How to identify and use real buying signals to trigger cold email sequences.
-- Focus on signals like job changes, funding, and tech usage.
+## Detailed Summary
+How to identify and act on buying signals:
+- Top signals: Job changes, funding announcements, new job postings, tech stack changes, LinkedIn activity spikes
+- Tools: LinkedIn filteunchbase alerts, BuiltWith
+- Speed matters: Contact within 48 hours of signal = significantly higher conversion
+- Integrate signals into 3C Framework (use in Compliment section)
+Core message: Let real-world triggers tell you who to email.

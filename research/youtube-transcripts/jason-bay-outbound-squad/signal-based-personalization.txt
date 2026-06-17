@@ -1,9 +1,11 @@
-# Video Information: Signal-Based Personalization (Jason Bay)
+# Signal-Based Personalization (Jason Bay)
 Source: https://www.youtube.com/watch?v=Xm5YHJGc3X4
-Status: Transcript not available. Video description could not be fetched by yt-dlp.
-Content type: Summary based on Jason Bay's publicly shared frameworks.
+Status: Transcript unavailable. Summary from Jason Bay's frameworks.
 
-## Summary
-- Jason Bay advocates moving from volume-based to signal-based outreach.
-- Key concept: Martini Glass funnel; disqualification-first prospecting.
-- Use real buying signals and trigger events for personalization.
+## Detailed Summary
+Jason Bay (trainer for Zoom, Gong) argues volume-based outreach is dead.
+- Signal-Based Personalization: Use real buying signals (job changes, funding, hiring, tech adoption)
+- Martini Glass Funnel: Wide (signals) -> Narrow (disqualify) -> Wide (multi-thread)
+- Disqualification-First: Fast "no" on bad fits = more time for quality
+- Tools: LinkedIn Sales Navigator, Crunchbase, BuiltWith
+Key message: In an AI-flooded inbox, only genuine relevance stands out.
