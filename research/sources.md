@@ -1,5 +1,5 @@
 
-sources = """# Research Sources — Cold Outreach Pipeline for B2B SaaS
+Research Sources — Cold Outreach Pipeline for B2B SaaS
 
 **Topic:** Cold Outreach Pipeline for B2B SaaS  
 **Researcher:** Bayu Poetra Ramadhan  
