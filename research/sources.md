@@ -1,5 +1,4 @@
-# 2. sources.md
-# ============================================================
+
 sources = """# Research Sources — Cold Outreach Pipeline for B2B SaaS
 
 **Topic:** Cold Outreach Pipeline for B2B SaaS  
@@ -95,8 +94,3 @@ Selected by cross-referencing practitioner output (live campaigns, documented re
 | Jen Allen-Knuth | LinkedIn | Enterprise multi-threading | Enterprise |
 | Vincent Fourcade (ColdIQ) | YouTube/Blog | AI + Clay outbound systems | Mid-market/Enterprise |
 """
-
-open("research/sources.md", "w").write(sources.strip())
-print("OK: sources.md")
-
-# ============================================================
