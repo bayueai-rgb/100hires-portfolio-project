@@ -1,8 +1,8 @@
-Key Takeaways: 3C Framework (Alex Berman)
-
+# Video Information: 3C Framework (Alex Berman)
 Source: https://www.youtube.com/watch?v=Z9Rl_QUTPLA
+Status: Transcript not available. Video description could not be fetched.
+Content type: Summary based on Alex Berman's widely published 3C framework.
 
-1. Compliment (specific)
-2. Case Study (social proof)
-3. Clear CTA
-Alex has sent >1 million cold emails with this framework.
+## Summary
+- 3C = Compliment (specific) + Case Study (social proof) + Clear CTA.
+- Alex has sent >1M cold emails with this reproducible framework.

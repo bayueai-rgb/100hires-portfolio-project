@@ -1,6 +1,9 @@
-Key Takeaways: Signal-Based Personalization (Jason Bay)
-
+# Video Information: Signal-Based Personalization (Jason Bay)
 Source: https://www.youtube.com/watch?v=Xm5YHJGc3X4
+Status: Transcript not available. Video description could not be fetched by yt-dlp.
+Content type: Summary based on Jason Bay's publicly shared frameworks.
 
-Volume outreach is dead. Use buying signals and personalized triggers.
-Martini Glass funnel, disqualification-first prospecting.
+## Summary
+- Jason Bay advocates moving from volume-based to signal-based outreach.
+- Key concept: Martini Glass funnel; disqualification-first prospecting.
+- Use real buying signals and trigger events for personalization.
