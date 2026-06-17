@@ -1,15 +1,5 @@
-# LinkedIn Posts: Jeremy Chatelaine
+# LinkedIn Posts — Jeremy Chatelaine
 
-URL: https://www.linkedin.com/in/jeremychatelaine/
-Date: 2026-06-17
-Count: 1
+*Posts could not be retrieved via API. Manual collection was not possible for this expert.*
 
----
-
-### Post 1
-Date:  | Likes: 0
-URL: 
-
-error
-
----
+> Note: This expert's frameworks and insights are well-documented in their YouTube/podcast content (see sources.md).

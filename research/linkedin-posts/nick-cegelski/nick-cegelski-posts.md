@@ -1,15 +1,5 @@
-# LinkedIn Posts: Nick Cegelski
+# LinkedIn Posts — Nick Cegelski
 
-URL: https://www.linkedin.com/in/ncegelski/
-Date: 2026-06-17
-Count: 1
+*Posts could not be retrieved via API. Manual collection was not possible for this expert.*
 
----
-
-### Post 1
-Date:  | Likes: 0
-URL: 
-
-error
-
----
+> Note: This expert's frameworks and insights are well-documented in their YouTube/podcast content (see sources.md).
