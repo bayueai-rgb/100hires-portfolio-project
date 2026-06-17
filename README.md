@@ -25,33 +25,17 @@ My experience building $5M+ GMV pipelines in Indonesia's fragmented agricultural
 ---
 
 ## Repository Structure
-/research/
-├── sources.md ← 10 curated experts with full annotations
-├── linkedin-posts/ ← Posts per author (collected via Apify API)
-│   ├── armand-farrokh/
-│   ├── nick-cegelski/
-│   ├── jason-bay/
-│   ├── alex-berman/
-│   ├── belal-batrawy/
-│   ├── nick-abraham/
-│   ├── jeremy-chatelaine/
-│   ├── vin-matano/
-│   ├── jen-allen-knuth/
-│   └── vincent-fourcade/
-├── youtube-transcripts/ ← Video research notes per author
-│   ├── 30mpc-armand-nick/
-│   ├── alex-berman/
-│   ├── jason-bay/
-│   ├── belal-batrawy/
-│   ├── nick-abraham/
-│   └── jen-allen-knuth/
-└── other/
-└── playbook-outline.md ← Synthesis of all frameworks into actionable pipeline
-fetch_linkedin_posts.py ← Apify API scraper for LinkedIn posts
-fetch_transcripts.py ← yt-dlp script for YouTube metadata
-SETUP.md ← Step-by-step setup guide
-README.md ← This file
-plain
+
+- `/research/sources.md` — 10 curated experts with full annotations
+- `/research/linkedin-posts/` — Posts per author (collected via Apify API)
+  - `armand-farrokh/`, `nick-cegelski/`, `jason-bay/`, `alex-berman/`, `belal-batrawy/`, `nick-abraham/`, `jeremy-chatelaine/`, `vin-matano/`, `jen-allen-knuth/`, `vincent-fourcade/`
+- `/research/youtube-transcripts/` — Video research notes per author
+  - `30mpc-armand-nick/`, `alex-berman/`, `jason-bay/`, `belal-batrawy/`, `nick-abraham/`, `jen-allen-knuth/`
+- `/research/other/playbook-outline.md` — Synthesis of all frameworks into actionable pipeline
+- `fetch_linkedin_posts.py` — Apify API scraper for LinkedIn posts
+- `fetch_transcripts.py` — yt-dlp script for YouTube metadata
+- `SETUP.md` — Step-by-step setup guide
+- `README.md` — This file
 
 ---
 
