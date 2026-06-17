@@ -1,25 +1,27 @@
-# Research Sources — Cold Outreach Pipeline for B2B SaaS
+# 2. sources.md
+# ============================================================
+sources = """# Research Sources — Cold Outreach Pipeline for B2B SaaS
 
-**Topic:** Cold Outreach Pipeline for B2B SaaS
-**Researcher:** Bayu Poetra Ramadhan
-**Last updated:** June 17, 2026
+**Topic:** Cold Outreach Pipeline for B2B SaaS  
+**Researcher:** Bayu Poetra Ramadhan  
+**Date:** June 17, 2026
 
 ---
 
 ## Curation Methodology
 
-Selected by cross-referencing practitioner output (live campaigns, documented results, real data) against content quality and recency. Priority: people who actively run outreach, not people who write about it.
+Selected by cross-referencing practitioner output (live campaigns, documented results, real data) against content quality and recency. Priority: people who actively run outreach, not people who only write about it.
 
 ---
 
 ## Expert List
 
-### 1. Armand Farrokh & Nick Cegelski — 30 Minutes to Presidents Club (30MPC)
+### 1. Armand Farrokh & Nick Cegelski — 30 Minutes to President's Club (30MPC)
 - **LinkedIn:** linkedin.com/in/armandfarrokh | linkedin.com/in/ncegelski
 - **YouTube:** youtube.com/@30mpc
 - **Podcast:** 30minutestopresidentsclub.com
-- **Why:** #1 B2B sales podcast globally (495+ episodes). Armand = former VP Sales, Nick = 3x #1 enterprise seller. Co-authors of Cold Calling Sucks (2024). Golden Path framework: trigger-based sequencing over generic cadences.
-- **Key frameworks:** Permission-Based Op (PBO), The Ledge, Golden Path, Reply Method
+- **Why:** #1 B2B sales podcast globally (495+ episodes). Armand = former VP Sales, Nick = 3x #1 enterprise seller. Co-authors of *Cold Calling Sucks (And That's Why It Works)* (2024). Golden Path framework: trigger-based sequencing over generic cadences.
+- **Key frameworks:** Permission-Based Opener (PBO), The Ledge, Golden Path, Reply Method
 
 ### 2. Jason Bay — Outbound Squad
 - **LinkedIn:** linkedin.com/in/jasondbay
@@ -30,13 +32,13 @@ Selected by cross-referencing practitioner output (live campaigns, documented re
 ### 3. Alex Berman — Galadon Gold
 - **LinkedIn:** linkedin.com/in/alexanderberman
 - **YouTube:** youtube.com/AlexBerman (140K+ subs)
-- **Why:** Sent 1M+ cold emails, generated $20M in B2B SaaS leads in one year. Helped 14,000+ agencies generate 500,000+ sales meetings. Author of The Cold Email Manifesto.
+- **Why:** Sent 1M+ cold emails, generated $20M in B2B SaaS leads in one year. Helped 14,000+ agencies generate 500,000+ sales meetings. Author of *The Cold Email Manifesto*.
 - **Key frameworks:** 3C Framework (Compliment, Case Study, CTA), buying signal prospecting, multi-touch follow-up
 
 ### 4. Jack Reamer — SalesBread
 - **LinkedIn:** linkedin.com/in/jackreamer
 - **Podcast:** salesbread.com/podcast (Cold Outreach Podcast)
-- **WCEO SalesBread — 1 qualified lead/day via LinkedIn+email. 48.14% positive reply ratio since 2019 (vs industry <10%). Data-transparent practitioner.
+- **Why:** CEO SalesBread — 1 qualified lead/day via LinkedIn+email. 48.14% positive reply ratio since 2019 (vs industry <10%). Data-transparent practitioner.
 - **Key frameworks:** 1 Lead Per Day system, ultra-personalization at scale, multi-channel sequencing
 
 ### 5. Belal Batrawy — Death to Fluff
@@ -49,7 +51,7 @@ Selected by cross-referencing practitioner output (live campaigns, documented re
 - **LinkedIn:** linkedin.com/in/nickabraham12
 - **Website:** leadbird.io
 - **Why:** Performance-based model — clients pay only for meeting-ready leads. Forces extreme precision in ICP targeting and copy quality.
-- **Key frameworks:** Pay-per-meeting model, meeting-ready lead definition, ICP precision as busistraint
+- **Key frameworks:** Pay-per-meeting model, meeting-ready lead definition, ICP precision as business constraint
 
 ### 7. Jeremy Chatelaine — QuickMail
 - **Podcast:** Cold Outreach Podcast (co-hosted with Jack Reamer, 300+ episodes)
@@ -65,7 +67,7 @@ Selected by cross-referencing practitioner output (live campaigns, documented re
 
 ### 9. Jen Allen-Knuth — DemandJen
 - **LinkedIn:** linkedin.com/in/jenallenknuth
--* demandjen.com
+- **Website:** demandjen.com
 - **Why:** Trained enterprise teams at G2, GE, IBM. Previously closed 7-figure deals at Challenger. Covers enterprise multi-threading — a gap most SDR-focused content skips.
 - **Key frameworks:** Enterprise cold outreach, multi-threading buying committees, Challenger-style messaging
 
@@ -81,13 +83,20 @@ Selected by cross-referencing practitioner output (live campaigns, documented re
 ## Coverage Summary
 
 | Expert | Channel | Focus | ICP Tier |
-|---|---|---|---|
+|--------|---------|-------|----------|
 | Armand & Nick (30MPC) | Podcast/YouTube | Cold calling + sequencing | Mid-market/Enterprise |
-| Jason Bay | LinkedIn/YouTube | Signal-based personalization | SMB-Midmarket ex Berman | YouTube | Cold email volume + 3C | SMB/SaaS startups |
-| Jack Reamer | Podcast/LinkedIn | LinkedIn+email combined | SMB-Midmarket |
+| Jason Bay | LinkedIn/YouTube | Signal-based personalization | SMB-Midmarket |
+| Alex Berman | YouTube | Cold email volume + 3C | SMB/SaaS startups |
+| Jack Reamer | Podcast/LinkedIn | LinkedIn + email combined | SMB-Midmarket |
 | Belal Batrawy | LinkedIn/Newsletter | Pattern interrupt | All tiers |
 | Nick Abraham | LinkedIn | Performance-based pipeline | SMB-Midmarket |
 | Jeremy Chatelaine | Podcast/Blog | Email mechanics/deliverability | All tiers |
 | Vin Matano | LinkedIn/Multi | Buyer-side perspective | SMB-Midmarket |
 | Jen Allen-Knuth | LinkedIn | Enterprise multi-threading | Enterprise |
-| Vincent Fourcade (ColdIQ) | YouTube/Blog | AI+Clay outbound systems | Mid-market/Enterprise |
+| Vincent Fourcade (ColdIQ) | YouTube/Blog | AI + Clay outbound systems | Mid-market/Enterprise |
+"""
+
+open("research/sources.md", "w").write(sources.strip())
+print("OK: sources.md")
+
+# ============================================================
