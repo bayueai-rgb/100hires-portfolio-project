@@ -41,3 +41,10 @@ Bayu Poetra Ramadhan — Growth and Demand Generation — Jakarta
 bayupoetrar@gmail.com
 ### Personal Connection
 As a Growth/Demand Generation practitioner at SawitPRO, I have built outbound pipelines across diverse APAC markets. Cold outreach is the most direct lever for qualified pipeline — a skill I use daily. This research allowed me to systematically study the top 1% of practitioners and synthesize their battle-tested frameworks into one actionable reference.
+
+## Why These Experts
+I intentionally avoided generic LinkedIn influencers. Every expert on this list:
+- Actively runs cold outreach campaigns today (not just teaches it)
+- Shares real data, frameworks, and scripts from their own work
+- Covers the full cold outreach spectrum: cold calling (30MPC), cold email (Alex Berman), LinkedIn + email multi-channel (Jack Reamer), AI-powered outbound (ColdIQ), and enterprise multi-threading (Jen Allen-Knuth)
+- Together they provide a comprehensive, actionable playbook for building a modern cold outreach pipeline.
