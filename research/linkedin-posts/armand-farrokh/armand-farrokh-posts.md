@@ -1,6 +1,6 @@
 # LinkedIn Posts - Armand Farrokh
 Role: Co-founder 30MPC, Former VP Sales
-LinkedIn: https://www.linkedin.com/in/armandfarrokh/
+LinkedIn: https://www.linkedin.com/in/armand-farrokh/
 Collected: 2026-06-17
 
 ---
