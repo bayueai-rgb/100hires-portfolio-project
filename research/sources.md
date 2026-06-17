@@ -93,4 +93,4 @@ Selected by cross-referencing practitioner output (live campaigns, documented re
 | Vin Matano | LinkedIn/Multi | Buyer-side perspective | SMB-Midmarket |
 | Jen Allen-Knuth | LinkedIn | Enterprise multi-threading | Enterprise |
 | Vincent Fourcade (ColdIQ) | YouTube/Blog | AI + Clay outbound systems | Mid-market/Enterprise |
-"""
+
