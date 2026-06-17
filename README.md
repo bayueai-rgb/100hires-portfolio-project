@@ -25,8 +25,6 @@ My experience building $5M+ GMV pipelines in Indonesia's fragmented agricultural
 ---
 
 ## Repository Structure
-
-```text
 /research/
 ├── sources.md ← 10 curated experts with full annotations
 ├── linkedin-posts/ ← Posts per author (collected via Apify API)
@@ -48,14 +46,12 @@ My experience building $5M+ GMV pipelines in Indonesia's fragmented agricultural
 │   ├── nick-abraham/
 │   └── jen-allen-knuth/
 └── other/
-    └── playbook-outline.md ← Synthesis of all frameworks into actionable pipeline
-
+└── playbook-outline.md ← Synthesis of all frameworks into actionable pipeline
 fetch_linkedin_posts.py ← Apify API scraper for LinkedIn posts
 fetch_transcripts.py ← yt-dlp script for YouTube metadata
 SETUP.md ← Step-by-step setup guide
 README.md ← This file
-` ``` `
-
+plain
 
 ---
 
@@ -63,7 +59,7 @@ README.md ← This file
 
 | # | Expert | Channel | Angle | ICP Tier |
 |---|--------|---------|-------|----------|
-| 1 | Armand Farrokh & Nick Cegelski (30MPC) | Podcast/YouTube | Cold calling + sequencing | Mid-market/Enterprise |
+| 1 | Armand & Nick (30MPC) | Podcast/YouTube | Cold calling + sequencing | Mid-market/Enterprise |
 | 2 | Jason Bay (Outbound Squad) | LinkedIn/YouTube | Signal-based personalization | SMB-Midmarket |
 | 3 | Alex Berman (Galadon Gold) | YouTube | Cold email volume, 3C Framework | SMB/SaaS startups |
 | 4 | Jack Reamer (SalesBread) | Podcast/LinkedIn | LinkedIn + email combined | SMB-Midmarket |
@@ -75,8 +71,6 @@ README.md ← This file
 | 10 | Vincent Fourcade (ColdIQ) | YouTube/Blog | AI + Clay outbound systems | Mid-market/Enterprise |
 
 Full annotations and framework breakdowns: `/research/sources.md`
-```
-
 
 ---
 
