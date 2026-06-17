@@ -1,0 +1,9 @@
+# Transcript / Metadata: 30MPC Cold Calling Framework
+Source: https://www.youtube.com/watch?v=lIZ_RMm4dQ0
+Note: Transcript could not be automatically fetched. Using metadata fallback.
+
+Key topics from video (based on title + known content from 30MPC):
+- Golden Path framework
+- Permission-Based Openers
+- Trigger-based sequencing
+- Why cold calling still works in 2025-2026
