@@ -1,0 +1,6 @@
+{
+  "error": {
+    "type": "invalid-value",
+    "message": "Property \"query.clean\" must be one of \"boolean | 0 | 1 | '0' | '1' | 'true' | 'false'\"!"
+  }
+}
