@@ -1,0 +1,6745 @@
+1
+00:00:00,000 --> 00:00:02,090
+
+what's up everybody today we have Nick
+
+2
+00:00:02,090 --> 00:00:02,100
+what's up everybody today we have Nick
+ 
+
+3
+00:00:02,100 --> 00:00:03,949
+what's up everybody today we have Nick
+joining the channel to talk a bit about
+
+4
+00:00:03,949 --> 00:00:03,959
+joining the channel to talk a bit about
+ 
+
+5
+00:00:03,959 --> 00:00:06,470
+joining the channel to talk a bit about
+his journey growing leadbird Nick thanks
+
+6
+00:00:06,470 --> 00:00:06,480
+his journey growing leadbird Nick thanks
+ 
+
+7
+00:00:06,480 --> 00:00:07,550
+his journey growing leadbird Nick thanks
+for coming on
+
+8
+00:00:07,550 --> 00:00:07,560
+for coming on
+ 
+
+9
+00:00:07,560 --> 00:00:09,290
+for coming on
+thanks for having me I'm super excited
+
+10
+00:00:09,290 --> 00:00:09,300
+thanks for having me I'm super excited
+ 
+
+11
+00:00:09,300 --> 00:00:11,750
+thanks for having me I'm super excited
+awesome well sweet so to start out
+
+12
+00:00:11,750 --> 00:00:11,760
+awesome well sweet so to start out
+ 
+
+13
+00:00:11,760 --> 00:00:13,370
+awesome well sweet so to start out
+obviously I mentioned Lee bird but I
+
+14
+00:00:13,370 --> 00:00:13,380
+obviously I mentioned Lee bird but I
+ 
+
+15
+00:00:13,380 --> 00:00:14,450
+obviously I mentioned Lee bird but I
+know you're a man who does many
+
+16
+00:00:14,450 --> 00:00:14,460
+know you're a man who does many
+ 
+
+17
+00:00:14,460 --> 00:00:16,730
+know you're a man who does many
+different things in terms of software
+
+18
+00:00:16,730 --> 00:00:16,740
+different things in terms of software
+ 
+
+19
+00:00:16,740 --> 00:00:19,189
+different things in terms of software
+and agency so if you're when someone
+
+20
+00:00:19,189 --> 00:00:19,199
+and agency so if you're when someone
+ 
+
+21
+00:00:19,199 --> 00:00:20,810
+and agency so if you're when someone
+asks you what do you do how do you
+
+22
+00:00:20,810 --> 00:00:20,820
+asks you what do you do how do you
+ 
+
+23
+00:00:20,820 --> 00:00:22,370
+asks you what do you do how do you
+summarize that down to your couple
+
+24
+00:00:22,370 --> 00:00:22,380
+summarize that down to your couple
+ 
+
+25
+00:00:22,380 --> 00:00:24,050
+summarize that down to your couple
+second Pitch
+
+26
+00:00:24,050 --> 00:00:24,060
+second Pitch
+ 
+
+27
+00:00:24,060 --> 00:00:26,870
+second Pitch
+so it's it's funny whenever like what I
+
+28
+00:00:26,870 --> 00:00:26,880
+so it's it's funny whenever like what I
+ 
+
+29
+00:00:26,880 --> 00:00:28,250
+so it's it's funny whenever like what I
+say is like a normal friend that kind of
+
+30
+00:00:28,250 --> 00:00:28,260
+say is like a normal friend that kind of
+ 
+
+31
+00:00:28,260 --> 00:00:29,509
+say is like a normal friend that kind of
+is going through college like ask me
+
+32
+00:00:29,509 --> 00:00:29,519
+is going through college like ask me
+ 
+
+33
+00:00:29,519 --> 00:00:32,870
+is going through college like ask me
+what I do I just say I run a couple I
+
+34
+00:00:32,870 --> 00:00:32,880
+what I do I just say I run a couple I
+ 
+
+35
+00:00:32,880 --> 00:00:34,190
+what I do I just say I run a couple I
+run a couple of computer software
+
+36
+00:00:34,190 --> 00:00:34,200
+run a couple of computer software
+ 
+
+37
+00:00:34,200 --> 00:00:36,110
+run a couple of computer software
+companies because if I say SAS to them
+
+38
+00:00:36,110 --> 00:00:36,120
+companies because if I say SAS to them
+ 
+
+39
+00:00:36,120 --> 00:00:37,610
+companies because if I say SAS to them
+they never know what that means or what
+
+40
+00:00:37,610 --> 00:00:37,620
+they never know what that means or what
+ 
+
+41
+00:00:37,620 --> 00:00:39,110
+they never know what that means or what
+that is
+
+42
+00:00:39,110 --> 00:00:39,120
+that is
+ 
+
+43
+00:00:39,120 --> 00:00:41,150
+that is
+um and so for everyone else that's
+
+44
+00:00:41,150 --> 00:00:41,160
+um and so for everyone else that's
+ 
+
+45
+00:00:41,160 --> 00:00:42,770
+um and so for everyone else that's
+probably watching this and you know it's
+
+46
+00:00:42,770 --> 00:00:42,780
+probably watching this and you know it's
+ 
+
+47
+00:00:42,780 --> 00:00:44,510
+probably watching this and you know it's
+actually you know intelligent with this
+
+48
+00:00:44,510 --> 00:00:44,520
+actually you know intelligent with this
+ 
+
+49
+00:00:44,520 --> 00:00:45,470
+actually you know intelligent with this
+stuff
+
+50
+00:00:45,470 --> 00:00:45,480
+stuff
+ 
+
+51
+00:00:45,480 --> 00:00:47,869
+stuff
+um I run quick lines which is a AI
+
+52
+00:00:47,869 --> 00:00:47,879
+um I run quick lines which is a AI
+ 
+
+53
+00:00:47,879 --> 00:00:49,790
+um I run quick lines which is a AI
+personalization tool I run Libra which
+
+54
+00:00:49,790 --> 00:00:49,800
+personalization tool I run Libra which
+ 
+
+55
+00:00:49,800 --> 00:00:52,190
+personalization tool I run Libra which
+is the p2b lead generation agency I'm
+
+56
+00:00:52,190 --> 00:00:52,200
+is the p2b lead generation agency I'm
+ 
+
+57
+00:00:52,200 --> 00:00:54,110
+is the p2b lead generation agency I'm
+also a partner at inboxy which does
+
+58
+00:00:54,110 --> 00:00:54,120
+also a partner at inboxy which does
+ 
+
+59
+00:00:54,120 --> 00:00:55,850
+also a partner at inboxy which does
+email warming Emmy that does email
+
+60
+00:00:55,850 --> 00:00:55,860
+email warming Emmy that does email
+ 
+
+61
+00:00:55,860 --> 00:00:58,490
+email warming Emmy that does email
+sending and scrubby that does catch-all
+
+62
+00:00:58,490 --> 00:00:58,500
+sending and scrubby that does catch-all
+ 
+
+63
+00:00:58,500 --> 00:01:00,650
+sending and scrubby that does catch-all
+email verification and golden leads that
+
+64
+00:01:00,650 --> 00:01:00,660
+email verification and golden leads that
+ 
+
+65
+00:01:00,660 --> 00:01:02,990
+email verification and golden leads that
+does LinkedIn lead scraping but you know
+
+66
+00:01:02,990 --> 00:01:03,000
+does LinkedIn lead scraping but you know
+ 
+
+67
+00:01:03,000 --> 00:01:04,490
+does LinkedIn lead scraping but you know
+they all kind of work together they're
+
+68
+00:01:04,490 --> 00:01:04,500
+they all kind of work together they're
+ 
+
+69
+00:01:04,500 --> 00:01:06,170
+they all kind of work together they're
+all what's the word vertically
+
+70
+00:01:06,170 --> 00:01:06,180
+all what's the word vertically
+ 
+
+71
+00:01:06,180 --> 00:01:09,050
+all what's the word vertically
+integrated with what we do at leaper but
+
+72
+00:01:09,050 --> 00:01:09,060
+integrated with what we do at leaper but
+ 
+
+73
+00:01:09,060 --> 00:01:10,850
+integrated with what we do at leaper but
+the primary focus for the last three to
+
+74
+00:01:10,850 --> 00:01:10,860
+the primary focus for the last three to
+ 
+
+75
+00:01:10,860 --> 00:01:13,490
+the primary focus for the last three to
+six months has been the agency just
+
+76
+00:01:13,490 --> 00:01:13,500
+six months has been the agency just
+ 
+
+77
+00:01:13,500 --> 00:01:15,469
+six months has been the agency just
+because I enjoy it the most and that's
+
+78
+00:01:15,469 --> 00:01:15,479
+because I enjoy it the most and that's
+ 
+
+79
+00:01:15,479 --> 00:01:17,210
+because I enjoy it the most and that's
+obviously a lot of things that I'm I'm
+
+80
+00:01:17,210 --> 00:01:17,220
+obviously a lot of things that I'm I'm
+ 
+
+81
+00:01:17,220 --> 00:01:19,250
+obviously a lot of things that I'm I'm
+curious what is the first one that you
+
+82
+00:01:19,250 --> 00:01:19,260
+curious what is the first one that you
+ 
+
+83
+00:01:19,260 --> 00:01:21,890
+curious what is the first one that you
+started and when was that started yeah
+
+84
+00:01:21,890 --> 00:01:21,900
+started and when was that started yeah
+ 
+
+85
+00:01:21,900 --> 00:01:23,929
+started and when was that started yeah
+so the first one was Lee bird uh funny
+
+86
+00:01:23,929 --> 00:01:23,939
+so the first one was Lee bird uh funny
+ 
+
+87
+00:01:23,939 --> 00:01:25,850
+so the first one was Lee bird uh funny
+enough so I started that almost three
+
+88
+00:01:25,850 --> 00:01:25,860
+enough so I started that almost three
+ 
+
+89
+00:01:25,860 --> 00:01:27,950
+enough so I started that almost three
+years ago now and then everything kind
+
+90
+00:01:27,950 --> 00:01:27,960
+years ago now and then everything kind
+ 
+
+91
+00:01:27,960 --> 00:01:29,390
+years ago now and then everything kind
+of came from like what we were doing
+
+92
+00:01:29,390 --> 00:01:29,400
+of came from like what we were doing
+ 
+
+93
+00:01:29,400 --> 00:01:31,370
+of came from like what we were doing
+manually at leadbird so you know
+
+94
+00:01:31,370 --> 00:01:31,380
+manually at leadbird so you know
+ 
+
+95
+00:01:31,380 --> 00:01:32,929
+manually at leadbird so you know
+obviously we had first line Riders when
+
+96
+00:01:32,929 --> 00:01:32,939
+obviously we had first line Riders when
+ 
+
+97
+00:01:32,939 --> 00:01:34,490
+obviously we had first line Riders when
+we first started and so I was like all
+
+98
+00:01:34,490 --> 00:01:34,500
+we first started and so I was like all
+ 
+
+99
+00:01:34,500 --> 00:01:36,350
+we first started and so I was like all
+right let's spin up quick lines
+
+100
+00:01:36,350 --> 00:01:36,360
+right let's spin up quick lines
+ 
+
+101
+00:01:36,360 --> 00:01:38,149
+right let's spin up quick lines
+um and then like we used to manually
+
+102
+00:01:38,149 --> 00:01:38,159
+um and then like we used to manually
+ 
+
+103
+00:01:38,159 --> 00:01:40,670
+um and then like we used to manually
+send to verify catch-alls using chemo
+
+104
+00:01:40,670 --> 00:01:40,680
+send to verify catch-alls using chemo
+ 
+
+105
+00:01:40,680 --> 00:01:42,050
+send to verify catch-alls using chemo
+accounts and I was like oh we could
+
+106
+00:01:42,050 --> 00:01:42,060
+accounts and I was like oh we could
+ 
+
+107
+00:01:42,060 --> 00:01:43,310
+accounts and I was like oh we could
+automate this let's do scrubby so
+
+108
+00:01:43,310 --> 00:01:43,320
+automate this let's do scrubby so
+ 
+
+109
+00:01:43,320 --> 00:01:44,990
+automate this let's do scrubby so
+everything kind of came from the needs
+
+110
+00:01:44,990 --> 00:01:45,000
+everything kind of came from the needs
+ 
+
+111
+00:01:45,000 --> 00:01:46,870
+everything kind of came from the needs
+at Lee bird and I think
+
+112
+00:01:46,870 --> 00:01:46,880
+at Lee bird and I think
+ 
+
+113
+00:01:46,880 --> 00:01:49,490
+at Lee bird and I think
+what happened was you know running weed
+
+114
+00:01:49,490 --> 00:01:49,500
+what happened was you know running weed
+ 
+
+115
+00:01:49,500 --> 00:01:50,810
+what happened was you know running weed
+bird I was like you know got the the
+
+116
+00:01:50,810 --> 00:01:50,820
+bird I was like you know got the the
+ 
+
+117
+00:01:50,820 --> 00:01:53,149
+bird I was like you know got the the
+shiny object syndrome was like oh SAS is
+
+118
+00:01:53,149 --> 00:01:53,159
+shiny object syndrome was like oh SAS is
+ 
+
+119
+00:01:53,159 --> 00:01:55,130
+shiny object syndrome was like oh SAS is
+the next play SAS is the next day then I
+
+120
+00:01:55,130 --> 00:01:55,140
+the next play SAS is the next day then I
+ 
+
+121
+00:01:55,140 --> 00:01:57,830
+the next play SAS is the next day then I
+realized SAS is extremely difficult it's
+
+122
+00:01:57,830 --> 00:01:57,840
+realized SAS is extremely difficult it's
+ 
+
+123
+00:01:57,840 --> 00:01:59,569
+realized SAS is extremely difficult it's
+not as easy and as glamorous as everyone
+
+124
+00:01:59,569 --> 00:01:59,579
+not as easy and as glamorous as everyone
+ 
+
+125
+00:01:59,579 --> 00:02:02,630
+not as easy and as glamorous as everyone
+makes it seem to be and you know worked
+
+126
+00:02:02,630 --> 00:02:02,640
+makes it seem to be and you know worked
+ 
+
+127
+00:02:02,640 --> 00:02:04,010
+makes it seem to be and you know worked
+on it as much as I could and still
+
+128
+00:02:04,010 --> 00:02:04,020
+on it as much as I could and still
+ 
+
+129
+00:02:04,020 --> 00:02:05,209
+on it as much as I could and still
+working on it right now but then I
+
+130
+00:02:05,209 --> 00:02:05,219
+working on it right now but then I
+ 
+
+131
+00:02:05,219 --> 00:02:07,249
+working on it right now but then I
+realized that I'm much better and built
+
+132
+00:02:07,249 --> 00:02:07,259
+realized that I'm much better and built
+ 
+
+133
+00:02:07,259 --> 00:02:10,550
+realized that I'm much better and built
+for an agency and and you know I I think
+
+134
+00:02:10,550 --> 00:02:10,560
+for an agency and and you know I I think
+ 
+
+135
+00:02:10,560 --> 00:02:12,830
+for an agency and and you know I I think
+I'm I'm very skilled at it and and so
+
+136
+00:02:12,830 --> 00:02:12,840
+I'm I'm very skilled at it and and so
+ 
+
+137
+00:02:12,840 --> 00:02:13,970
+I'm I'm very skilled at it and and so
+it's it's one of those things where I
+
+138
+00:02:13,970 --> 00:02:13,980
+it's it's one of those things where I
+ 
+
+139
+00:02:13,980 --> 00:02:15,229
+it's it's one of those things where I
+just enjoy doing it more because it's
+
+140
+00:02:15,229 --> 00:02:15,239
+just enjoy doing it more because it's
+ 
+
+141
+00:02:15,239 --> 00:02:18,229
+just enjoy doing it more because it's
+easier to be competitive and dominate
+
+142
+00:02:18,229 --> 00:02:18,239
+easier to be competitive and dominate
+ 
+
+143
+00:02:18,239 --> 00:02:20,449
+easier to be competitive and dominate
+that makes sense but that's cool and one
+
+144
+00:02:20,449 --> 00:02:20,459
+that makes sense but that's cool and one
+ 
+
+145
+00:02:20,459 --> 00:02:23,030
+that makes sense but that's cool and one
+one question to jump into here is a lot
+
+146
+00:02:23,030 --> 00:02:23,040
+one question to jump into here is a lot
+ 
+
+147
+00:02:23,040 --> 00:02:24,650
+one question to jump into here is a lot
+of people start agencies and it takes
+
+148
+00:02:24,650 --> 00:02:24,660
+of people start agencies and it takes
+ 
+
+149
+00:02:24,660 --> 00:02:26,930
+of people start agencies and it takes
+them one year to get the first client it
+
+150
+00:02:26,930 --> 00:02:26,940
+them one year to get the first client it
+ 
+
+151
+00:02:26,940 --> 00:02:28,670
+them one year to get the first client it
+takes them two years to get a couple it
+
+152
+00:02:28,670 --> 00:02:28,680
+takes them two years to get a couple it
+ 
+
+153
+00:02:28,680 --> 00:02:29,990
+takes them two years to get a couple it
+takes them three years to get 10K a
+
+154
+00:02:29,990 --> 00:02:30,000
+takes them three years to get 10K a
+ 
+
+155
+00:02:30,000 --> 00:02:31,490
+takes them three years to get 10K a
+month like that's a pretty difficult
+
+156
+00:02:31,490 --> 00:02:31,500
+month like that's a pretty difficult
+ 
+
+157
+00:02:31,500 --> 00:02:32,930
+month like that's a pretty difficult
+time frame
+
+158
+00:02:32,930 --> 00:02:32,940
+time frame
+ 
+
+159
+00:02:32,940 --> 00:02:34,850
+time frame
+um I I don't know how open you are in
+
+160
+00:02:34,850 --> 00:02:34,860
+um I I don't know how open you are in
+ 
+
+161
+00:02:34,860 --> 00:02:35,930
+um I I don't know how open you are in
+Revenue numbers but you're obviously
+
+162
+00:02:35,930 --> 00:02:35,940
+Revenue numbers but you're obviously
+ 
+
+163
+00:02:35,940 --> 00:02:38,809
+Revenue numbers but you're obviously
+doing very well lead bird what would you
+
+164
+00:02:38,809 --> 00:02:38,819
+doing very well lead bird what would you
+ 
+
+165
+00:02:38,819 --> 00:02:40,309
+doing very well lead bird what would you
+say is one of your differentiators
+
+166
+00:02:40,309 --> 00:02:40,319
+say is one of your differentiators
+ 
+
+167
+00:02:40,319 --> 00:02:43,130
+say is one of your differentiators
+looking at other people that have spent
+
+168
+00:02:43,130 --> 00:02:43,140
+looking at other people that have spent
+ 
+
+169
+00:02:43,140 --> 00:02:45,410
+looking at other people that have spent
+three years spinning reels or maybe just
+
+170
+00:02:45,410 --> 00:02:45,420
+three years spinning reels or maybe just
+ 
+
+171
+00:02:45,420 --> 00:02:46,610
+three years spinning reels or maybe just
+getting to the point where they're like
+
+172
+00:02:46,610 --> 00:02:46,620
+getting to the point where they're like
+ 
+
+173
+00:02:46,620 --> 00:02:48,290
+getting to the point where they're like
+a highly paid freelancer where you have
+
+174
+00:02:48,290 --> 00:02:48,300
+a highly paid freelancer where you have
+ 
+
+175
+00:02:48,300 --> 00:02:51,050
+a highly paid freelancer where you have
+a legitimate agency if real market value
+
+176
+00:02:51,050 --> 00:02:51,060
+a legitimate agency if real market value
+ 
+
+177
+00:02:51,060 --> 00:02:55,009
+a legitimate agency if real market value
+yeah so I think what the the
+
+178
+00:02:55,009 --> 00:02:55,019
+yeah so I think what the the
+ 
+
+179
+00:02:55,019 --> 00:02:57,589
+yeah so I think what the the
+turn was for us because the sales was
+
+180
+00:02:57,589 --> 00:02:57,599
+turn was for us because the sales was
+ 
+
+181
+00:02:57,599 --> 00:03:00,410
+turn was for us because the sales was
+hard for me but extremely hard you know
+
+182
+00:03:00,410 --> 00:03:00,420
+hard for me but extremely hard you know
+ 
+
+183
+00:03:00,420 --> 00:03:02,570
+hard for me but extremely hard you know
+um what made it so much easier and this
+
+184
+00:03:02,570 --> 00:03:02,580
+um what made it so much easier and this
+ 
+
+185
+00:03:02,580 --> 00:03:03,949
+um what made it so much easier and this
+is something that really kind of picked
+
+186
+00:03:03,949 --> 00:03:03,959
+is something that really kind of picked
+ 
+
+187
+00:03:03,959 --> 00:03:05,210
+is something that really kind of picked
+up in the last
+
+188
+00:03:05,210 --> 00:03:05,220
+up in the last
+ 
+
+189
+00:03:05,220 --> 00:03:08,630
+up in the last
+three months is just social proof
+
+190
+00:03:08,630 --> 00:03:08,640
+three months is just social proof
+ 
+
+191
+00:03:08,640 --> 00:03:10,970
+three months is just social proof
+um and so you know working with clients
+
+192
+00:03:10,970 --> 00:03:10,980
+um and so you know working with clients
+ 
+
+193
+00:03:10,980 --> 00:03:12,589
+um and so you know working with clients
+and getting the really good results
+
+194
+00:03:12,589 --> 00:03:12,599
+and getting the really good results
+ 
+
+195
+00:03:12,599 --> 00:03:15,050
+and getting the really good results
+getting them on a interview with you
+
+196
+00:03:15,050 --> 00:03:15,060
+getting them on a interview with you
+ 
+
+197
+00:03:15,060 --> 00:03:16,430
+getting them on a interview with you
+just like this speaking about their
+
+198
+00:03:16,430 --> 00:03:16,440
+just like this speaking about their
+ 
+
+199
+00:03:16,440 --> 00:03:17,990
+just like this speaking about their
+results getting them to write a G2
+
+200
+00:03:17,990 --> 00:03:18,000
+results getting them to write a G2
+ 
+
+201
+00:03:18,000 --> 00:03:19,729
+results getting them to write a G2
+review and then putting that on your
+
+202
+00:03:19,729 --> 00:03:19,739
+review and then putting that on your
+ 
+
+203
+00:03:19,739 --> 00:03:21,470
+review and then putting that on your
+LinkedIn company page putting that on
+
+204
+00:03:21,470 --> 00:03:21,480
+LinkedIn company page putting that on
+ 
+
+205
+00:03:21,480 --> 00:03:24,350
+LinkedIn company page putting that on
+your website you know just doing all
+
+206
+00:03:24,350 --> 00:03:24,360
+your website you know just doing all
+ 
+
+207
+00:03:24,360 --> 00:03:26,330
+your website you know just doing all
+those kind of things just makes the
+
+208
+00:03:26,330 --> 00:03:26,340
+those kind of things just makes the
+ 
+
+209
+00:03:26,340 --> 00:03:27,890
+those kind of things just makes the
+sales process so much easier because
+
+210
+00:03:27,890 --> 00:03:27,900
+sales process so much easier because
+ 
+
+211
+00:03:27,900 --> 00:03:30,649
+sales process so much easier because
+like you know I have 15 video
+
+212
+00:03:30,649 --> 00:03:30,659
+like you know I have 15 video
+ 
+
+213
+00:03:30,659 --> 00:03:32,750
+like you know I have 15 video
+testimonials on my site and I know you
+
+214
+00:03:32,750 --> 00:03:32,760
+testimonials on my site and I know you
+ 
+
+215
+00:03:32,760 --> 00:03:35,030
+testimonials on my site and I know you
+guys crushed on that too right and I
+
+216
+00:03:35,030 --> 00:03:35,040
+guys crushed on that too right and I
+ 
+
+217
+00:03:35,040 --> 00:03:38,270
+guys crushed on that too right and I
+have a 5 out of 5 stars on G2 and I have
+
+218
+00:03:38,270 --> 00:03:38,280
+have a 5 out of 5 stars on G2 and I have
+ 
+
+219
+00:03:38,280 --> 00:03:39,710
+have a 5 out of 5 stars on G2 and I have
+this all documented everywhere and you
+
+220
+00:03:39,710 --> 00:03:39,720
+this all documented everywhere and you
+ 
+
+221
+00:03:39,720 --> 00:03:41,509
+this all documented everywhere and you
+get on a sales call with me like and I
+
+222
+00:03:41,509 --> 00:03:41,519
+get on a sales call with me like and I
+ 
+
+223
+00:03:41,519 --> 00:03:42,890
+get on a sales call with me like and I
+say hey I'm gonna deliver leads for you
+
+224
+00:03:42,890 --> 00:03:42,900
+say hey I'm gonna deliver leads for you
+ 
+
+225
+00:03:42,900 --> 00:03:44,930
+say hey I'm gonna deliver leads for you
+on performance basis like who's gonna
+
+226
+00:03:44,930 --> 00:03:44,940
+on performance basis like who's gonna
+ 
+
+227
+00:03:44,940 --> 00:03:46,910
+on performance basis like who's gonna
+say no to that offer you know like who's
+
+228
+00:03:46,910 --> 00:03:46,920
+say no to that offer you know like who's
+ 
+
+229
+00:03:46,920 --> 00:03:48,949
+say no to that offer you know like who's
+gonna legitimately think that oh this
+
+230
+00:03:48,949 --> 00:03:48,959
+gonna legitimately think that oh this
+ 
+
+231
+00:03:48,959 --> 00:03:50,570
+gonna legitimately think that oh this
+guy doesn't know what he's doing you
+
+232
+00:03:50,570 --> 00:03:50,580
+guy doesn't know what he's doing you
+ 
+
+233
+00:03:50,580 --> 00:03:51,410
+guy doesn't know what he's doing you
+know
+
+234
+00:03:51,410 --> 00:03:51,420
+know
+ 
+
+235
+00:03:51,420 --> 00:03:52,850
+know
+um and so it makes the sales process
+
+236
+00:03:52,850 --> 00:03:52,860
+um and so it makes the sales process
+ 
+
+237
+00:03:52,860 --> 00:03:55,130
+um and so it makes the sales process
+ridiculously easy and like I wish I
+
+238
+00:03:55,130 --> 00:03:55,140
+ridiculously easy and like I wish I
+ 
+
+239
+00:03:55,140 --> 00:03:57,110
+ridiculously easy and like I wish I
+learned that earlier on when I first
+
+240
+00:03:57,110 --> 00:03:57,120
+learned that earlier on when I first
+ 
+
+241
+00:03:57,120 --> 00:03:59,149
+learned that earlier on when I first
+started the agency because we'd be much
+
+242
+00:03:59,149 --> 00:03:59,159
+started the agency because we'd be much
+ 
+
+243
+00:03:59,159 --> 00:04:00,649
+started the agency because we'd be much
+bigger obviously so like you know if
+
+244
+00:04:00,649 --> 00:04:00,659
+bigger obviously so like you know if
+ 
+
+245
+00:04:00,659 --> 00:04:02,449
+bigger obviously so like you know if
+you're watching this like biggest thing
+
+246
+00:04:02,449 --> 00:04:02,459
+you're watching this like biggest thing
+ 
+
+247
+00:04:02,459 --> 00:04:04,430
+you're watching this like biggest thing
+I could advise you on is get those first
+
+248
+00:04:04,430 --> 00:04:04,440
+I could advise you on is get those first
+ 
+
+249
+00:04:04,440 --> 00:04:06,770
+I could advise you on is get those first
+five videos is make them actually legit
+
+250
+00:04:06,770 --> 00:04:06,780
+five videos is make them actually legit
+ 
+
+251
+00:04:06,780 --> 00:04:08,570
+five videos is make them actually legit
+don't just get your friend to shoot your
+
+252
+00:04:08,570 --> 00:04:08,580
+don't just get your friend to shoot your
+ 
+
+253
+00:04:08,580 --> 00:04:11,030
+don't just get your friend to shoot your
+video testimonial make it legit with
+
+254
+00:04:11,030 --> 00:04:11,040
+video testimonial make it legit with
+ 
+
+255
+00:04:11,040 --> 00:04:13,369
+video testimonial make it legit with
+legitimate companies and just watch your
+
+256
+00:04:13,369 --> 00:04:13,379
+legitimate companies and just watch your
+ 
+
+257
+00:04:13,379 --> 00:04:15,710
+legitimate companies and just watch your
+agency grow from there on forwarding
+
+258
+00:04:15,710 --> 00:04:15,720
+agency grow from there on forwarding
+ 
+
+259
+00:04:15,720 --> 00:04:18,890
+agency grow from there on forwarding
+I'm 100 with you on the social proof um
+
+260
+00:04:18,890 --> 00:04:18,900
+I'm 100 with you on the social proof um
+ 
+
+261
+00:04:18,900 --> 00:04:20,210
+I'm 100 with you on the social proof um
+there was a there's a post that I
+
+262
+00:04:20,210 --> 00:04:20,220
+there was a there's a post that I
+ 
+
+263
+00:04:20,220 --> 00:04:21,770
+there was a there's a post that I
+thought was interesting uh you know Alex
+
+264
+00:04:21,770 --> 00:04:21,780
+thought was interesting uh you know Alex
+ 
+
+265
+00:04:21,780 --> 00:04:25,070
+thought was interesting uh you know Alex
+Becker right yeah yeah huge fan so he uh
+
+266
+00:04:25,070 --> 00:04:25,080
+Becker right yeah yeah huge fan so he uh
+ 
+
+267
+00:04:25,080 --> 00:04:26,270
+Becker right yeah yeah huge fan so he uh
+he had posted something a couple days
+
+268
+00:04:26,270 --> 00:04:26,280
+he had posted something a couple days
+ 
+
+269
+00:04:26,280 --> 00:04:28,430
+he had posted something a couple days
+ago where it's like in 2015 with
+
+270
+00:04:28,430 --> 00:04:28,440
+ago where it's like in 2015 with
+ 
+
+271
+00:04:28,440 --> 00:04:29,810
+ago where it's like in 2015 with
+difficulty in online business because
+
+272
+00:04:29,810 --> 00:04:29,820
+difficulty in online business because
+ 
+
+273
+00:04:29,820 --> 00:04:31,010
+difficulty in online business because
+knowing what to do because no
+
+274
+00:04:31,010 --> 00:04:31,020
+knowing what to do because no
+ 
+
+275
+00:04:31,020 --> 00:04:32,150
+knowing what to do because no
+information was available because
+
+276
+00:04:32,150 --> 00:04:32,160
+information was available because
+ 
+
+277
+00:04:32,160 --> 00:04:34,129
+information was available because
+information wasn't being monetized but
+
+278
+00:04:34,129 --> 00:04:34,139
+information wasn't being monetized but
+ 
+
+279
+00:04:34,139 --> 00:04:37,129
+information wasn't being monetized but
+difficulty in 2023 is everybody has the
+
+280
+00:04:37,129 --> 00:04:37,139
+difficulty in 2023 is everybody has the
+ 
+
+281
+00:04:37,139 --> 00:04:38,270
+difficulty in 2023 is everybody has the
+same information and it's great
+
+282
+00:04:38,270 --> 00:04:38,280
+same information and it's great
+ 
+
+283
+00:04:38,280 --> 00:04:39,530
+same information and it's great
+information but there's so much
+
+284
+00:04:39,530 --> 00:04:39,540
+information but there's so much
+ 
+
+285
+00:04:39,540 --> 00:04:41,510
+information but there's so much
+competition so it's it's everything's
+
+286
+00:04:41,510 --> 00:04:41,520
+competition so it's it's everything's
+ 
+
+287
+00:04:41,520 --> 00:04:44,090
+competition so it's it's everything's
+easy to figure out now where back in the
+
+288
+00:04:44,090 --> 00:04:44,100
+easy to figure out now where back in the
+ 
+
+289
+00:04:44,100 --> 00:04:45,890
+easy to figure out now where back in the
+day it was hard to figure out but there
+
+290
+00:04:45,890 --> 00:04:45,900
+day it was hard to figure out but there
+ 
+
+291
+00:04:45,900 --> 00:04:48,110
+day it was hard to figure out but there
+was no competition so looking at
+
+292
+00:04:48,110 --> 00:04:48,120
+was no competition so looking at
+ 
+
+293
+00:04:48,120 --> 00:04:49,610
+was no competition so looking at
+everybody who's starting business I mean
+
+294
+00:04:49,610 --> 00:04:49,620
+everybody who's starting business I mean
+ 
+
+295
+00:04:49,620 --> 00:04:51,590
+everybody who's starting business I mean
+talking it's a lot of people doing lead
+
+296
+00:04:51,590 --> 00:04:51,600
+talking it's a lot of people doing lead
+ 
+
+297
+00:04:51,600 --> 00:04:53,629
+talking it's a lot of people doing lead
+generation baby lead generation
+
+298
+00:04:53,629 --> 00:04:53,639
+generation baby lead generation
+ 
+
+299
+00:04:53,639 --> 00:04:56,330
+generation baby lead generation
+um and it really you need to have that
+
+300
+00:04:56,330 --> 00:04:56,340
+um and it really you need to have that
+ 
+
+301
+00:04:56,340 --> 00:04:59,870
+um and it really you need to have that
+trust to stand out because you're not
+
+302
+00:04:59,870 --> 00:04:59,880
+trust to stand out because you're not
+ 
+
+303
+00:04:59,880 --> 00:05:01,909
+trust to stand out because you're not
+from your prospect size you're not
+
+304
+00:05:01,909 --> 00:05:01,919
+from your prospect size you're not
+ 
+
+305
+00:05:01,919 --> 00:05:03,950
+from your prospect size you're not
+special unless you're special you need
+
+306
+00:05:03,950 --> 00:05:03,960
+special unless you're special you need
+ 
+
+307
+00:05:03,960 --> 00:05:05,450
+special unless you're special you need
+to have you need to have that
+
+308
+00:05:05,450 --> 00:05:05,460
+to have you need to have that
+ 
+
+309
+00:05:05,460 --> 00:05:06,710
+to have you need to have that
+credibility you need to have that
+
+310
+00:05:06,710 --> 00:05:06,720
+credibility you need to have that
+ 
+
+311
+00:05:06,720 --> 00:05:08,810
+credibility you need to have that
+personal brand have those testimonials
+
+312
+00:05:08,810 --> 00:05:08,820
+personal brand have those testimonials
+ 
+
+313
+00:05:08,820 --> 00:05:10,070
+personal brand have those testimonials
+because likely the person you're working
+
+314
+00:05:10,070 --> 00:05:10,080
+because likely the person you're working
+ 
+
+315
+00:05:10,080 --> 00:05:11,510
+because likely the person you're working
+with is probably ripped off two or three
+
+316
+00:05:11,510 --> 00:05:11,520
+with is probably ripped off two or three
+ 
+
+317
+00:05:11,520 --> 00:05:13,670
+with is probably ripped off two or three
+times before like I'm I don't I don't
+
+318
+00:05:13,670 --> 00:05:13,680
+times before like I'm I don't I don't
+ 
+
+319
+00:05:13,680 --> 00:05:15,830
+times before like I'm I don't I don't
+know about you Nick both my clients most
+
+320
+00:05:15,830 --> 00:05:15,840
+know about you Nick both my clients most
+ 
+
+321
+00:05:15,840 --> 00:05:17,749
+know about you Nick both my clients most
+of them I'm the second or third Legion
+
+322
+00:05:17,749 --> 00:05:17,759
+of them I'm the second or third Legion
+ 
+
+323
+00:05:17,759 --> 00:05:19,010
+of them I'm the second or third Legion
+agency they've worked with is that the
+
+324
+00:05:19,010 --> 00:05:19,020
+agency they've worked with is that the
+ 
+
+325
+00:05:19,020 --> 00:05:19,909
+agency they've worked with is that the
+same for you
+
+326
+00:05:19,909 --> 00:05:19,919
+same for you
+ 
+
+327
+00:05:19,919 --> 00:05:22,370
+same for you
+yeah so you one of our biggest clients
+
+328
+00:05:22,370 --> 00:05:22,380
+yeah so you one of our biggest clients
+ 
+
+329
+00:05:22,380 --> 00:05:24,469
+yeah so you one of our biggest clients
+actually they it's probably my favorite
+
+330
+00:05:24,469 --> 00:05:24,479
+actually they it's probably my favorite
+ 
+
+331
+00:05:24,479 --> 00:05:26,270
+actually they it's probably my favorite
+video testimonial that I've ever gotten
+
+332
+00:05:26,270 --> 00:05:26,280
+video testimonial that I've ever gotten
+ 
+
+333
+00:05:26,280 --> 00:05:28,730
+video testimonial that I've ever gotten
+but yeah we were the only Legion agency
+
+334
+00:05:28,730 --> 00:05:28,740
+but yeah we were the only Legion agency
+ 
+
+335
+00:05:28,740 --> 00:05:30,230
+but yeah we were the only Legion agency
+that was able to deliver lease for them
+
+336
+00:05:30,230 --> 00:05:30,240
+that was able to deliver lease for them
+ 
+
+337
+00:05:30,240 --> 00:05:32,270
+that was able to deliver lease for them
+because they've been burnt before and it
+
+338
+00:05:32,270 --> 00:05:32,280
+because they've been burnt before and it
+ 
+
+339
+00:05:32,280 --> 00:05:34,010
+because they've been burnt before and it
+was it was it was pretty funny because
+
+340
+00:05:34,010 --> 00:05:34,020
+was it was it was pretty funny because
+ 
+
+341
+00:05:34,020 --> 00:05:34,969
+was it was it was pretty funny because
+like
+
+342
+00:05:34,969 --> 00:05:34,979
+like
+ 
+
+343
+00:05:34,979 --> 00:05:36,590
+like
+she was like the way she explained it
+
+344
+00:05:36,590 --> 00:05:36,600
+she was like the way she explained it
+ 
+
+345
+00:05:36,600 --> 00:05:38,270
+she was like the way she explained it
+was like these other Legion agencies
+
+346
+00:05:38,270 --> 00:05:38,280
+was like these other Legion agencies
+ 
+
+347
+00:05:38,280 --> 00:05:39,890
+was like these other Legion agencies
+like she gave them the lead list she
+
+348
+00:05:39,890 --> 00:05:39,900
+like she gave them the lead list she
+ 
+
+349
+00:05:39,900 --> 00:05:42,590
+like she gave them the lead list she
+gave them the copy and literally nothing
+
+350
+00:05:42,590 --> 00:05:42,600
+gave them the copy and literally nothing
+ 
+
+351
+00:05:42,600 --> 00:05:44,150
+gave them the copy and literally nothing
+came out of it you know and I was just
+
+352
+00:05:44,150 --> 00:05:44,160
+came out of it you know and I was just
+ 
+
+353
+00:05:44,160 --> 00:05:45,950
+came out of it you know and I was just
+like how's that how's that possible you
+
+354
+00:05:45,950 --> 00:05:45,960
+like how's that how's that possible you
+ 
+
+355
+00:05:45,960 --> 00:05:47,330
+like how's that how's that possible you
+know uh because she gave us the exact
+
+356
+00:05:47,330 --> 00:05:47,340
+know uh because she gave us the exact
+ 
+
+357
+00:05:47,340 --> 00:05:49,909
+know uh because she gave us the exact
+same things and we crushed it you know
+
+358
+00:05:49,909 --> 00:05:49,919
+same things and we crushed it you know
+ 
+
+359
+00:05:49,919 --> 00:05:50,990
+same things and we crushed it you know
+um and so I don't know I just thought
+
+360
+00:05:50,990 --> 00:05:51,000
+um and so I don't know I just thought
+ 
+
+361
+00:05:51,000 --> 00:05:52,310
+um and so I don't know I just thought
+that was hilarious
+
+362
+00:05:52,310 --> 00:05:52,320
+that was hilarious
+ 
+
+363
+00:05:52,320 --> 00:05:54,650
+that was hilarious
+yeah that is a pretty cool testimonial
+
+364
+00:05:54,650 --> 00:05:54,660
+yeah that is a pretty cool testimonial
+ 
+
+365
+00:05:54,660 --> 00:05:56,689
+yeah that is a pretty cool testimonial
+well one question for you too is like
+
+366
+00:05:56,689 --> 00:05:56,699
+well one question for you too is like
+ 
+
+367
+00:05:56,699 --> 00:05:57,770
+well one question for you too is like
+when I first started out in a legion
+
+368
+00:05:57,770 --> 00:05:57,780
+when I first started out in a legion
+ 
+
+369
+00:05:57,780 --> 00:06:00,409
+when I first started out in a legion
+agency I started working with smaller
+
+370
+00:06:00,409 --> 00:06:00,419
+agency I started working with smaller
+ 
+
+371
+00:06:00,419 --> 00:06:02,390
+agency I started working with smaller
+agencies who had my network is who I
+
+372
+00:06:02,390 --> 00:06:02,400
+agencies who had my network is who I
+ 
+
+373
+00:06:02,400 --> 00:06:04,430
+agencies who had my network is who I
+could sell and I learned as time went on
+
+374
+00:06:04,430 --> 00:06:04,440
+could sell and I learned as time went on
+ 
+
+375
+00:06:04,440 --> 00:06:06,170
+could sell and I learned as time went on
+but the bigger the company is the more
+
+376
+00:06:06,170 --> 00:06:06,180
+but the bigger the company is the more
+ 
+
+377
+00:06:06,180 --> 00:06:08,029
+but the bigger the company is the more
+social proof they have same as when
+
+378
+00:06:08,029 --> 00:06:08,039
+social proof they have same as when
+ 
+
+379
+00:06:08,039 --> 00:06:10,070
+social proof they have same as when
+you're selling and the more times
+
+380
+00:06:10,070 --> 00:06:10,080
+you're selling and the more times
+ 
+
+381
+00:06:10,080 --> 00:06:12,290
+you're selling and the more times
+they've sold their offer you know like
+
+382
+00:06:12,290 --> 00:06:12,300
+they've sold their offer you know like
+ 
+
+383
+00:06:12,300 --> 00:06:13,730
+they've sold their offer you know like
+for example we started with agencies
+
+384
+00:06:13,730 --> 00:06:13,740
+for example we started with agencies
+ 
+
+385
+00:06:13,740 --> 00:06:15,529
+for example we started with agencies
+that had two clients we now have some
+
+386
+00:06:15,529 --> 00:06:15,539
+that had two clients we now have some
+ 
+
+387
+00:06:15,539 --> 00:06:17,810
+that had two clients we now have some
+agencies but have up to ten thousand
+
+388
+00:06:17,810 --> 00:06:17,820
+agencies but have up to ten thousand
+ 
+
+389
+00:06:17,820 --> 00:06:20,270
+agencies but have up to ten thousand
+like some really really big companies
+
+390
+00:06:20,270 --> 00:06:20,280
+like some really really big companies
+ 
+
+391
+00:06:20,280 --> 00:06:22,249
+like some really really big companies
+I'm curious have you also found that
+
+392
+00:06:22,249 --> 00:06:22,259
+I'm curious have you also found that
+ 
+
+393
+00:06:22,259 --> 00:06:23,689
+I'm curious have you also found that
+part of your growth has been working at
+
+394
+00:06:23,689 --> 00:06:23,699
+part of your growth has been working at
+ 
+
+395
+00:06:23,699 --> 00:06:25,070
+part of your growth has been working at
+bigger companies it actually makes it
+
+396
+00:06:25,070 --> 00:06:25,080
+bigger companies it actually makes it
+ 
+
+397
+00:06:25,080 --> 00:06:26,689
+bigger companies it actually makes it
+easier to deliver results
+
+398
+00:06:26,689 --> 00:06:26,699
+easier to deliver results
+ 
+
+399
+00:06:26,699 --> 00:06:28,790
+easier to deliver results
+oh 100 I think everyone goes to that
+
+400
+00:06:28,790 --> 00:06:28,800
+oh 100 I think everyone goes to that
+ 
+
+401
+00:06:28,800 --> 00:06:31,010
+oh 100 I think everyone goes to that
+learning curve right like when you first
+
+402
+00:06:31,010 --> 00:06:31,020
+learning curve right like when you first
+ 
+
+403
+00:06:31,020 --> 00:06:32,930
+learning curve right like when you first
+start you kind of take whatever comes
+
+404
+00:06:32,930 --> 00:06:32,940
+start you kind of take whatever comes
+ 
+
+405
+00:06:32,940 --> 00:06:34,670
+start you kind of take whatever comes
+your way and you can't really what's
+
+406
+00:06:34,670 --> 00:06:34,680
+your way and you can't really what's
+ 
+
+407
+00:06:34,680 --> 00:06:35,930
+your way and you can't really what's
+that saying like Beggars can't be
+
+408
+00:06:35,930 --> 00:06:35,940
+that saying like Beggars can't be
+ 
+
+409
+00:06:35,940 --> 00:06:37,790
+that saying like Beggars can't be
+choosers or whatever it is
+
+410
+00:06:37,790 --> 00:06:37,800
+choosers or whatever it is
+ 
+
+411
+00:06:37,800 --> 00:06:39,710
+choosers or whatever it is
+um and so like you just kind of take on
+
+412
+00:06:39,710 --> 00:06:39,720
+um and so like you just kind of take on
+ 
+
+413
+00:06:39,720 --> 00:06:41,930
+um and so like you just kind of take on
+anyone and that that's not always the
+
+414
+00:06:41,930 --> 00:06:41,940
+anyone and that that's not always the
+ 
+
+415
+00:06:41,940 --> 00:06:44,450
+anyone and that that's not always the
+best thing to do and
+
+416
+00:06:44,450 --> 00:06:44,460
+best thing to do and
+ 
+
+417
+00:06:44,460 --> 00:06:46,249
+best thing to do and
+like
+
+418
+00:06:46,249 --> 00:06:46,259
+like
+ 
+
+419
+00:06:46,259 --> 00:06:47,689
+like
+I don't think people realize when it
+
+420
+00:06:47,689 --> 00:06:47,699
+I don't think people realize when it
+ 
+
+421
+00:06:47,699 --> 00:06:49,189
+I don't think people realize when it
+comes to like outbound Legion like
+
+422
+00:06:49,189 --> 00:06:49,199
+comes to like outbound Legion like
+ 
+
+423
+00:06:49,199 --> 00:06:51,170
+comes to like outbound Legion like
+having a brand and being like something
+
+424
+00:06:51,170 --> 00:06:51,180
+having a brand and being like something
+ 
+
+425
+00:06:51,180 --> 00:06:53,330
+having a brand and being like something
+where you can Google and and find
+
+426
+00:06:53,330 --> 00:06:53,340
+where you can Google and and find
+ 
+
+427
+00:06:53,340 --> 00:06:55,670
+where you can Google and and find
+relatively quickly plays such a huge
+
+428
+00:06:55,670 --> 00:06:55,680
+relatively quickly plays such a huge
+ 
+
+429
+00:06:55,680 --> 00:06:59,090
+relatively quickly plays such a huge
+impact in terms of like results like you
+
+430
+00:06:59,090 --> 00:06:59,100
+impact in terms of like results like you
+ 
+
+431
+00:06:59,100 --> 00:07:00,590
+impact in terms of like results like you
+know we still have like maybe one or two
+
+432
+00:07:00,590 --> 00:07:00,600
+know we still have like maybe one or two
+ 
+
+433
+00:07:00,600 --> 00:07:02,689
+know we still have like maybe one or two
+very small clients and we we tell and we
+
+434
+00:07:02,689 --> 00:07:02,699
+very small clients and we we tell and we
+ 
+
+435
+00:07:02,699 --> 00:07:03,950
+very small clients and we we tell and we
+like you know they don't get the best
+
+436
+00:07:03,950 --> 00:07:03,960
+like you know they don't get the best
+ 
+
+437
+00:07:03,960 --> 00:07:05,629
+like you know they don't get the best
+results and we tell them like hey like
+
+438
+00:07:05,629 --> 00:07:05,639
+results and we tell them like hey like
+ 
+
+439
+00:07:05,639 --> 00:07:07,189
+results and we tell them like hey like
+your landing page is literally just a
+
+440
+00:07:07,189 --> 00:07:07,199
+your landing page is literally just a
+ 
+
+441
+00:07:07,199 --> 00:07:09,529
+your landing page is literally just a
+logo you know like what do you what do
+
+442
+00:07:09,529 --> 00:07:09,539
+logo you know like what do you what do
+ 
+
+443
+00:07:09,539 --> 00:07:11,450
+logo you know like what do you what do
+you mean it's our fault you know and so
+
+444
+00:07:11,450 --> 00:07:11,460
+you mean it's our fault you know and so
+ 
+
+445
+00:07:11,460 --> 00:07:13,850
+you mean it's our fault you know and so
+it's like just things like that uh uh
+
+446
+00:07:13,850 --> 00:07:13,860
+it's like just things like that uh uh
+ 
+
+447
+00:07:13,860 --> 00:07:15,950
+it's like just things like that uh uh
+yeah but I definitely think that like
+
+448
+00:07:15,950 --> 00:07:15,960
+yeah but I definitely think that like
+ 
+
+449
+00:07:15,960 --> 00:07:16,969
+yeah but I definitely think that like
+you know one of the reasons why we've
+
+450
+00:07:16,969 --> 00:07:16,979
+you know one of the reasons why we've
+ 
+
+451
+00:07:16,979 --> 00:07:18,350
+you know one of the reasons why we've
+been able to grow recently is like we
+
+452
+00:07:18,350 --> 00:07:18,360
+been able to grow recently is like we
+ 
+
+453
+00:07:18,360 --> 00:07:20,089
+been able to grow recently is like we
+worked with some really good brands and
+
+454
+00:07:20,089 --> 00:07:20,099
+worked with some really good brands and
+ 
+
+455
+00:07:20,099 --> 00:07:21,529
+worked with some really good brands and
+huge companies that are like public
+
+456
+00:07:21,529 --> 00:07:21,539
+huge companies that are like public
+ 
+
+457
+00:07:21,539 --> 00:07:23,210
+huge companies that are like public
+traded and you know obviously they paid
+
+458
+00:07:23,210 --> 00:07:23,220
+traded and you know obviously they paid
+ 
+
+459
+00:07:23,220 --> 00:07:25,189
+traded and you know obviously they paid
+more and it's much easier to kind of get
+
+460
+00:07:25,189 --> 00:07:25,199
+more and it's much easier to kind of get
+ 
+
+461
+00:07:25,199 --> 00:07:27,890
+more and it's much easier to kind of get
+responses when you know you're
+
+462
+00:07:27,890 --> 00:07:27,900
+responses when you know you're
+ 
+
+463
+00:07:27,900 --> 00:07:29,510
+responses when you know you're
+hitting someone that's in their target
+
+464
+00:07:29,510 --> 00:07:29,520
+hitting someone that's in their target
+ 
+
+465
+00:07:29,520 --> 00:07:30,950
+hitting someone that's in their target
+market because they know of them already
+
+466
+00:07:30,950 --> 00:07:30,960
+market because they know of them already
+ 
+
+467
+00:07:30,960 --> 00:07:32,749
+market because they know of them already
+so it just I don't know it makes it much
+
+468
+00:07:32,749 --> 00:07:32,759
+so it just I don't know it makes it much
+ 
+
+469
+00:07:32,759 --> 00:07:35,029
+so it just I don't know it makes it much
+easier that's a really good point one of
+
+470
+00:07:35,029 --> 00:07:35,039
+easier that's a really good point one of
+ 
+
+471
+00:07:35,039 --> 00:07:36,589
+easier that's a really good point one of
+the common objections I hear to that
+
+472
+00:07:36,589 --> 00:07:36,599
+the common objections I hear to that
+ 
+
+473
+00:07:36,599 --> 00:07:38,930
+the common objections I hear to that
+point is it's so hard to land big
+
+474
+00:07:38,930 --> 00:07:38,940
+point is it's so hard to land big
+ 
+
+475
+00:07:38,940 --> 00:07:40,670
+point is it's so hard to land big
+clients which I personally have not
+
+476
+00:07:40,670 --> 00:07:40,680
+clients which I personally have not
+ 
+
+477
+00:07:40,680 --> 00:07:43,129
+clients which I personally have not
+found to be significantly more difficult
+
+478
+00:07:43,129 --> 00:07:43,139
+found to be significantly more difficult
+ 
+
+479
+00:07:43,139 --> 00:07:45,230
+found to be significantly more difficult
+have you found that or what is in your
+
+480
+00:07:45,230 --> 00:07:45,240
+have you found that or what is in your
+ 
+
+481
+00:07:45,240 --> 00:07:47,330
+have you found that or what is in your
+process to land these big sometimes
+
+482
+00:07:47,330 --> 00:07:47,340
+process to land these big sometimes
+ 
+
+483
+00:07:47,340 --> 00:07:49,129
+process to land these big sometimes
+publicly traded companies
+
+484
+00:07:49,129 --> 00:07:49,139
+publicly traded companies
+ 
+
+485
+00:07:49,139 --> 00:07:51,409
+publicly traded companies
+so what I've noticed is you know
+
+486
+00:07:51,409 --> 00:07:51,419
+so what I've noticed is you know
+ 
+
+487
+00:07:51,419 --> 00:07:53,210
+so what I've noticed is you know
+obviously the sales process takes longer
+
+488
+00:07:53,210 --> 00:07:53,220
+obviously the sales process takes longer
+ 
+
+489
+00:07:53,220 --> 00:07:56,029
+obviously the sales process takes longer
+it's not hard to close them
+
+490
+00:07:56,029 --> 00:07:56,039
+it's not hard to close them
+ 
+
+491
+00:07:56,039 --> 00:07:58,010
+it's not hard to close them
+um you kind of have to know how to
+
+492
+00:07:58,010 --> 00:07:58,020
+um you kind of have to know how to
+ 
+
+493
+00:07:58,020 --> 00:07:59,689
+um you kind of have to know how to
+structure the deals though so like
+
+494
+00:07:59,689 --> 00:07:59,699
+structure the deals though so like
+ 
+
+495
+00:07:59,699 --> 00:08:02,029
+structure the deals though so like
+obviously we do a paper lead model so
+
+496
+00:08:02,029 --> 00:08:02,039
+obviously we do a paper lead model so
+ 
+
+497
+00:08:02,039 --> 00:08:03,770
+obviously we do a paper lead model so
+you know we're Performance Based you
+
+498
+00:08:03,770 --> 00:08:03,780
+you know we're Performance Based you
+ 
+
+499
+00:08:03,780 --> 00:08:05,210
+you know we're Performance Based you
+know procurement departments they hate
+
+500
+00:08:05,210 --> 00:08:05,220
+know procurement departments they hate
+ 
+
+501
+00:08:05,220 --> 00:08:07,129
+know procurement departments they hate
+variable expenses so kind of getting a
+
+502
+00:08:07,129 --> 00:08:07,139
+variable expenses so kind of getting a
+ 
+
+503
+00:08:07,139 --> 00:08:08,450
+variable expenses so kind of getting a
+deal through the door when it's that
+
+504
+00:08:08,450 --> 00:08:08,460
+deal through the door when it's that
+ 
+
+505
+00:08:08,460 --> 00:08:11,029
+deal through the door when it's that
+model does not always work like and it's
+
+506
+00:08:11,029 --> 00:08:11,039
+model does not always work like and it's
+ 
+
+507
+00:08:11,039 --> 00:08:13,490
+model does not always work like and it's
+only going to delay things so like you
+
+508
+00:08:13,490 --> 00:08:13,500
+only going to delay things so like you
+ 
+
+509
+00:08:13,500 --> 00:08:14,689
+only going to delay things so like you
+just got to know how to structure those
+
+510
+00:08:14,689 --> 00:08:14,699
+just got to know how to structure those
+ 
+
+511
+00:08:14,699 --> 00:08:15,830
+just got to know how to structure those
+agreements
+
+512
+00:08:15,830 --> 00:08:15,840
+agreements
+ 
+
+513
+00:08:15,840 --> 00:08:17,089
+agreements
+um you know you got to be prepared to
+
+514
+00:08:17,089 --> 00:08:17,099
+um you know you got to be prepared to
+ 
+
+515
+00:08:17,099 --> 00:08:19,129
+um you know you got to be prepared to
+know that you know the sales cycle is
+
+516
+00:08:19,129 --> 00:08:19,139
+know that you know the sales cycle is
+ 
+
+517
+00:08:19,139 --> 00:08:21,230
+know that you know the sales cycle is
+going to take a long time but if you're
+
+518
+00:08:21,230 --> 00:08:21,240
+going to take a long time but if you're
+ 
+
+519
+00:08:21,240 --> 00:08:23,510
+going to take a long time but if you're
+just doing your follow-ups and just kind
+
+520
+00:08:23,510 --> 00:08:23,520
+just doing your follow-ups and just kind
+ 
+
+521
+00:08:23,520 --> 00:08:24,890
+just doing your follow-ups and just kind
+of scheduling up those emails like
+
+522
+00:08:24,890 --> 00:08:24,900
+of scheduling up those emails like
+ 
+
+523
+00:08:24,900 --> 00:08:27,110
+of scheduling up those emails like
+you're gonna get them eventually right
+
+524
+00:08:27,110 --> 00:08:27,120
+you're gonna get them eventually right
+ 
+
+525
+00:08:27,120 --> 00:08:29,270
+you're gonna get them eventually right
+and then the other thing too is just
+
+526
+00:08:29,270 --> 00:08:29,280
+and then the other thing too is just
+ 
+
+527
+00:08:29,280 --> 00:08:30,830
+and then the other thing too is just
+once again like kind of going back to
+
+528
+00:08:30,830 --> 00:08:30,840
+once again like kind of going back to
+ 
+
+529
+00:08:30,840 --> 00:08:32,449
+once again like kind of going back to
+building your brand like you know they
+
+530
+00:08:32,449 --> 00:08:32,459
+building your brand like you know they
+ 
+
+531
+00:08:32,459 --> 00:08:33,949
+building your brand like you know they
+they have to trust you because you're
+
+532
+00:08:33,949 --> 00:08:33,959
+they have to trust you because you're
+ 
+
+533
+00:08:33,959 --> 00:08:35,269
+they have to trust you because you're
+going to be having a lot of a lot of
+
+534
+00:08:35,269 --> 00:08:35,279
+going to be having a lot of a lot of
+ 
+
+535
+00:08:35,279 --> 00:08:36,949
+going to be having a lot of a lot of
+their information like for us like some
+
+536
+00:08:36,949 --> 00:08:36,959
+their information like for us like some
+ 
+
+537
+00:08:36,959 --> 00:08:38,870
+their information like for us like some
+of our clients we have every single one
+
+538
+00:08:38,870 --> 00:08:38,880
+of our clients we have every single one
+ 
+
+539
+00:08:38,880 --> 00:08:40,490
+of our clients we have every single one
+of their customers added to the DNC list
+
+540
+00:08:40,490 --> 00:08:40,500
+of their customers added to the DNC list
+ 
+
+541
+00:08:40,500 --> 00:08:41,990
+of their customers added to the DNC list
+and it's like you know they're not gonna
+
+542
+00:08:41,990 --> 00:08:42,000
+and it's like you know they're not gonna
+ 
+
+543
+00:08:42,000 --> 00:08:43,730
+and it's like you know they're not gonna
+just willingly give that to some random
+
+544
+00:08:43,730 --> 00:08:43,740
+just willingly give that to some random
+ 
+
+545
+00:08:43,740 --> 00:08:45,889
+just willingly give that to some random
+vendor they found got a cool email from
+
+546
+00:08:45,889 --> 00:08:45,899
+vendor they found got a cool email from
+ 
+
+547
+00:08:45,899 --> 00:08:47,570
+vendor they found got a cool email from
+and so they really do need to trust you
+
+548
+00:08:47,570 --> 00:08:47,580
+and so they really do need to trust you
+ 
+
+549
+00:08:47,580 --> 00:08:49,850
+and so they really do need to trust you
+but in terms of sales it's it's it's
+
+550
+00:08:49,850 --> 00:08:49,860
+but in terms of sales it's it's it's
+ 
+
+551
+00:08:49,860 --> 00:08:51,829
+but in terms of sales it's it's it's
+really just seeing if you fit into their
+
+552
+00:08:51,829 --> 00:08:51,839
+really just seeing if you fit into their
+ 
+
+553
+00:08:51,839 --> 00:08:54,230
+really just seeing if you fit into their
+budget that they have planned out and so
+
+554
+00:08:54,230 --> 00:08:54,240
+budget that they have planned out and so
+ 
+
+555
+00:08:54,240 --> 00:08:56,150
+budget that they have planned out and so
+that's that's really about it um and I
+
+556
+00:08:56,150 --> 00:08:56,160
+that's that's really about it um and I
+ 
+
+557
+00:08:56,160 --> 00:08:58,070
+that's that's really about it um and I
+think the thing is like once you land
+
+558
+00:08:58,070 --> 00:08:58,080
+think the thing is like once you land
+ 
+
+559
+00:08:58,080 --> 00:09:00,710
+think the thing is like once you land
+one of those accounts it makes it so
+
+560
+00:09:00,710 --> 00:09:00,720
+one of those accounts it makes it so
+ 
+
+561
+00:09:00,720 --> 00:09:02,870
+one of those accounts it makes it so
+easy to go get those other accounts and
+
+562
+00:09:02,870 --> 00:09:02,880
+easy to go get those other accounts and
+ 
+
+563
+00:09:02,880 --> 00:09:04,070
+easy to go get those other accounts and
+just kind of getting them on like a
+
+564
+00:09:04,070 --> 00:09:04,080
+just kind of getting them on like a
+ 
+
+565
+00:09:04,080 --> 00:09:05,750
+just kind of getting them on like a
+trial phase with you is always worth it
+
+566
+00:09:05,750 --> 00:09:05,760
+trial phase with you is always worth it
+ 
+
+567
+00:09:05,760 --> 00:09:06,949
+trial phase with you is always worth it
+like even if you're not making the most
+
+568
+00:09:06,949 --> 00:09:06,959
+like even if you're not making the most
+ 
+
+569
+00:09:06,959 --> 00:09:08,690
+like even if you're not making the most
+money out of it like you'll be able to
+
+570
+00:09:08,690 --> 00:09:08,700
+money out of it like you'll be able to
+ 
+
+571
+00:09:08,700 --> 00:09:10,190
+money out of it like you'll be able to
+actually grow those accounts like those
+
+572
+00:09:10,190 --> 00:09:10,200
+actually grow those accounts like those
+ 
+
+573
+00:09:10,200 --> 00:09:11,870
+actually grow those accounts like those
+are those are clients that are going to
+
+574
+00:09:11,870 --> 00:09:11,880
+are those are clients that are going to
+ 
+
+575
+00:09:11,880 --> 00:09:15,110
+are those are clients that are going to
+pay you you know 100 to 200k per year
+
+576
+00:09:15,110 --> 00:09:15,120
+pay you you know 100 to 200k per year
+ 
+
+577
+00:09:15,120 --> 00:09:16,790
+pay you you know 100 to 200k per year
+per quarter
+
+578
+00:09:16,790 --> 00:09:16,800
+per quarter
+ 
+
+579
+00:09:16,800 --> 00:09:19,009
+per quarter
+um and so like it's just worth it like
+
+580
+00:09:19,009 --> 00:09:19,019
+um and so like it's just worth it like
+ 
+
+581
+00:09:19,019 --> 00:09:20,329
+um and so like it's just worth it like
+if you're taking that first initial
+
+582
+00:09:20,329 --> 00:09:20,339
+if you're taking that first initial
+ 
+
+583
+00:09:20,339 --> 00:09:22,610
+if you're taking that first initial
+trial run with them at like you know
+
+584
+00:09:22,610 --> 00:09:22,620
+trial run with them at like you know
+ 
+
+585
+00:09:22,620 --> 00:09:24,170
+trial run with them at like you know
+barely profitable it just makes sense
+
+586
+00:09:24,170 --> 00:09:24,180
+barely profitable it just makes sense
+ 
+
+587
+00:09:24,180 --> 00:09:25,730
+barely profitable it just makes sense
+because like that's a company that you
+
+588
+00:09:25,730 --> 00:09:25,740
+because like that's a company that you
+ 
+
+589
+00:09:25,740 --> 00:09:27,889
+because like that's a company that you
+can grow with versus like you know like
+
+590
+00:09:27,889 --> 00:09:27,899
+can grow with versus like you know like
+ 
+
+591
+00:09:27,899 --> 00:09:29,570
+can grow with versus like you know like
+the the regular agency owner that just
+
+592
+00:09:29,570 --> 00:09:29,580
+the the regular agency owner that just
+ 
+
+593
+00:09:29,580 --> 00:09:31,190
+the the regular agency owner that just
+spawned up yesterday like
+
+594
+00:09:31,190 --> 00:09:31,200
+spawned up yesterday like
+ 
+
+595
+00:09:31,200 --> 00:09:33,230
+spawned up yesterday like
+like am I going to do performance for
+
+596
+00:09:33,230 --> 00:09:33,240
+like am I going to do performance for
+ 
+
+597
+00:09:33,240 --> 00:09:34,850
+like am I going to do performance for
+them and possibly make some money like
+
+598
+00:09:34,850 --> 00:09:34,860
+them and possibly make some money like
+ 
+
+599
+00:09:34,860 --> 00:09:35,930
+them and possibly make some money like
+I'm not going to take that chance like
+
+600
+00:09:35,930 --> 00:09:35,940
+I'm not going to take that chance like
+ 
+
+601
+00:09:35,940 --> 00:09:39,710
+I'm not going to take that chance like
+it's not worth it I I am with you I also
+
+602
+00:09:39,710 --> 00:09:39,720
+it's not worth it I I am with you I also
+ 
+
+603
+00:09:39,720 --> 00:09:41,389
+it's not worth it I I am with you I also
+don't like working at Facebook ads
+
+604
+00:09:41,389 --> 00:09:41,399
+don't like working at Facebook ads
+ 
+
+605
+00:09:41,399 --> 00:09:42,949
+don't like working at Facebook ads
+agencies with no niche in a click
+
+606
+00:09:42,949 --> 00:09:42,959
+agencies with no niche in a click
+ 
+
+607
+00:09:42,959 --> 00:09:44,990
+agencies with no niche in a click
+funnels website that has every templated
+
+608
+00:09:44,990 --> 00:09:45,000
+funnels website that has every templated
+ 
+
+609
+00:09:45,000 --> 00:09:46,550
+funnels website that has every templated
+portion they ripped off of every popular
+
+610
+00:09:46,550 --> 00:09:46,560
+portion they ripped off of every popular
+ 
+
+611
+00:09:46,560 --> 00:09:47,889
+portion they ripped off of every popular
+course
+
+612
+00:09:47,889 --> 00:09:47,899
+course
+ 
+
+613
+00:09:47,899 --> 00:09:49,730
+course
+that's my favorite what are you talking
+
+614
+00:09:49,730 --> 00:09:49,740
+that's my favorite what are you talking
+ 
+
+615
+00:09:49,740 --> 00:09:53,090
+that's my favorite what are you talking
+about I uh I I say stuff like that
+
+616
+00:09:53,090 --> 00:09:53,100
+about I uh I I say stuff like that
+ 
+
+617
+00:09:53,100 --> 00:09:54,769
+about I uh I I say stuff like that
+sometimes I think maybe it comes off as
+
+618
+00:09:54,769 --> 00:09:54,779
+sometimes I think maybe it comes off as
+ 
+
+619
+00:09:54,779 --> 00:09:56,690
+sometimes I think maybe it comes off as
+mean it's not mean because I was that
+
+620
+00:09:56,690 --> 00:09:56,700
+mean it's not mean because I was that
+ 
+
+621
+00:09:56,700 --> 00:09:58,070
+mean it's not mean because I was that
+same person when I first started it's
+
+622
+00:09:58,070 --> 00:09:58,080
+same person when I first started it's
+ 
+
+623
+00:09:58,080 --> 00:10:00,290
+same person when I first started it's
+just it's ambitious ignorance which I
+
+624
+00:10:00,290 --> 00:10:00,300
+just it's ambitious ignorance which I
+ 
+
+625
+00:10:00,300 --> 00:10:02,389
+just it's ambitious ignorance which I
+can appreciate but there there is you
+
+626
+00:10:02,389 --> 00:10:02,399
+can appreciate but there there is you
+ 
+
+627
+00:10:02,399 --> 00:10:04,430
+can appreciate but there there is you
+know like one thing I've noticed is all
+
+628
+00:10:04,430 --> 00:10:04,440
+know like one thing I've noticed is all
+ 
+
+629
+00:10:04,440 --> 00:10:05,810
+know like one thing I've noticed is all
+our best clients have a phone number on
+
+630
+00:10:05,810 --> 00:10:05,820
+our best clients have a phone number on
+ 
+
+631
+00:10:05,820 --> 00:10:07,250
+our best clients have a phone number on
+the website like having a phone number
+
+632
+00:10:07,250 --> 00:10:07,260
+the website like having a phone number
+ 
+
+633
+00:10:07,260 --> 00:10:08,690
+the website like having a phone number
+on the website means you have to budget
+
+634
+00:10:08,690 --> 00:10:08,700
+on the website means you have to budget
+ 
+
+635
+00:10:08,700 --> 00:10:11,030
+on the website means you have to budget
+to have someone to answer the phone yeah
+
+636
+00:10:11,030 --> 00:10:11,040
+to have someone to answer the phone yeah
+ 
+
+637
+00:10:11,040 --> 00:10:14,090
+to have someone to answer the phone yeah
+yeah 100 that's a great point and
+
+638
+00:10:14,090 --> 00:10:14,100
+yeah 100 that's a great point and
+ 
+
+639
+00:10:14,100 --> 00:10:15,650
+yeah 100 that's a great point and
+ironically we don't have a phone number
+
+640
+00:10:15,650 --> 00:10:15,660
+ironically we don't have a phone number
+ 
+
+641
+00:10:15,660 --> 00:10:17,810
+ironically we don't have a phone number
+on the website so it's in our list but
+
+642
+00:10:17,810 --> 00:10:17,820
+on the website so it's in our list but
+ 
+
+643
+00:10:17,820 --> 00:10:19,670
+on the website so it's in our list but
+you know uh we're actually one of a
+
+644
+00:10:19,670 --> 00:10:19,680
+you know uh we're actually one of a
+ 
+
+645
+00:10:19,680 --> 00:10:21,350
+you know uh we're actually one of a
+small like I always say that I'm the
+
+646
+00:10:21,350 --> 00:10:21,360
+small like I always say that I'm the
+ 
+
+647
+00:10:21,360 --> 00:10:22,790
+small like I always say that I'm the
+smallest of the companies I work with
+
+648
+00:10:22,790 --> 00:10:22,800
+smallest of the companies I work with
+ 
+
+649
+00:10:22,800 --> 00:10:26,269
+smallest of the companies I work with
+because I I think I I probably am if
+
+650
+00:10:26,269 --> 00:10:26,279
+because I I think I I probably am if
+ 
+
+651
+00:10:26,279 --> 00:10:27,470
+because I I think I I probably am if
+you're working at public companies I
+
+652
+00:10:27,470 --> 00:10:27,480
+you're working at public companies I
+ 
+
+653
+00:10:27,480 --> 00:10:29,509
+you're working at public companies I
+would assume maybe the same too but it's
+
+654
+00:10:29,509 --> 00:10:29,519
+would assume maybe the same too but it's
+ 
+
+655
+00:10:29,519 --> 00:10:30,350
+would assume maybe the same too but it's
+cool because you have to look at
+
+656
+00:10:30,350 --> 00:10:30,360
+cool because you have to look at
+ 
+
+657
+00:10:30,360 --> 00:10:32,030
+cool because you have to look at
+insights because you get to work with
+
+658
+00:10:32,030 --> 00:10:32,040
+insights because you get to work with
+ 
+
+659
+00:10:32,040 --> 00:10:33,410
+insights because you get to work with
+these guys that are where you want to be
+
+660
+00:10:33,410 --> 00:10:33,420
+these guys that are where you want to be
+ 
+
+661
+00:10:33,420 --> 00:10:35,269
+these guys that are where you want to be
+and you can look and see all the things
+
+662
+00:10:35,269 --> 00:10:35,279
+and you can look and see all the things
+ 
+
+663
+00:10:35,279 --> 00:10:36,889
+and you can look and see all the things
+behind the scenes so also working big
+
+664
+00:10:36,889 --> 00:10:36,899
+behind the scenes so also working big
+ 
+
+665
+00:10:36,899 --> 00:10:38,150
+behind the scenes so also working big
+companies is great from educational
+
+666
+00:10:38,150 --> 00:10:38,160
+companies is great from educational
+ 
+
+667
+00:10:38,160 --> 00:10:39,470
+companies is great from educational
+perspective
+
+668
+00:10:39,470 --> 00:10:39,480
+perspective
+ 
+
+669
+00:10:39,480 --> 00:10:41,810
+perspective
+yeah no I agree I mean I like I think
+
+670
+00:10:41,810 --> 00:10:41,820
+yeah no I agree I mean I like I think
+ 
+
+671
+00:10:41,820 --> 00:10:42,949
+yeah no I agree I mean I like I think
+the other thing too is like I mean we're
+
+672
+00:10:42,949 --> 00:10:42,959
+the other thing too is like I mean we're
+ 
+
+673
+00:10:42,959 --> 00:10:45,350
+the other thing too is like I mean we're
+both young it's like not many people get
+
+674
+00:10:45,350 --> 00:10:45,360
+both young it's like not many people get
+ 
+
+675
+00:10:45,360 --> 00:10:47,509
+both young it's like not many people get
+to and like I've never done a corporate
+
+676
+00:10:47,509 --> 00:10:47,519
+to and like I've never done a corporate
+ 
+
+677
+00:10:47,519 --> 00:10:49,430
+to and like I've never done a corporate
+job or anything like that and so I've
+
+678
+00:10:49,430 --> 00:10:49,440
+job or anything like that and so I've
+ 
+
+679
+00:10:49,440 --> 00:10:51,170
+job or anything like that and so I've
+never gotten to really peek into like
+
+680
+00:10:51,170 --> 00:10:51,180
+never gotten to really peek into like
+ 
+
+681
+00:10:51,180 --> 00:10:52,730
+never gotten to really peek into like
+okay like seriously you know when you
+
+682
+00:10:52,730 --> 00:10:52,740
+okay like seriously you know when you
+ 
+
+683
+00:10:52,740 --> 00:10:53,870
+okay like seriously you know when you
+first start out you're working with the
+
+684
+00:10:53,870 --> 00:10:53,880
+first start out you're working with the
+ 
+
+685
+00:10:53,880 --> 00:10:55,910
+first start out you're working with the
+founder or like some owner or like a 10
+
+686
+00:10:55,910 --> 00:10:55,920
+founder or like some owner or like a 10
+ 
+
+687
+00:10:55,920 --> 00:10:57,530
+founder or like some owner or like a 10
+person company but it's like now you're
+
+688
+00:10:57,530 --> 00:10:57,540
+person company but it's like now you're
+ 
+
+689
+00:10:57,540 --> 00:10:59,990
+person company but it's like now you're
+working with like the director of like
+
+690
+00:10:59,990 --> 00:11:00,000
+working with like the director of like
+ 
+
+691
+00:11:00,000 --> 00:11:02,030
+working with like the director of like
+marketing or something of that sort and
+
+692
+00:11:02,030 --> 00:11:02,040
+marketing or something of that sort and
+ 
+
+693
+00:11:02,040 --> 00:11:04,370
+marketing or something of that sort and
+or like director of global Legion or
+
+694
+00:11:04,370 --> 00:11:04,380
+or like director of global Legion or
+ 
+
+695
+00:11:04,380 --> 00:11:06,650
+or like director of global Legion or
+whatever demand and it's like they just
+
+696
+00:11:06,650 --> 00:11:06,660
+whatever demand and it's like they just
+ 
+
+697
+00:11:06,660 --> 00:11:07,910
+whatever demand and it's like they just
+have a budget and I don't know it's just
+
+698
+00:11:07,910 --> 00:11:07,920
+have a budget and I don't know it's just
+ 
+
+699
+00:11:07,920 --> 00:11:08,990
+have a budget and I don't know it's just
+like it's like a different feel like
+
+700
+00:11:08,990 --> 00:11:09,000
+like it's like a different feel like
+ 
+
+701
+00:11:09,000 --> 00:11:10,250
+like it's like a different feel like
+working with them rather than working
+
+702
+00:11:10,250 --> 00:11:10,260
+working with them rather than working
+ 
+
+703
+00:11:10,260 --> 00:11:11,509
+working with them rather than working
+like with like a founder and seeing how
+
+704
+00:11:11,509 --> 00:11:11,519
+like with like a founder and seeing how
+ 
+
+705
+00:11:11,519 --> 00:11:13,430
+like with like a founder and seeing how
+like they communicate to their team and
+
+706
+00:11:13,430 --> 00:11:13,440
+like they communicate to their team and
+ 
+
+707
+00:11:13,440 --> 00:11:14,569
+like they communicate to their team and
+it's it's kind of like a little bit more
+
+708
+00:11:14,569 --> 00:11:14,579
+it's it's kind of like a little bit more
+ 
+
+709
+00:11:14,579 --> 00:11:15,530
+it's it's kind of like a little bit more
+political it's not like as
+
+710
+00:11:15,530 --> 00:11:15,540
+political it's not like as
+ 
+
+711
+00:11:15,540 --> 00:11:16,790
+political it's not like as
+straightforward and like you know they
+
+712
+00:11:16,790 --> 00:11:16,800
+straightforward and like you know they
+ 
+
+713
+00:11:16,800 --> 00:11:18,230
+straightforward and like you know they
+got to get clearance and they gotta ask
+
+714
+00:11:18,230 --> 00:11:18,240
+got to get clearance and they gotta ask
+ 
+
+715
+00:11:18,240 --> 00:11:19,490
+got to get clearance and they gotta ask
+their boss about these things I don't
+
+716
+00:11:19,490 --> 00:11:19,500
+their boss about these things I don't
+ 
+
+717
+00:11:19,500 --> 00:11:21,050
+their boss about these things I don't
+know it's just it's cool seeing that
+
+718
+00:11:21,050 --> 00:11:21,060
+know it's just it's cool seeing that
+ 
+
+719
+00:11:21,060 --> 00:11:22,610
+know it's just it's cool seeing that
+because like I've never
+
+720
+00:11:22,610 --> 00:11:22,620
+because like I've never
+ 
+
+721
+00:11:22,620 --> 00:11:25,250
+because like I've never
+seen that before in my my career
+
+722
+00:11:25,250 --> 00:11:25,260
+seen that before in my my career
+ 
+
+723
+00:11:25,260 --> 00:11:26,630
+seen that before in my my career
+um and so it's a learning experience for
+
+724
+00:11:26,630 --> 00:11:26,640
+um and so it's a learning experience for
+ 
+
+725
+00:11:26,640 --> 00:11:28,910
+um and so it's a learning experience for
+sure and how old are you Nick I actually
+
+726
+00:11:28,910 --> 00:11:28,920
+sure and how old are you Nick I actually
+ 
+
+727
+00:11:28,920 --> 00:11:31,550
+sure and how old are you Nick I actually
+have no idea yeah so I'm actually 23 I'm
+
+728
+00:11:31,550 --> 00:11:31,560
+have no idea yeah so I'm actually 23 I'm
+ 
+
+729
+00:11:31,560 --> 00:11:33,410
+have no idea yeah so I'm actually 23 I'm
+about to turn 24 and uh I think like 10
+
+730
+00:11:33,410 --> 00:11:33,420
+about to turn 24 and uh I think like 10
+ 
+
+731
+00:11:33,420 --> 00:11:34,550
+about to turn 24 and uh I think like 10
+days or actually you know this weekend
+
+732
+00:11:34,550 --> 00:11:34,560
+days or actually you know this weekend
+ 
+
+733
+00:11:34,560 --> 00:11:37,190
+days or actually you know this weekend
+uh four days so yeah happy birthday
+
+734
+00:11:37,190 --> 00:11:37,200
+uh four days so yeah happy birthday
+ 
+
+735
+00:11:37,200 --> 00:11:39,889
+uh four days so yeah happy birthday
+you're a little bit older
+
+736
+00:11:39,889 --> 00:11:39,899
+you're a little bit older
+ 
+
+737
+00:11:39,899 --> 00:11:43,190
+you're a little bit older
+well how old are you uh 23. but I turned
+
+738
+00:11:43,190 --> 00:11:43,200
+well how old are you uh 23. but I turned
+ 
+
+739
+00:11:43,200 --> 00:11:46,370
+well how old are you uh 23. but I turned
+I turned 24 and uh next year
+
+740
+00:11:46,370 --> 00:11:46,380
+I turned 24 and uh next year
+ 
+
+741
+00:11:46,380 --> 00:11:48,889
+I turned 24 and uh next year
+for everyone watching Michael's like 6
+
+742
+00:11:48,889 --> 00:11:48,899
+for everyone watching Michael's like 6
+ 
+
+743
+00:11:48,899 --> 00:11:53,150
+for everyone watching Michael's like 6
+10. uh so it just doesn't look 23 at all
+
+744
+00:11:53,150 --> 00:11:53,160
+10. uh so it just doesn't look 23 at all
+ 
+
+745
+00:11:53,160 --> 00:11:55,790
+10. uh so it just doesn't look 23 at all
+no it's funny because like I don't know
+
+746
+00:11:55,790 --> 00:11:55,800
+no it's funny because like I don't know
+ 
+
+747
+00:11:55,800 --> 00:11:56,990
+no it's funny because like I don't know
+if this has been ever going to be
+
+748
+00:11:56,990 --> 00:11:57,000
+if this has been ever going to be
+ 
+
+749
+00:11:57,000 --> 00:11:59,030
+if this has been ever going to be
+recurring Trend everyone I'm eating a BW
+
+750
+00:11:59,030 --> 00:11:59,040
+recurring Trend everyone I'm eating a BW
+ 
+
+751
+00:11:59,040 --> 00:12:01,310
+recurring Trend everyone I'm eating a BW
+Legion in Space is really tall I've met
+
+752
+00:12:01,310 --> 00:12:01,320
+Legion in Space is really tall I've met
+ 
+
+753
+00:12:01,320 --> 00:12:02,990
+Legion in Space is really tall I've met
+two guys in B2B Legion they're taller
+
+754
+00:12:02,990 --> 00:12:03,000
+two guys in B2B Legion they're taller
+ 
+
+755
+00:12:03,000 --> 00:12:05,389
+two guys in B2B Legion they're taller
+than me all right we you're not gonna
+
+756
+00:12:05,389 --> 00:12:05,399
+than me all right we you're not gonna
+ 
+
+757
+00:12:05,399 --> 00:12:07,910
+than me all right we you're not gonna
+find that with me I'm like 5 10. okay on
+
+758
+00:12:07,910 --> 00:12:07,920
+find that with me I'm like 5 10. okay on
+ 
+
+759
+00:12:07,920 --> 00:12:08,870
+find that with me I'm like 5 10. okay on
+a good day
+
+760
+00:12:08,870 --> 00:12:08,880
+a good day
+ 
+
+761
+00:12:08,880 --> 00:12:11,210
+a good day
+it's not too bad well cool all right so
+
+762
+00:12:11,210 --> 00:12:11,220
+it's not too bad well cool all right so
+ 
+
+763
+00:12:11,220 --> 00:12:12,590
+it's not too bad well cool all right so
+um we talked a bit about leadbird we
+
+764
+00:12:12,590 --> 00:12:12,600
+um we talked a bit about leadbird we
+ 
+
+765
+00:12:12,600 --> 00:12:13,610
+um we talked a bit about leadbird we
+talked about you know what companies
+
+766
+00:12:13,610 --> 00:12:13,620
+talked about you know what companies
+ 
+
+767
+00:12:13,620 --> 00:12:14,630
+talked about you know what companies
+you're working with some of the
+
+768
+00:12:14,630 --> 00:12:14,640
+you're working with some of the
+ 
+
+769
+00:12:14,640 --> 00:12:15,949
+you're working with some of the
+learnings you've had experience of a
+
+770
+00:12:15,949 --> 00:12:15,959
+learnings you've had experience of a
+ 
+
+771
+00:12:15,959 --> 00:12:19,610
+learnings you've had experience of a
+company now I I'm curious
+
+772
+00:12:19,610 --> 00:12:19,620
+company now I I'm curious
+ 
+
+773
+00:12:19,620 --> 00:12:22,009
+company now I I'm curious
+how do you compare running your your
+
+774
+00:12:22,009 --> 00:12:22,019
+how do you compare running your your
+ 
+
+775
+00:12:22,019 --> 00:12:24,470
+how do you compare running your your
+software companies to your agency do you
+
+776
+00:12:24,470 --> 00:12:24,480
+software companies to your agency do you
+ 
+
+777
+00:12:24,480 --> 00:12:26,690
+software companies to your agency do you
+you know what is the one one question I
+
+778
+00:12:26,690 --> 00:12:26,700
+you know what is the one one question I
+ 
+
+779
+00:12:26,700 --> 00:12:28,670
+you know what is the one one question I
+wonder is like the agency you know you
+
+780
+00:12:28,670 --> 00:12:28,680
+wonder is like the agency you know you
+ 
+
+781
+00:12:28,680 --> 00:12:30,290
+wonder is like the agency you know you
+might want to grow it for cash flow or
+
+782
+00:12:30,290 --> 00:12:30,300
+might want to grow it for cash flow or
+ 
+
+783
+00:12:30,300 --> 00:12:32,090
+might want to grow it for cash flow or
+you might want to grow it to sell if the
+
+784
+00:12:32,090 --> 00:12:32,100
+you might want to grow it to sell if the
+ 
+
+785
+00:12:32,100 --> 00:12:34,490
+you might want to grow it to sell if the
+software companies is the intent always
+
+786
+00:12:34,490 --> 00:12:34,500
+software companies is the intent always
+ 
+
+787
+00:12:34,500 --> 00:12:36,530
+software companies is the intent always
+to build to sell or what what is like
+
+788
+00:12:36,530 --> 00:12:36,540
+to build to sell or what what is like
+ 
+
+789
+00:12:36,540 --> 00:12:38,750
+to build to sell or what what is like
+the end goal when you're building these
+
+790
+00:12:38,750 --> 00:12:38,760
+the end goal when you're building these
+ 
+
+791
+00:12:38,760 --> 00:12:40,069
+the end goal when you're building these
+companies because clearly you have a
+
+792
+00:12:40,069 --> 00:12:40,079
+companies because clearly you have a
+ 
+
+793
+00:12:40,079 --> 00:12:41,630
+companies because clearly you have a
+have a lot of them too which I imagine
+
+794
+00:12:41,630 --> 00:12:41,640
+have a lot of them too which I imagine
+ 
+
+795
+00:12:41,640 --> 00:12:43,430
+have a lot of them too which I imagine
+is a bit to manage
+
+796
+00:12:43,430 --> 00:12:43,440
+is a bit to manage
+ 
+
+797
+00:12:43,440 --> 00:12:45,410
+is a bit to manage
+yeah so you know I
+
+798
+00:12:45,410 --> 00:12:45,420
+yeah so you know I
+ 
+
+799
+00:12:45,420 --> 00:12:47,509
+yeah so you know I
+it's a hard one to answer because like
+
+800
+00:12:47,509 --> 00:12:47,519
+it's a hard one to answer because like
+ 
+
+801
+00:12:47,519 --> 00:12:49,730
+it's a hard one to answer because like
+you know I've kind of gone around and
+
+802
+00:12:49,730 --> 00:12:49,740
+you know I've kind of gone around and
+ 
+
+803
+00:12:49,740 --> 00:12:50,930
+you know I've kind of gone around and
+I'm kind of seeing like the mistakes
+
+804
+00:12:50,930 --> 00:12:50,940
+I'm kind of seeing like the mistakes
+ 
+
+805
+00:12:50,940 --> 00:12:52,790
+I'm kind of seeing like the mistakes
+I've made and like how I kind of went
+
+806
+00:12:52,790 --> 00:12:52,800
+I've made and like how I kind of went
+ 
+
+807
+00:12:52,800 --> 00:12:54,710
+I've made and like how I kind of went
+into it so first like I wouldn't have
+
+808
+00:12:54,710 --> 00:12:54,720
+into it so first like I wouldn't have
+ 
+
+809
+00:12:54,720 --> 00:12:56,569
+into it so first like I wouldn't have
+jumped into so running like multiple
+
+810
+00:12:56,569 --> 00:12:56,579
+jumped into so running like multiple
+ 
+
+811
+00:12:56,579 --> 00:12:59,990
+jumped into so running like multiple
+companies is is insanely hard like you
+
+812
+00:12:59,990 --> 00:13:00,000
+companies is is insanely hard like you
+ 
+
+813
+00:13:00,000 --> 00:13:01,490
+companies is is insanely hard like you
+know if I was just focused on the agency
+
+814
+00:13:01,490 --> 00:13:01,500
+know if I was just focused on the agency
+ 
+
+815
+00:13:01,500 --> 00:13:03,590
+know if I was just focused on the agency
+for the last three years and I wish I
+
+816
+00:13:03,590 --> 00:13:03,600
+for the last three years and I wish I
+ 
+
+817
+00:13:03,600 --> 00:13:05,329
+for the last three years and I wish I
+did I'd be much further ahead than I am
+
+818
+00:13:05,329 --> 00:13:05,339
+did I'd be much further ahead than I am
+ 
+
+819
+00:13:05,339 --> 00:13:07,250
+did I'd be much further ahead than I am
+right now right
+
+820
+00:13:07,250 --> 00:13:07,260
+right now right
+ 
+
+821
+00:13:07,260 --> 00:13:09,829
+right now right
+um so that's the first thing um and I
+
+822
+00:13:09,829 --> 00:13:09,839
+um so that's the first thing um and I
+ 
+
+823
+00:13:09,839 --> 00:13:11,870
+um so that's the first thing um and I
+wouldn't have and like if you don't come
+
+824
+00:13:11,870 --> 00:13:11,880
+wouldn't have and like if you don't come
+ 
+
+825
+00:13:11,880 --> 00:13:13,430
+wouldn't have and like if you don't come
+from a technical background and you
+
+826
+00:13:13,430 --> 00:13:13,440
+from a technical background and you
+ 
+
+827
+00:13:13,440 --> 00:13:15,470
+from a technical background and you
+don't have like the greatest development
+
+828
+00:13:15,470 --> 00:13:15,480
+don't have like the greatest development
+ 
+
+829
+00:13:15,480 --> 00:13:17,990
+don't have like the greatest development
+team it's very hard to build a product
+
+830
+00:13:17,990 --> 00:13:18,000
+team it's very hard to build a product
+ 
+
+831
+00:13:18,000 --> 00:13:20,150
+team it's very hard to build a product
+that and we're in tough spaces like
+
+832
+00:13:20,150 --> 00:13:20,160
+that and we're in tough spaces like
+ 
+
+833
+00:13:20,160 --> 00:13:21,769
+that and we're in tough spaces like
+wearing spaces where we're fighting
+
+834
+00:13:21,769 --> 00:13:21,779
+wearing spaces where we're fighting
+ 
+
+835
+00:13:21,779 --> 00:13:23,329
+wearing spaces where we're fighting
+Google's terms and services Link in
+
+836
+00:13:23,329 --> 00:13:23,339
+Google's terms and services Link in
+ 
+
+837
+00:13:23,339 --> 00:13:24,650
+Google's terms and services Link in
+terms of services like they don't want
+
+838
+00:13:24,650 --> 00:13:24,660
+terms of services like they don't want
+ 
+
+839
+00:13:24,660 --> 00:13:26,750
+terms of services like they don't want
+us to do email warm up and so it's like
+
+840
+00:13:26,750 --> 00:13:26,760
+us to do email warm up and so it's like
+ 
+
+841
+00:13:26,760 --> 00:13:28,670
+us to do email warm up and so it's like
+you're never going to find documentation
+
+842
+00:13:28,670 --> 00:13:28,680
+you're never going to find documentation
+ 
+
+843
+00:13:28,680 --> 00:13:31,970
+you're never going to find documentation
+and um like understand how to build that
+
+844
+00:13:31,970 --> 00:13:31,980
+and um like understand how to build that
+ 
+
+845
+00:13:31,980 --> 00:13:33,590
+and um like understand how to build that
+product the right way it's like a lot of
+
+846
+00:13:33,590 --> 00:13:33,600
+product the right way it's like a lot of
+ 
+
+847
+00:13:33,600 --> 00:13:35,269
+product the right way it's like a lot of
+your developers testing something seeing
+
+848
+00:13:35,269 --> 00:13:35,279
+your developers testing something seeing
+ 
+
+849
+00:13:35,279 --> 00:13:36,889
+your developers testing something seeing
+if it works if it works scaling it
+
+850
+00:13:36,889 --> 00:13:36,899
+if it works if it works scaling it
+ 
+
+851
+00:13:36,899 --> 00:13:38,690
+if it works if it works scaling it
+seeing if it's a scales if it doesn't
+
+852
+00:13:38,690 --> 00:13:38,700
+seeing if it's a scales if it doesn't
+ 
+
+853
+00:13:38,700 --> 00:13:40,790
+seeing if it's a scales if it doesn't
+coming up with another solution it's
+
+854
+00:13:40,790 --> 00:13:40,800
+coming up with another solution it's
+ 
+
+855
+00:13:40,800 --> 00:13:42,829
+coming up with another solution it's
+just like a lot of back and forth and
+
+856
+00:13:42,829 --> 00:13:42,839
+just like a lot of back and forth and
+ 
+
+857
+00:13:42,839 --> 00:13:44,150
+just like a lot of back and forth and
+the other thing too is like I don't
+
+858
+00:13:44,150 --> 00:13:44,160
+the other thing too is like I don't
+ 
+
+859
+00:13:44,160 --> 00:13:45,410
+the other thing too is like I don't
+think a lot of people realize that like
+
+860
+00:13:45,410 --> 00:13:45,420
+think a lot of people realize that like
+ 
+
+861
+00:13:45,420 --> 00:13:47,930
+think a lot of people realize that like
+SAS has churn right and most Legion
+
+862
+00:13:47,930 --> 00:13:47,940
+SAS has churn right and most Legion
+ 
+
+863
+00:13:47,940 --> 00:13:50,569
+SAS has churn right and most Legion
+products have a 10 churn rate right and
+
+864
+00:13:50,569 --> 00:13:50,579
+products have a 10 churn rate right and
+ 
+
+865
+00:13:50,579 --> 00:13:52,550
+products have a 10 churn rate right and
+so if you're taking a product-led growth
+
+866
+00:13:52,550 --> 00:13:52,560
+so if you're taking a product-led growth
+ 
+
+867
+00:13:52,560 --> 00:13:56,269
+so if you're taking a product-led growth
+method it's extremely hard to make it
+
+868
+00:13:56,269 --> 00:13:56,279
+method it's extremely hard to make it
+ 
+
+869
+00:13:56,279 --> 00:13:58,009
+method it's extremely hard to make it
+like reasonable well first of all let's
+
+870
+00:13:58,009 --> 00:13:58,019
+like reasonable well first of all let's
+ 
+
+871
+00:13:58,019 --> 00:13:59,269
+like reasonable well first of all let's
+make it like really worth your time
+
+872
+00:13:59,269 --> 00:13:59,279
+make it like really worth your time
+ 
+
+873
+00:13:59,279 --> 00:14:00,769
+make it like really worth your time
+right because you're gonna have to jump
+
+874
+00:14:00,769 --> 00:14:00,779
+right because you're gonna have to jump
+ 
+
+875
+00:14:00,779 --> 00:14:02,449
+right because you're gonna have to jump
+on a customer support call for some dude
+
+876
+00:14:02,449 --> 00:14:02,459
+on a customer support call for some dude
+ 
+
+877
+00:14:02,459 --> 00:14:03,650
+on a customer support call for some dude
+that's paying you nine dollars a month
+
+878
+00:14:03,650 --> 00:14:03,660
+that's paying you nine dollars a month
+ 
+
+879
+00:14:03,660 --> 00:14:05,930
+that's paying you nine dollars a month
+and like it's gonna churn out the next
+
+880
+00:14:05,930 --> 00:14:05,940
+and like it's gonna churn out the next
+ 
+
+881
+00:14:05,940 --> 00:14:07,670
+and like it's gonna churn out the next
+month regardless and it's just like I
+
+882
+00:14:07,670 --> 00:14:07,680
+month regardless and it's just like I
+ 
+
+883
+00:14:07,680 --> 00:14:09,710
+month regardless and it's just like I
+don't know like that that to me is just
+
+884
+00:14:09,710 --> 00:14:09,720
+don't know like that that to me is just
+ 
+
+885
+00:14:09,720 --> 00:14:12,110
+don't know like that that to me is just
+a very tough model like I if I was to do
+
+886
+00:14:12,110 --> 00:14:12,120
+a very tough model like I if I was to do
+ 
+
+887
+00:14:12,120 --> 00:14:14,090
+a very tough model like I if I was to do
+SAS again I would not do the plg method
+
+888
+00:14:14,090 --> 00:14:14,100
+SAS again I would not do the plg method
+ 
+
+889
+00:14:14,100 --> 00:14:15,410
+SAS again I would not do the plg method
+I would do more of like an Enterprise
+
+890
+00:14:15,410 --> 00:14:15,420
+I would do more of like an Enterprise
+ 
+
+891
+00:14:15,420 --> 00:14:17,870
+I would do more of like an Enterprise
+sales motion make them pay and collect
+
+892
+00:14:17,870 --> 00:14:17,880
+sales motion make them pay and collect
+ 
+
+893
+00:14:17,880 --> 00:14:20,210
+sales motion make them pay and collect
+the LTD up up front like that just makes
+
+894
+00:14:20,210 --> 00:14:20,220
+the LTD up up front like that just makes
+ 
+
+895
+00:14:20,220 --> 00:14:21,410
+the LTD up up front like that just makes
+more sense to me and that's kind of what
+
+896
+00:14:21,410 --> 00:14:21,420
+more sense to me and that's kind of what
+ 
+
+897
+00:14:21,420 --> 00:14:22,550
+more sense to me and that's kind of what
+I want to Pivot some of these products
+
+898
+00:14:22,550 --> 00:14:22,560
+I want to Pivot some of these products
+ 
+
+899
+00:14:22,560 --> 00:14:23,930
+I want to Pivot some of these products
+to I also want to shut down some of
+
+900
+00:14:23,930 --> 00:14:23,940
+to I also want to shut down some of
+ 
+
+901
+00:14:23,940 --> 00:14:26,509
+to I also want to shut down some of
+these products because you know like
+
+902
+00:14:26,509 --> 00:14:26,519
+these products because you know like
+ 
+
+903
+00:14:26,519 --> 00:14:28,730
+these products because you know like
+a great example was like Emmy like our
+
+904
+00:14:28,730 --> 00:14:28,740
+a great example was like Emmy like our
+ 
+
+905
+00:14:28,740 --> 00:14:30,829
+a great example was like Emmy like our
+email was sending platform we had domain
+
+906
+00:14:30,829 --> 00:14:30,839
+email was sending platform we had domain
+ 
+
+907
+00:14:30,839 --> 00:14:32,810
+email was sending platform we had domain
+rotation inbox rotation and all these
+
+908
+00:14:32,810 --> 00:14:32,820
+rotation inbox rotation and all these
+ 
+
+909
+00:14:32,820 --> 00:14:34,730
+rotation inbox rotation and all these
+things way before like a lot of these
+
+910
+00:14:34,730 --> 00:14:34,740
+things way before like a lot of these
+ 
+
+911
+00:14:34,740 --> 00:14:35,870
+things way before like a lot of these
+other products like instantly as early
+
+912
+00:14:35,870 --> 00:14:35,880
+other products like instantly as early
+ 
+
+913
+00:14:35,880 --> 00:14:37,850
+other products like instantly as early
+then you know instantly smart read have
+
+914
+00:14:37,850 --> 00:14:37,860
+then you know instantly smart read have
+ 
+
+915
+00:14:37,860 --> 00:14:39,230
+then you know instantly smart read have
+done a great job of making a stable
+
+916
+00:14:39,230 --> 00:14:39,240
+done a great job of making a stable
+ 
+
+917
+00:14:39,240 --> 00:14:40,790
+done a great job of making a stable
+product that actually works and it's
+
+918
+00:14:40,790 --> 00:14:40,800
+product that actually works and it's
+ 
+
+919
+00:14:40,800 --> 00:14:42,829
+product that actually works and it's
+incredible I use Smart beat now like I
+
+920
+00:14:42,829 --> 00:14:42,839
+incredible I use Smart beat now like I
+ 
+
+921
+00:14:42,839 --> 00:14:44,210
+incredible I use Smart beat now like I
+literally don't even use the own email
+
+922
+00:14:44,210 --> 00:14:44,220
+literally don't even use the own email
+ 
+
+923
+00:14:44,220 --> 00:14:46,370
+literally don't even use the own email
+sending platform but I built you know
+
+924
+00:14:46,370 --> 00:14:46,380
+sending platform but I built you know
+ 
+
+925
+00:14:46,380 --> 00:14:48,470
+sending platform but I built you know
+and it's like things like that and I
+
+926
+00:14:48,470 --> 00:14:48,480
+and it's like things like that and I
+ 
+
+927
+00:14:48,480 --> 00:14:49,490
+and it's like things like that and I
+don't want to have to compete with those
+
+928
+00:14:49,490 --> 00:14:49,500
+don't want to have to compete with those
+ 
+
+929
+00:14:49,500 --> 00:14:50,750
+don't want to have to compete with those
+guys because they're gonna crush me
+
+930
+00:14:50,750 --> 00:14:50,760
+guys because they're gonna crush me
+ 
+
+931
+00:14:50,760 --> 00:14:52,009
+guys because they're gonna crush me
+because they have a great development
+
+932
+00:14:52,009 --> 00:14:52,019
+because they have a great development
+ 
+
+933
+00:14:52,019 --> 00:14:54,050
+because they have a great development
+team you know and so
+
+934
+00:14:54,050 --> 00:14:54,060
+team you know and so
+ 
+
+935
+00:14:54,060 --> 00:14:55,250
+team you know and so
+that's kind of what I think about it
+
+936
+00:14:55,250 --> 00:14:55,260
+that's kind of what I think about it
+ 
+
+937
+00:14:55,260 --> 00:14:58,250
+that's kind of what I think about it
+like I really like simple SAS products
+
+938
+00:14:58,250 --> 00:14:58,260
+like I really like simple SAS products
+ 
+
+939
+00:14:58,260 --> 00:14:59,990
+like I really like simple SAS products
+quick lines is a great example it's very
+
+940
+00:14:59,990 --> 00:15:00,000
+quick lines is a great example it's very
+ 
+
+941
+00:15:00,000 --> 00:15:01,910
+quick lines is a great example it's very
+simple very easy to use
+
+942
+00:15:01,910 --> 00:15:01,920
+simple very easy to use
+ 
+
+943
+00:15:01,920 --> 00:15:02,990
+simple very easy to use
+um and there's not much of a back end
+
+944
+00:15:02,990 --> 00:15:03,000
+um and there's not much of a back end
+ 
+
+945
+00:15:03,000 --> 00:15:04,970
+um and there's not much of a back end
+there like I haven't touched quick lines
+
+946
+00:15:04,970 --> 00:15:04,980
+there like I haven't touched quick lines
+ 
+
+947
+00:15:04,980 --> 00:15:06,590
+there like I haven't touched quick lines
+and in six months it's done great in
+
+948
+00:15:06,590 --> 00:15:06,600
+and in six months it's done great in
+ 
+
+949
+00:15:06,600 --> 00:15:08,210
+and in six months it's done great in
+terms of numbers
+
+950
+00:15:08,210 --> 00:15:08,220
+terms of numbers
+ 
+
+951
+00:15:08,220 --> 00:15:10,129
+terms of numbers
+um and it just kind of is a cash flow
+
+952
+00:15:10,129 --> 00:15:10,139
+um and it just kind of is a cash flow
+ 
+
+953
+00:15:10,139 --> 00:15:12,050
+um and it just kind of is a cash flow
+play for me in that sense I love to get
+
+954
+00:15:12,050 --> 00:15:12,060
+play for me in that sense I love to get
+ 
+
+955
+00:15:12,060 --> 00:15:14,030
+play for me in that sense I love to get
+an exit eventually off of it and then
+
+956
+00:15:14,030 --> 00:15:14,040
+an exit eventually off of it and then
+ 
+
+957
+00:15:14,040 --> 00:15:15,470
+an exit eventually off of it and then
+like scrubby and golden leads those are
+
+958
+00:15:15,470 --> 00:15:15,480
+like scrubby and golden leads those are
+ 
+
+959
+00:15:15,480 --> 00:15:17,990
+like scrubby and golden leads those are
+two SAS products we just built recently
+
+960
+00:15:17,990 --> 00:15:18,000
+two SAS products we just built recently
+ 
+
+961
+00:15:18,000 --> 00:15:20,449
+two SAS products we just built recently
+um I think those are gonna be really big
+
+962
+00:15:20,449 --> 00:15:20,459
+um I think those are gonna be really big
+ 
+
+963
+00:15:20,459 --> 00:15:22,910
+um I think those are gonna be really big
+because it kind of does do things that
+
+964
+00:15:22,910 --> 00:15:22,920
+because it kind of does do things that
+ 
+
+965
+00:15:22,920 --> 00:15:25,129
+because it kind of does do things that
+other products don't
+
+966
+00:15:25,129 --> 00:15:25,139
+other products don't
+ 
+
+967
+00:15:25,139 --> 00:15:26,810
+other products don't
+um and they're also very simple backend
+
+968
+00:15:26,810 --> 00:15:26,820
+um and they're also very simple backend
+ 
+
+969
+00:15:26,820 --> 00:15:28,129
+um and they're also very simple backend
+so it's not like you need a huge
+
+970
+00:15:28,129 --> 00:15:28,139
+so it's not like you need a huge
+ 
+
+971
+00:15:28,139 --> 00:15:29,629
+so it's not like you need a huge
+development team and it's much easier to
+
+972
+00:15:29,629 --> 00:15:29,639
+development team and it's much easier to
+ 
+
+973
+00:15:29,639 --> 00:15:32,509
+development team and it's much easier to
+control but like any inbox seat those
+
+974
+00:15:32,509 --> 00:15:32,519
+control but like any inbox seat those
+ 
+
+975
+00:15:32,519 --> 00:15:33,889
+control but like any inbox seat those
+are those are pretty tough like it's
+
+976
+00:15:33,889 --> 00:15:33,899
+are those are pretty tough like it's
+ 
+
+977
+00:15:33,899 --> 00:15:35,210
+are those are pretty tough like it's
+very hard building email setting
+
+978
+00:15:35,210 --> 00:15:35,220
+very hard building email setting
+ 
+
+979
+00:15:35,220 --> 00:15:37,930
+very hard building email setting
+platforms um so yeah that's kind of like
+
+980
+00:15:37,930 --> 00:15:37,940
+platforms um so yeah that's kind of like
+ 
+
+981
+00:15:37,940 --> 00:15:42,710
+platforms um so yeah that's kind of like
+a whole circle 360 of my my dealings
+
+982
+00:15:42,710 --> 00:15:42,720
+a whole circle 360 of my my dealings
+ 
+
+983
+00:15:42,720 --> 00:15:43,910
+a whole circle 360 of my my dealings
+with SAS
+
+984
+00:15:43,910 --> 00:15:43,920
+with SAS
+ 
+
+985
+00:15:43,920 --> 00:15:46,430
+with SAS
+but one thing I wonder if your SAS
+
+986
+00:15:46,430 --> 00:15:46,440
+but one thing I wonder if your SAS
+ 
+
+987
+00:15:46,440 --> 00:15:48,470
+but one thing I wonder if your SAS
+companies is obviously you have an
+
+988
+00:15:48,470 --> 00:15:48,480
+companies is obviously you have an
+ 
+
+989
+00:15:48,480 --> 00:15:49,670
+companies is obviously you have an
+advantage if you want to do cold email
+
+990
+00:15:49,670 --> 00:15:49,680
+advantage if you want to do cold email
+ 
+
+991
+00:15:49,680 --> 00:15:51,590
+advantage if you want to do cold email
+for them you have a plug-and-play system
+
+992
+00:15:51,590 --> 00:15:51,600
+for them you have a plug-and-play system
+ 
+
+993
+00:15:51,600 --> 00:15:53,750
+for them you have a plug-and-play system
+to then do code email for them but I
+
+994
+00:15:53,750 --> 00:15:53,760
+to then do code email for them but I
+ 
+
+995
+00:15:53,760 --> 00:15:55,250
+to then do code email for them but I
+know you also have a nice personal brand
+
+996
+00:15:55,250 --> 00:15:55,260
+know you also have a nice personal brand
+ 
+
+997
+00:15:55,260 --> 00:15:57,290
+know you also have a nice personal brand
+you've built up when it comes to getting
+
+998
+00:15:57,290 --> 00:15:57,300
+you've built up when it comes to getting
+ 
+
+999
+00:15:57,300 --> 00:15:58,970
+you've built up when it comes to getting
+these users for your software companies
+
+1000
+00:15:58,970 --> 00:15:58,980
+these users for your software companies
+ 
+
+1001
+00:15:58,980 --> 00:16:01,550
+these users for your software companies
+or for your agency what is the split
+
+1002
+00:16:01,550 --> 00:16:01,560
+or for your agency what is the split
+ 
+
+1003
+00:16:01,560 --> 00:16:03,949
+or for your agency what is the split
+between personal brand and outbound
+
+1004
+00:16:03,949 --> 00:16:03,959
+between personal brand and outbound
+ 
+
+1005
+00:16:03,959 --> 00:16:07,129
+between personal brand and outbound
+yeah so when it came so it's scrubby
+
+1006
+00:16:07,129 --> 00:16:07,139
+yeah so when it came so it's scrubby
+ 
+
+1007
+00:16:07,139 --> 00:16:09,769
+yeah so when it came so it's scrubby
+actually this is actually funny so
+
+1008
+00:16:09,769 --> 00:16:09,779
+actually this is actually funny so
+ 
+
+1009
+00:16:09,779 --> 00:16:10,370
+actually this is actually funny so
+um
+
+1010
+00:16:10,370 --> 00:16:10,380
+um
+ 
+
+1011
+00:16:10,380 --> 00:16:12,590
+um
+eighty percent of our Revenue that we've
+
+1012
+00:16:12,590 --> 00:16:12,600
+eighty percent of our Revenue that we've
+ 
+
+1013
+00:16:12,600 --> 00:16:14,930
+eighty percent of our Revenue that we've
+generated this year has come from six
+
+1014
+00:16:14,930 --> 00:16:14,940
+generated this year has come from six
+ 
+
+1015
+00:16:14,940 --> 00:16:17,569
+generated this year has come from six
+customers and out of the six customers
+
+1016
+00:16:17,569 --> 00:16:17,579
+customers and out of the six customers
+ 
+
+1017
+00:16:17,579 --> 00:16:19,490
+customers and out of the six customers
+one came from personal brand work
+
+1018
+00:16:19,490 --> 00:16:19,500
+one came from personal brand work
+ 
+
+1019
+00:16:19,500 --> 00:16:21,350
+one came from personal brand work
+Network kind of thing and the other five
+
+1020
+00:16:21,350 --> 00:16:21,360
+Network kind of thing and the other five
+ 
+
+1021
+00:16:21,360 --> 00:16:24,110
+Network kind of thing and the other five
+are comfortable emails and we have a ton
+
+1022
+00:16:24,110 --> 00:16:24,120
+are comfortable emails and we have a ton
+ 
+
+1023
+00:16:24,120 --> 00:16:25,970
+are comfortable emails and we have a ton
+of other users you know majority of our
+
+1024
+00:16:25,970 --> 00:16:25,980
+of other users you know majority of our
+ 
+
+1025
+00:16:25,980 --> 00:16:27,769
+of other users you know majority of our
+users do come from like you know content
+
+1026
+00:16:27,769 --> 00:16:27,779
+users do come from like you know content
+ 
+
+1027
+00:16:27,779 --> 00:16:30,110
+users do come from like you know content
+personal brand kind of stuff they don't
+
+1028
+00:16:30,110 --> 00:16:30,120
+personal brand kind of stuff they don't
+ 
+
+1029
+00:16:30,120 --> 00:16:31,910
+personal brand kind of stuff they don't
+they don't contribute to the the big
+
+1030
+00:16:31,910 --> 00:16:31,920
+they don't contribute to the the big
+ 
+
+1031
+00:16:31,920 --> 00:16:33,590
+they don't contribute to the the big
+portion of our revenue and so that
+
+1032
+00:16:33,590 --> 00:16:33,600
+portion of our revenue and so that
+ 
+
+1033
+00:16:33,600 --> 00:16:35,629
+portion of our revenue and so that
+that's kind of why I would rather take a
+
+1034
+00:16:35,629 --> 00:16:35,639
+that's kind of why I would rather take a
+ 
+
+1035
+00:16:35,639 --> 00:16:36,949
+that's kind of why I would rather take a
+Enterprise sales motion and not get
+
+1036
+00:16:36,949 --> 00:16:36,959
+Enterprise sales motion and not get
+ 
+
+1037
+00:16:36,959 --> 00:16:38,710
+Enterprise sales motion and not get
+people with my Twitter DMS asking me hey
+
+1038
+00:16:38,710 --> 00:16:38,720
+people with my Twitter DMS asking me hey
+ 
+
+1039
+00:16:38,720 --> 00:16:41,449
+people with my Twitter DMS asking me hey
+uh why is this not working and it's like
+
+1040
+00:16:41,449 --> 00:16:41,459
+uh why is this not working and it's like
+ 
+
+1041
+00:16:41,459 --> 00:16:42,769
+uh why is this not working and it's like
+you're just not using the product
+
+1042
+00:16:42,769 --> 00:16:42,779
+you're just not using the product
+ 
+
+1043
+00:16:42,779 --> 00:16:45,170
+you're just not using the product
+correctly you know uh so I don't know
+
+1044
+00:16:45,170 --> 00:16:45,180
+correctly you know uh so I don't know
+ 
+
+1045
+00:16:45,180 --> 00:16:46,970
+correctly you know uh so I don't know
+that's that's kind of how that's been
+
+1046
+00:16:46,970 --> 00:16:46,980
+that's that's kind of how that's been
+ 
+
+1047
+00:16:46,980 --> 00:16:49,069
+that's that's kind of how that's been
+going but yeah we definitely run cool
+
+1048
+00:16:49,069 --> 00:16:49,079
+going but yeah we definitely run cool
+ 
+
+1049
+00:16:49,079 --> 00:16:50,870
+going but yeah we definitely run cool
+EOS for all of our products
+
+1050
+00:16:50,870 --> 00:16:50,880
+EOS for all of our products
+ 
+
+1051
+00:16:50,880 --> 00:16:52,189
+EOS for all of our products
+um you know it's obviously easy because
+
+1052
+00:16:52,189 --> 00:16:52,199
+um you know it's obviously easy because
+ 
+
+1053
+00:16:52,199 --> 00:16:54,110
+um you know it's obviously easy because
+we have the agency and you know pretty
+
+1054
+00:16:54,110 --> 00:16:54,120
+we have the agency and you know pretty
+ 
+
+1055
+00:16:54,120 --> 00:16:56,509
+we have the agency and you know pretty
+good plug-and-play system for it so why
+
+1056
+00:16:56,509 --> 00:16:56,519
+good plug-and-play system for it so why
+ 
+
+1057
+00:16:56,519 --> 00:16:57,530
+good plug-and-play system for it so why
+not you know
+
+1058
+00:16:57,530 --> 00:16:57,540
+not you know
+ 
+
+1059
+00:16:57,540 --> 00:17:00,170
+not you know
+I'm curious four four lead Birds
+
+1060
+00:17:00,170 --> 00:17:00,180
+I'm curious four four lead Birds
+ 
+
+1061
+00:17:00,180 --> 00:17:01,610
+I'm curious four four lead Birds
+specifically do you mind sharing how
+
+1062
+00:17:01,610 --> 00:17:01,620
+specifically do you mind sharing how
+ 
+
+1063
+00:17:01,620 --> 00:17:03,290
+specifically do you mind sharing how
+many people that you pulled email for
+
+1064
+00:17:03,290 --> 00:17:03,300
+many people that you pulled email for
+ 
+
+1065
+00:17:03,300 --> 00:17:05,270
+many people that you pulled email for
+your own company per month
+
+1066
+00:17:05,270 --> 00:17:05,280
+your own company per month
+ 
+
+1067
+00:17:05,280 --> 00:17:07,429
+your own company per month
+per month um so we're gonna rapidly
+
+1068
+00:17:07,429 --> 00:17:07,439
+per month um so we're gonna rapidly
+ 
+
+1069
+00:17:07,439 --> 00:17:09,409
+per month um so we're gonna rapidly
+scale this because like uh
+
+1070
+00:17:09,409 --> 00:17:09,419
+scale this because like uh
+ 
+
+1071
+00:17:09,419 --> 00:17:11,870
+scale this because like uh
+first time in the last three years where
+
+1072
+00:17:11,870 --> 00:17:11,880
+first time in the last three years where
+ 
+
+1073
+00:17:11,880 --> 00:17:14,870
+first time in the last three years where
+I feel like fulfillment is like really
+
+1074
+00:17:14,870 --> 00:17:14,880
+I feel like fulfillment is like really
+ 
+
+1075
+00:17:14,880 --> 00:17:17,030
+I feel like fulfillment is like really
+good and you know I have a pretty good
+
+1076
+00:17:17,030 --> 00:17:17,040
+good and you know I have a pretty good
+ 
+
+1077
+00:17:17,040 --> 00:17:18,530
+good and you know I have a pretty good
+back-end team where like I'm really
+
+1078
+00:17:18,530 --> 00:17:18,540
+back-end team where like I'm really
+ 
+
+1079
+00:17:18,540 --> 00:17:21,710
+back-end team where like I'm really
+confident in and so going into May we're
+
+1080
+00:17:21,710 --> 00:17:21,720
+confident in and so going into May we're
+ 
+
+1081
+00:17:21,720 --> 00:17:23,390
+confident in and so going into May we're
+going to go full sales mode I've never
+
+1082
+00:17:23,390 --> 00:17:23,400
+going to go full sales mode I've never
+ 
+
+1083
+00:17:23,400 --> 00:17:25,429
+going to go full sales mode I've never
+been able to do this and like we're kind
+
+1084
+00:17:25,429 --> 00:17:25,439
+been able to do this and like we're kind
+ 
+
+1085
+00:17:25,439 --> 00:17:26,870
+been able to do this and like we're kind
+of prepping for it you know getting a
+
+1086
+00:17:26,870 --> 00:17:26,880
+of prepping for it you know getting a
+ 
+
+1087
+00:17:26,880 --> 00:17:28,429
+of prepping for it you know getting a
+little CRM built out a little bit more
+
+1088
+00:17:28,429 --> 00:17:28,439
+little CRM built out a little bit more
+ 
+
+1089
+00:17:28,439 --> 00:17:30,169
+little CRM built out a little bit more
+we've been running a really successful
+
+1090
+00:17:30,169 --> 00:17:30,179
+we've been running a really successful
+ 
+
+1091
+00:17:30,179 --> 00:17:31,669
+we've been running a really successful
+golden campaign this month that's
+
+1092
+00:17:31,669 --> 00:17:31,679
+golden campaign this month that's
+ 
+
+1093
+00:17:31,679 --> 00:17:33,890
+golden campaign this month that's
+probably done over 30 to 40 appointments
+
+1094
+00:17:33,890 --> 00:17:33,900
+probably done over 30 to 40 appointments
+ 
+
+1095
+00:17:33,900 --> 00:17:36,470
+probably done over 30 to 40 appointments
+already and content's been picking up a
+
+1096
+00:17:36,470 --> 00:17:36,480
+already and content's been picking up a
+ 
+
+1097
+00:17:36,480 --> 00:17:38,210
+already and content's been picking up a
+lot so that's also picking up a lot of
+
+1098
+00:17:38,210 --> 00:17:38,220
+lot so that's also picking up a lot of
+ 
+
+1099
+00:17:38,220 --> 00:17:40,970
+lot so that's also picking up a lot of
+appointments so in my goal is to get a
+
+1100
+00:17:40,970 --> 00:17:40,980
+appointments so in my goal is to get a
+ 
+
+1101
+00:17:40,980 --> 00:17:43,190
+appointments so in my goal is to get a
+new center to start doing cold calls get
+
+1102
+00:17:43,190 --> 00:17:43,200
+new center to start doing cold calls get
+ 
+
+1103
+00:17:43,200 --> 00:17:45,350
+new center to start doing cold calls get
+a sales team in place get multiple
+
+1104
+00:17:45,350 --> 00:17:45,360
+a sales team in place get multiple
+ 
+
+1105
+00:17:45,360 --> 00:17:46,850
+a sales team in place get multiple
+closers
+
+1106
+00:17:46,850 --> 00:17:46,860
+closers
+ 
+
+1107
+00:17:46,860 --> 00:17:48,710
+closers
+um and and really crush it on our sales
+
+1108
+00:17:48,710 --> 00:17:48,720
+um and and really crush it on our sales
+ 
+
+1109
+00:17:48,720 --> 00:17:51,289
+um and and really crush it on our sales
+side but in terms of so right now like
+
+1110
+00:17:51,289 --> 00:17:51,299
+side but in terms of so right now like
+ 
+
+1111
+00:17:51,299 --> 00:17:52,789
+side but in terms of so right now like
+for the month of April we've probably
+
+1112
+00:17:52,789 --> 00:17:52,799
+for the month of April we've probably
+ 
+
+1113
+00:17:52,799 --> 00:17:53,810
+for the month of April we've probably
+done
+
+1114
+00:17:53,810 --> 00:17:53,820
+done
+ 
+
+1115
+00:17:53,820 --> 00:17:56,390
+done
+we probably added five to seven thousand
+
+1116
+00:17:56,390 --> 00:17:56,400
+we probably added five to seven thousand
+ 
+
+1117
+00:17:56,400 --> 00:17:59,289
+we probably added five to seven thousand
+people into our campaign but going into
+
+1118
+00:17:59,289 --> 00:17:59,299
+people into our campaign but going into
+ 
+
+1119
+00:17:59,299 --> 00:18:03,049
+people into our campaign but going into
+may I want to like 10x that not 10x
+
+1120
+00:18:03,049 --> 00:18:03,059
+may I want to like 10x that not 10x
+ 
+
+1121
+00:18:03,059 --> 00:18:06,049
+may I want to like 10x that not 10x
+maybe 10x or like 30 to 50 000 uh 12
+
+1122
+00:18:06,049 --> 00:18:06,059
+maybe 10x or like 30 to 50 000 uh 12
+ 
+
+1123
+00:18:06,059 --> 00:18:08,390
+maybe 10x or like 30 to 50 000 uh 12
+people added into a prospect for into a
+
+1124
+00:18:08,390 --> 00:18:08,400
+people added into a prospect for into a
+ 
+
+1125
+00:18:08,400 --> 00:18:11,630
+people added into a prospect for into a
+campaign so uh I'm guessing if you're
+
+1126
+00:18:11,630 --> 00:18:11,640
+campaign so uh I'm guessing if you're
+ 
+
+1127
+00:18:11,640 --> 00:18:13,010
+campaign so uh I'm guessing if you're
+doing that higher volume planning you
+
+1128
+00:18:13,010 --> 00:18:13,020
+doing that higher volume planning you
+ 
+
+1129
+00:18:13,020 --> 00:18:14,510
+doing that higher volume planning you
+can't just be targeting agencies and a
+
+1130
+00:18:14,510 --> 00:18:14,520
+can't just be targeting agencies and a
+ 
+
+1131
+00:18:14,520 --> 00:18:16,909
+can't just be targeting agencies and a
+lot of people need to we want to just um
+
+1132
+00:18:16,909 --> 00:18:16,919
+lot of people need to we want to just um
+ 
+
+1133
+00:18:16,919 --> 00:18:18,590
+lot of people need to we want to just um
+how do you determine who you want to
+
+1134
+00:18:18,590 --> 00:18:18,600
+how do you determine who you want to
+ 
+
+1135
+00:18:18,600 --> 00:18:20,510
+how do you determine who you want to
+Target is it by industry is it by
+
+1136
+00:18:20,510 --> 00:18:20,520
+Target is it by industry is it by
+ 
+
+1137
+00:18:20,520 --> 00:18:22,250
+Target is it by industry is it by
+employee account
+
+1138
+00:18:22,250 --> 00:18:22,260
+employee account
+ 
+
+1139
+00:18:22,260 --> 00:18:24,409
+employee account
+yeah so it varies I mean so we do
+
+1140
+00:18:24,409 --> 00:18:24,419
+yeah so it varies I mean so we do
+ 
+
+1141
+00:18:24,419 --> 00:18:26,150
+yeah so it varies I mean so we do
+definitely still Target agencies you
+
+1142
+00:18:26,150 --> 00:18:26,160
+definitely still Target agencies you
+ 
+
+1143
+00:18:26,160 --> 00:18:27,950
+definitely still Target agencies you
+know that's like kind of like
+
+1144
+00:18:27,950 --> 00:18:27,960
+know that's like kind of like
+ 
+
+1145
+00:18:27,960 --> 00:18:30,590
+know that's like kind of like
+what's the the phrase like the the low
+
+1146
+00:18:30,590 --> 00:18:30,600
+what's the the phrase like the the low
+ 
+
+1147
+00:18:30,600 --> 00:18:31,850
+what's the the phrase like the the low
+hanging fruit like you know you're going
+
+1148
+00:18:31,850 --> 00:18:31,860
+hanging fruit like you know you're going
+ 
+
+1149
+00:18:31,860 --> 00:18:32,930
+hanging fruit like you know you're going
+to get appointments booked you know
+
+1150
+00:18:32,930 --> 00:18:32,940
+to get appointments booked you know
+ 
+
+1151
+00:18:32,940 --> 00:18:34,909
+to get appointments booked you know
+you're going to close some of those
+
+1152
+00:18:34,909 --> 00:18:34,919
+you're going to close some of those
+ 
+
+1153
+00:18:34,919 --> 00:18:36,590
+you're going to close some of those
+um it may not be the best clients but
+
+1154
+00:18:36,590 --> 00:18:36,600
+um it may not be the best clients but
+ 
+
+1155
+00:18:36,600 --> 00:18:38,690
+um it may not be the best clients but
+like you know learning through
+
+1156
+00:18:38,690 --> 00:18:38,700
+like you know learning through
+ 
+
+1157
+00:18:38,700 --> 00:18:41,510
+like you know learning through
+um I like to to hit a lot of people that
+
+1158
+00:18:41,510 --> 00:18:41,520
+um I like to to hit a lot of people that
+ 
+
+1159
+00:18:41,520 --> 00:18:43,730
+um I like to to hit a lot of people that
+are in like people that have like roles
+
+1160
+00:18:43,730 --> 00:18:43,740
+are in like people that have like roles
+ 
+
+1161
+00:18:43,740 --> 00:18:46,010
+are in like people that have like roles
+around demand gen
+
+1162
+00:18:46,010 --> 00:18:46,020
+around demand gen
+ 
+
+1163
+00:18:46,020 --> 00:18:48,230
+around demand gen
+um those are those really good ones had
+
+1164
+00:18:48,230 --> 00:18:48,240
+um those are those really good ones had
+ 
+
+1165
+00:18:48,240 --> 00:18:49,970
+um those are those really good ones had
+a growth those are really good titles
+
+1166
+00:18:49,970 --> 00:18:49,980
+a growth those are really good titles
+ 
+
+1167
+00:18:49,980 --> 00:18:51,350
+a growth those are really good titles
+you just need to be able to build your
+
+1168
+00:18:51,350 --> 00:18:51,360
+you just need to be able to build your
+ 
+
+1169
+00:18:51,360 --> 00:18:53,210
+you just need to be able to build your
+webos to be B2B obviously because you
+
+1170
+00:18:53,210 --> 00:18:53,220
+webos to be B2B obviously because you
+ 
+
+1171
+00:18:53,220 --> 00:18:54,529
+webos to be B2B obviously because you
+know if you do head of growth you may
+
+1172
+00:18:54,529 --> 00:18:54,539
+know if you do head of growth you may
+ 
+
+1173
+00:18:54,539 --> 00:18:56,570
+know if you do head of growth you may
+get a lot of b2c companies which is
+
+1174
+00:18:56,570 --> 00:18:56,580
+get a lot of b2c companies which is
+ 
+
+1175
+00:18:56,580 --> 00:18:58,490
+get a lot of b2c companies which is
+obviously not going to work same people
+
+1176
+00:18:58,490 --> 00:18:58,500
+obviously not going to work same people
+ 
+
+1177
+00:18:58,500 --> 00:19:00,169
+obviously not going to work same people
+demand gen
+
+1178
+00:19:00,169 --> 00:19:00,179
+demand gen
+ 
+
+1179
+00:19:00,179 --> 00:19:02,450
+demand gen
+um and so yeah like it kind of depends
+
+1180
+00:19:02,450 --> 00:19:02,460
+um and so yeah like it kind of depends
+ 
+
+1181
+00:19:02,460 --> 00:19:04,370
+um and so yeah like it kind of depends
+but we do have pretty good icps built
+
+1182
+00:19:04,370 --> 00:19:04,380
+but we do have pretty good icps built
+ 
+
+1183
+00:19:04,380 --> 00:19:07,070
+but we do have pretty good icps built
+out and we have like a really
+
+1184
+00:19:07,070 --> 00:19:07,080
+out and we have like a really
+ 
+
+1185
+00:19:07,080 --> 00:19:09,350
+out and we have like a really
+smart way of running like a like right
+
+1186
+00:19:09,350 --> 00:19:09,360
+smart way of running like a like right
+ 
+
+1187
+00:19:09,360 --> 00:19:10,970
+smart way of running like a like right
+our campaign right now is like we're
+
+1188
+00:19:10,970 --> 00:19:10,980
+our campaign right now is like we're
+ 
+
+1189
+00:19:10,980 --> 00:19:13,190
+our campaign right now is like we're
+able to scrape
+
+1190
+00:19:13,190 --> 00:19:13,200
+able to scrape
+ 
+
+1191
+00:19:13,200 --> 00:19:15,110
+able to scrape
+our competitors
+
+1192
+00:19:15,110 --> 00:19:15,120
+our competitors
+ 
+
+1193
+00:19:15,120 --> 00:19:17,210
+our competitors
+followers on their LinkedIn company page
+
+1194
+00:19:17,210 --> 00:19:17,220
+followers on their LinkedIn company page
+ 
+
+1195
+00:19:17,220 --> 00:19:19,669
+followers on their LinkedIn company page
+and run old emails campaigns to them and
+
+1196
+00:19:19,669 --> 00:19:19,679
+and run old emails campaigns to them and
+ 
+
+1197
+00:19:19,679 --> 00:19:21,529
+and run old emails campaigns to them and
+so that that prints for us right now um
+
+1198
+00:19:21,529 --> 00:19:21,539
+so that that prints for us right now um
+ 
+
+1199
+00:19:21,539 --> 00:19:22,909
+so that that prints for us right now um
+and so we're gonna we're gonna replicate
+
+1200
+00:19:22,909 --> 00:19:22,919
+and so we're gonna we're gonna replicate
+ 
+
+1201
+00:19:22,919 --> 00:19:24,230
+and so we're gonna we're gonna replicate
+that at scale and then we have like a
+
+1202
+00:19:24,230 --> 00:19:24,240
+that at scale and then we have like a
+ 
+
+1203
+00:19:24,240 --> 00:19:25,909
+that at scale and then we have like a
+pretty good SEO play that's that's kind
+
+1204
+00:19:25,909 --> 00:19:25,919
+pretty good SEO play that's that's kind
+ 
+
+1205
+00:19:25,919 --> 00:19:27,770
+pretty good SEO play that's that's kind
+of picking up right now too as well so
+
+1206
+00:19:27,770 --> 00:19:27,780
+of picking up right now too as well so
+ 
+
+1207
+00:19:27,780 --> 00:19:29,990
+of picking up right now too as well so
+yeah I don't know I think going into May
+
+1208
+00:19:29,990 --> 00:19:30,000
+yeah I don't know I think going into May
+ 
+
+1209
+00:19:30,000 --> 00:19:31,970
+yeah I don't know I think going into May
+June July it's like it's all about
+
+1210
+00:19:31,970 --> 00:19:31,980
+June July it's like it's all about
+ 
+
+1211
+00:19:31,980 --> 00:19:34,070
+June July it's like it's all about
+customer acquisition which is like
+
+1212
+00:19:34,070 --> 00:19:34,080
+customer acquisition which is like
+ 
+
+1213
+00:19:34,080 --> 00:19:36,190
+customer acquisition which is like
+something I enjoy obviously
+
+1214
+00:19:36,190 --> 00:19:36,200
+something I enjoy obviously
+ 
+
+1215
+00:19:36,200 --> 00:19:39,770
+something I enjoy obviously
+and it's it's the fun part for sure
+
+1216
+00:19:39,770 --> 00:19:39,780
+and it's it's the fun part for sure
+ 
+
+1217
+00:19:39,780 --> 00:19:42,110
+and it's it's the fun part for sure
+well sweet I um I think that leads to
+
+1218
+00:19:42,110 --> 00:19:42,120
+well sweet I um I think that leads to
+ 
+
+1219
+00:19:42,120 --> 00:19:43,730
+well sweet I um I think that leads to
+one of the final questions here which
+
+1220
+00:19:43,730 --> 00:19:43,740
+one of the final questions here which
+ 
+
+1221
+00:19:43,740 --> 00:19:45,289
+one of the final questions here which
+you know you're doing a lot of things
+
+1222
+00:19:45,289 --> 00:19:45,299
+you know you're doing a lot of things
+ 
+
+1223
+00:19:45,299 --> 00:19:46,250
+you know you're doing a lot of things
+you're figuring out what you do and
+
+1224
+00:19:46,250 --> 00:19:46,260
+you're figuring out what you do and
+ 
+
+1225
+00:19:46,260 --> 00:19:48,049
+you're figuring out what you do and
+don't like a software you're deciding to
+
+1226
+00:19:48,049 --> 00:19:48,059
+don't like a software you're deciding to
+ 
+
+1227
+00:19:48,059 --> 00:19:50,630
+don't like a software you're deciding to
+scale the agency what what is the goal
+
+1228
+00:19:50,630 --> 00:19:50,640
+scale the agency what what is the goal
+ 
+
+1229
+00:19:50,640 --> 00:19:52,370
+scale the agency what what is the goal
+here is the goal to sell all these
+
+1230
+00:19:52,370 --> 00:19:52,380
+here is the goal to sell all these
+ 
+
+1231
+00:19:52,380 --> 00:19:54,230
+here is the goal to sell all these
+companies and go into real estate is it
+
+1232
+00:19:54,230 --> 00:19:54,240
+companies and go into real estate is it
+ 
+
+1233
+00:19:54,240 --> 00:19:55,909
+companies and go into real estate is it
+to sell them and travel the world do you
+
+1234
+00:19:55,909 --> 00:19:55,919
+to sell them and travel the world do you
+ 
+
+1235
+00:19:55,919 --> 00:19:58,010
+to sell them and travel the world do you
+just like building things like have you
+
+1236
+00:19:58,010 --> 00:19:58,020
+just like building things like have you
+ 
+
+1237
+00:19:58,020 --> 00:19:59,990
+just like building things like have you
+put a lot of thought into where all this
+
+1238
+00:19:59,990 --> 00:20:00,000
+put a lot of thought into where all this
+ 
+
+1239
+00:20:00,000 --> 00:20:01,430
+put a lot of thought into where all this
+is leading and how these companies are
+
+1240
+00:20:01,430 --> 00:20:01,440
+is leading and how these companies are
+ 
+
+1241
+00:20:01,440 --> 00:20:03,110
+is leading and how these companies are
+going to take you there
+
+1242
+00:20:03,110 --> 00:20:03,120
+going to take you there
+ 
+
+1243
+00:20:03,120 --> 00:20:06,169
+going to take you there
+yeah so I think the end goal is not
+
+1244
+00:20:06,169 --> 00:20:06,179
+yeah so I think the end goal is not
+ 
+
+1245
+00:20:06,179 --> 00:20:08,390
+yeah so I think the end goal is not
+really like the end goal it's like I
+
+1246
+00:20:08,390 --> 00:20:08,400
+really like the end goal it's like I
+ 
+
+1247
+00:20:08,400 --> 00:20:11,210
+really like the end goal it's like I
+want Libra to be a stable like a staple
+
+1248
+00:20:11,210 --> 00:20:11,220
+want Libra to be a stable like a staple
+ 
+
+1249
+00:20:11,220 --> 00:20:12,770
+want Libra to be a stable like a staple
+name you know I don't want it like you
+
+1250
+00:20:12,770 --> 00:20:12,780
+name you know I don't want it like you
+ 
+
+1251
+00:20:12,780 --> 00:20:13,789
+name you know I don't want it like you
+know when I think of like the biggest
+
+1252
+00:20:13,789 --> 00:20:13,799
+know when I think of like the biggest
+ 
+
+1253
+00:20:13,799 --> 00:20:15,950
+know when I think of like the biggest
+guys in the lead Legion space I think of
+
+1254
+00:20:15,950 --> 00:20:15,960
+guys in the lead Legion space I think of
+ 
+
+1255
+00:20:15,960 --> 00:20:17,330
+guys in the lead Legion space I think of
+science I think of belkins you know and
+
+1256
+00:20:17,330 --> 00:20:17,340
+science I think of belkins you know and
+ 
+
+1257
+00:20:17,340 --> 00:20:18,950
+science I think of belkins you know and
+I want Libra to be up there with it
+
+1258
+00:20:18,950 --> 00:20:18,960
+I want Libra to be up there with it
+ 
+
+1259
+00:20:18,960 --> 00:20:22,070
+I want Libra to be up there with it
+because I love sales I love Legion and
+
+1260
+00:20:22,070 --> 00:20:22,080
+because I love sales I love Legion and
+ 
+
+1261
+00:20:22,080 --> 00:20:24,049
+because I love sales I love Legion and
+you know I really enjoy like working
+
+1262
+00:20:24,049 --> 00:20:24,059
+you know I really enjoy like working
+ 
+
+1263
+00:20:24,059 --> 00:20:25,490
+you know I really enjoy like working
+with my team and I just I just wanted to
+
+1264
+00:20:25,490 --> 00:20:25,500
+with my team and I just I just wanted to
+ 
+
+1265
+00:20:25,500 --> 00:20:26,750
+with my team and I just I just wanted to
+be one of the biggest up there and I'm
+
+1266
+00:20:26,750 --> 00:20:26,760
+be one of the biggest up there and I'm
+ 
+
+1267
+00:20:26,760 --> 00:20:27,890
+be one of the biggest up there and I'm
+sure it looks like one of your goals as
+
+1268
+00:20:27,890 --> 00:20:27,900
+sure it looks like one of your goals as
+ 
+
+1269
+00:20:27,900 --> 00:20:29,630
+sure it looks like one of your goals as
+well you know and it's something that
+
+1270
+00:20:29,630 --> 00:20:29,640
+well you know and it's something that
+ 
+
+1271
+00:20:29,640 --> 00:20:31,610
+well you know and it's something that
+you know I just I mean that's kind of
+
+1272
+00:20:31,610 --> 00:20:31,620
+you know I just I mean that's kind of
+ 
+
+1273
+00:20:31,620 --> 00:20:32,990
+you know I just I mean that's kind of
+like what motivates me day in day out
+
+1274
+00:20:32,990 --> 00:20:33,000
+like what motivates me day in day out
+ 
+
+1275
+00:20:33,000 --> 00:20:34,430
+like what motivates me day in day out
+it's like you know I'm building some of
+
+1276
+00:20:34,430 --> 00:20:34,440
+it's like you know I'm building some of
+ 
+
+1277
+00:20:34,440 --> 00:20:36,049
+it's like you know I'm building some of
+the like I like what I think is like
+
+1278
+00:20:36,049 --> 00:20:36,059
+the like I like what I think is like
+ 
+
+1279
+00:20:36,059 --> 00:20:37,370
+the like I like what I think is like
+some of the greatest processes when it
+
+1280
+00:20:37,370 --> 00:20:37,380
+some of the greatest processes when it
+ 
+
+1281
+00:20:37,380 --> 00:20:40,130
+some of the greatest processes when it
+comes to Legion you know across like all
+
+1282
+00:20:40,130 --> 00:20:40,140
+comes to Legion you know across like all
+ 
+
+1283
+00:20:40,140 --> 00:20:42,289
+comes to Legion you know across like all
+companies and and you know it just it's
+
+1284
+00:20:42,289 --> 00:20:42,299
+companies and and you know it just it's
+ 
+
+1285
+00:20:42,299 --> 00:20:43,789
+companies and and you know it just it's
+incredible to kind of see that kind of
+
+1286
+00:20:43,789 --> 00:20:43,799
+incredible to kind of see that kind of
+ 
+
+1287
+00:20:43,799 --> 00:20:44,990
+incredible to kind of see that kind of
+come to play so yeah I don't know yeah
+
+1288
+00:20:44,990 --> 00:20:45,000
+come to play so yeah I don't know yeah
+ 
+
+1289
+00:20:45,000 --> 00:20:46,970
+come to play so yeah I don't know yeah
+that's kind of like my goal just uh make
+
+1290
+00:20:46,970 --> 00:20:46,980
+that's kind of like my goal just uh make
+ 
+
+1291
+00:20:46,980 --> 00:20:48,529
+that's kind of like my goal just uh make
+lever in a stable name for everything
+
+1292
+00:20:48,529 --> 00:20:48,539
+lever in a stable name for everything
+ 
+
+1293
+00:20:48,539 --> 00:20:50,890
+lever in a stable name for everything
+and anything old Outreach Legion sales
+
+1294
+00:20:50,890 --> 00:20:50,900
+and anything old Outreach Legion sales
+ 
+
+1295
+00:20:50,900 --> 00:20:52,970
+and anything old Outreach Legion sales
+uh take it from there
+
+1296
+00:20:52,970 --> 00:20:52,980
+uh take it from there
+ 
+
+1297
+00:20:52,980 --> 00:20:55,610
+uh take it from there
+oh that's sweet well as a final sign off
+
+1298
+00:20:55,610 --> 00:20:55,620
+oh that's sweet well as a final sign off
+ 
+
+1299
+00:20:55,620 --> 00:20:56,750
+oh that's sweet well as a final sign off
+Nick
+
+1300
+00:20:56,750 --> 00:20:56,760
+Nick
+ 
+
+1301
+00:20:56,760 --> 00:20:58,490
+Nick
+um obviously I'll have lead bird and
+
+1302
+00:20:58,490 --> 00:20:58,500
+um obviously I'll have lead bird and
+ 
+
+1303
+00:20:58,500 --> 00:20:59,570
+um obviously I'll have lead bird and
+I'll have some of your software
+
+1304
+00:20:59,570 --> 00:20:59,580
+I'll have some of your software
+ 
+
+1305
+00:20:59,580 --> 00:21:01,010
+I'll have some of your software
+companies and probably your Twitter too
+
+1306
+00:21:01,010 --> 00:21:01,020
+companies and probably your Twitter too
+ 
+
+1307
+00:21:01,020 --> 00:21:04,270
+companies and probably your Twitter too
+linked down below is there any other
+
+1308
+00:21:04,270 --> 00:21:04,280
+linked down below is there any other
+ 
+
+1309
+00:21:04,280 --> 00:21:06,590
+linked down below is there any other
+tool or link you want to shout out
+
+1310
+00:21:06,590 --> 00:21:06,600
+tool or link you want to shout out
+ 
+
+1311
+00:21:06,600 --> 00:21:08,990
+tool or link you want to shout out
+people connect with you or they can try
+
+1312
+00:21:08,990 --> 00:21:09,000
+people connect with you or they can try
+ 
+
+1313
+00:21:09,000 --> 00:21:11,330
+people connect with you or they can try
+one of your products
+
+1314
+00:21:11,330 --> 00:21:11,340
+one of your products
+ 
+
+1315
+00:21:11,340 --> 00:21:13,310
+one of your products
+yeah so you just type in Nick Abraham 12
+
+1316
+00:21:13,310 --> 00:21:13,320
+yeah so you just type in Nick Abraham 12
+ 
+
+1317
+00:21:13,320 --> 00:21:15,830
+yeah so you just type in Nick Abraham 12
+YouTube Twitter or LinkedIn it'll pop up
+
+1318
+00:21:15,830 --> 00:21:15,840
+YouTube Twitter or LinkedIn it'll pop up
+ 
+
+1319
+00:21:15,840 --> 00:21:17,150
+YouTube Twitter or LinkedIn it'll pop up
+to my profile and post some pretty good
+
+1320
+00:21:17,150 --> 00:21:17,160
+to my profile and post some pretty good
+ 
+
+1321
+00:21:17,160 --> 00:21:18,409
+to my profile and post some pretty good
+content I think that's pretty good
+
+1322
+00:21:18,409 --> 00:21:18,419
+content I think that's pretty good
+ 
+
+1323
+00:21:18,419 --> 00:21:21,470
+content I think that's pretty good
+content you guys can let me know
+
+1324
+00:21:21,470 --> 00:21:21,480
+content you guys can let me know
+ 
+
+1325
+00:21:21,480 --> 00:21:23,810
+content you guys can let me know
+um and yeah that's really it and then
+
+1326
+00:21:23,810 --> 00:21:23,820
+um and yeah that's really it and then
+ 
+
+1327
+00:21:23,820 --> 00:21:25,130
+um and yeah that's really it and then
+you'll probably see some of our products
+
+1328
+00:21:25,130 --> 00:21:25,140
+you'll probably see some of our products
+ 
+
+1329
+00:21:25,140 --> 00:21:27,650
+you'll probably see some of our products
+on there scrubby golden leads and yeah
+
+1330
+00:21:27,650 --> 00:21:27,660
+on there scrubby golden leads and yeah
+ 
+
+1331
+00:21:27,660 --> 00:21:29,450
+on there scrubby golden leads and yeah
+that'll probably take you to some of
+
+1332
+00:21:29,450 --> 00:21:29,460
+that'll probably take you to some of
+ 
+
+1333
+00:21:29,460 --> 00:21:31,549
+that'll probably take you to some of
+those tools and you can test it out and
+
+1334
+00:21:31,549 --> 00:21:31,559
+those tools and you can test it out and
+ 
+
+1335
+00:21:31,559 --> 00:21:33,770
+those tools and you can test it out and
+let us know if it's good uh give us some
+
+1336
+00:21:33,770 --> 00:21:33,780
+let us know if it's good uh give us some
+ 
+
+1337
+00:21:33,780 --> 00:21:35,210
+let us know if it's good uh give us some
+feedback yeah that's that's really about
+
+1338
+00:21:35,210 --> 00:21:35,220
+feedback yeah that's that's really about
+ 
+
+1339
+00:21:35,220 --> 00:21:35,990
+feedback yeah that's that's really about
+it
+
+1340
+00:21:35,990 --> 00:21:36,000
+it
+ 
+
+1341
+00:21:36,000 --> 00:21:37,970
+it
+great well Nick thanks for coming on
+
+1342
+00:21:37,970 --> 00:21:37,980
+great well Nick thanks for coming on
+ 
+
+1343
+00:21:37,980 --> 00:21:39,810
+great well Nick thanks for coming on
+thanks for having me
+
+1344
+00:21:39,810 --> 00:21:39,820
+thanks for having me
+ 
+
+1345
+00:21:39,820 --> 00:21:41,750
+thanks for having me
+[Music]
+
+1346
+00:21:41,750 --> 00:21:41,760
+[Music]
+ 
+
+1347
+00:21:41,760 --> 00:21:43,110
+[Music]
+foreign
+
+1348
+00:21:43,110 --> 00:21:43,120
+foreign
+ 
+
+1349
+00:21:43,120 --> 00:21:46,930
+foreign
+[Music]
+

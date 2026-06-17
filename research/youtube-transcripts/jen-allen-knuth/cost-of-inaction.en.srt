@@ -1,0 +1,9295 @@
+1
+00:00:00,240 --> 00:00:03,110
+
+I like to say Roi is a maybe I can't
+
+2
+00:00:03,110 --> 00:00:03,120
+I like to say Roi is a maybe I can't
+ 
+
+3
+00:00:03,120 --> 00:00:07,749
+I like to say Roi is a maybe I can't
+guarantee it COI is is a fact this is
+
+4
+00:00:07,749 --> 00:00:07,759
+guarantee it COI is is a fact this is
+ 
+
+5
+00:00:07,759 --> 00:00:09,430
+guarantee it COI is is a fact this is
+metrics and chill where you'll learn
+
+6
+00:00:09,430 --> 00:00:09,440
+metrics and chill where you'll learn
+ 
+
+7
+00:00:09,440 --> 00:00:11,709
+metrics and chill where you'll learn
+practical strategies to drive consistent
+
+8
+00:00:11,709 --> 00:00:11,719
+practical strategies to drive consistent
+ 
+
+9
+00:00:11,719 --> 00:00:12,740
+practical strategies to drive consistent
+and predictable
+
+10
+00:00:12,740 --> 00:00:12,750
+and predictable
+ 
+
+11
+00:00:12,750 --> 00:00:18,310
+and predictable
+[Music]
+
+12
+00:00:18,310 --> 00:00:18,320
+
+ 
+
+13
+00:00:18,320 --> 00:00:21,750
+
+growth okay Jen welcome to metrics and
+
+14
+00:00:21,750 --> 00:00:21,760
+growth okay Jen welcome to metrics and
+ 
+
+15
+00:00:21,760 --> 00:00:23,550
+growth okay Jen welcome to metrics and
+chill it's a huge like I said to you
+
+16
+00:00:23,550 --> 00:00:23,560
+chill it's a huge like I said to you
+ 
+
+17
+00:00:23,560 --> 00:00:25,830
+chill it's a huge like I said to you
+before we hit record it is a huge honor
+
+18
+00:00:25,830 --> 00:00:25,840
+before we hit record it is a huge honor
+ 
+
+19
+00:00:25,840 --> 00:00:27,269
+before we hit record it is a huge honor
+for me to have you on the show been
+
+20
+00:00:27,269 --> 00:00:27,279
+for me to have you on the show been
+ 
+
+21
+00:00:27,279 --> 00:00:29,630
+for me to have you on the show been
+following you for a while listen to a
+
+22
+00:00:29,630 --> 00:00:29,640
+following you for a while listen to a
+ 
+
+23
+00:00:29,640 --> 00:00:31,349
+following you for a while listen to a
+couple of your interviews of which you
+
+24
+00:00:31,349 --> 00:00:31,359
+couple of your interviews of which you
+ 
+
+25
+00:00:31,359 --> 00:00:32,950
+couple of your interviews of which you
+have a lot of if people have if this is
+
+26
+00:00:32,950 --> 00:00:32,960
+have a lot of if people have if this is
+ 
+
+27
+00:00:32,960 --> 00:00:34,270
+have a lot of if people have if this is
+the first time you're listening to Jen
+
+28
+00:00:34,270 --> 00:00:34,280
+the first time you're listening to Jen
+ 
+
+29
+00:00:34,280 --> 00:00:36,190
+the first time you're listening to Jen
+you should go type in Jen's name into
+
+30
+00:00:36,190 --> 00:00:36,200
+you should go type in Jen's name into
+ 
+
+31
+00:00:36,200 --> 00:00:37,950
+you should go type in Jen's name into
+Spotify and filter by podcast and go
+
+32
+00:00:37,950 --> 00:00:37,960
+Spotify and filter by podcast and go
+ 
+
+33
+00:00:37,960 --> 00:00:39,350
+Spotify and filter by podcast and go
+listen to some especially the interview
+
+34
+00:00:39,350 --> 00:00:39,360
+listen to some especially the interview
+ 
+
+35
+00:00:39,360 --> 00:00:41,029
+listen to some especially the interview
+with Devon Reed but yeah huge honor to
+
+36
+00:00:41,029 --> 00:00:41,039
+with Devon Reed but yeah huge honor to
+ 
+
+37
+00:00:41,039 --> 00:00:43,229
+with Devon Reed but yeah huge honor to
+have you on thank you so much thank you
+
+38
+00:00:43,229 --> 00:00:43,239
+have you on thank you so much thank you
+ 
+
+39
+00:00:43,239 --> 00:00:44,790
+have you on thank you so much thank you
+so much this is by far the coolest
+
+40
+00:00:44,790 --> 00:00:44,800
+so much this is by far the coolest
+ 
+
+41
+00:00:44,800 --> 00:00:46,709
+so much this is by far the coolest
+podcast name I've have been on so he
+
+42
+00:00:46,709 --> 00:00:46,719
+podcast name I've have been on so he
+ 
+
+43
+00:00:46,719 --> 00:00:48,590
+podcast name I've have been on so he
+went I can't unfortunately this is like
+
+44
+00:00:48,590 --> 00:00:48,600
+went I can't unfortunately this is like
+ 
+
+45
+00:00:48,600 --> 00:00:50,310
+went I can't unfortunately this is like
+the one part of the podcast I can't take
+
+46
+00:00:50,310 --> 00:00:50,320
+the one part of the podcast I can't take
+ 
+
+47
+00:00:50,320 --> 00:00:52,310
+the one part of the podcast I can't take
+any credit for this is John the great
+
+48
+00:00:52,310 --> 00:00:52,320
+any credit for this is John the great
+ 
+
+49
+00:00:52,320 --> 00:00:54,790
+any credit for this is John the great
+John bonini uh I think he I I've said
+
+50
+00:00:54,790 --> 00:00:54,800
+John bonini uh I think he I I've said
+ 
+
+51
+00:00:54,800 --> 00:00:56,029
+John bonini uh I think he I I've said
+this a couple times but I think the
+
+52
+00:00:56,029 --> 00:00:56,039
+this a couple times but I think the
+ 
+
+53
+00:00:56,039 --> 00:00:58,509
+this a couple times but I think the
+origin story at data box is he wrote it
+
+54
+00:00:58,509 --> 00:00:58,519
+origin story at data box is he wrote it
+ 
+
+55
+00:00:58,519 --> 00:01:01,069
+origin story at data box is he wrote it
+as like a as like a line in some copy
+
+56
+00:01:01,069 --> 00:01:01,079
+as like a as like a line in some copy
+ 
+
+57
+00:01:01,079 --> 00:01:03,229
+as like a as like a line in some copy
+and then he was like got to like I got
+
+58
+00:01:03,229 --> 00:01:03,239
+and then he was like got to like I got
+ 
+
+59
+00:01:03,239 --> 00:01:04,789
+and then he was like got to like I got
+to use this somewhere else so they found
+
+60
+00:01:04,789 --> 00:01:04,799
+to use this somewhere else so they found
+ 
+
+61
+00:01:04,799 --> 00:01:06,910
+to use this somewhere else so they found
+a way to use it so that's where the best
+
+62
+00:01:06,910 --> 00:01:06,920
+a way to use it so that's where the best
+ 
+
+63
+00:01:06,920 --> 00:01:09,789
+a way to use it so that's where the best
+stuff comes from absolutely okay so for
+
+64
+00:01:09,789 --> 00:01:09,799
+stuff comes from absolutely okay so for
+ 
+
+65
+00:01:09,799 --> 00:01:10,910
+stuff comes from absolutely okay so for
+listeners today we're going to be
+
+66
+00:01:10,910 --> 00:01:10,920
+listeners today we're going to be
+ 
+
+67
+00:01:10,920 --> 00:01:14,469
+listeners today we're going to be
+covering cost of an action or COI as one
+
+68
+00:01:14,469 --> 00:01:14,479
+covering cost of an action or COI as one
+ 
+
+69
+00:01:14,479 --> 00:01:16,550
+covering cost of an action or COI as one
+of the metrics that we're talking about
+
+70
+00:01:16,550 --> 00:01:16,560
+of the metrics that we're talking about
+ 
+
+71
+00:01:16,560 --> 00:01:19,350
+of the metrics that we're talking about
+and so I guess let's start here can you
+
+72
+00:01:19,350 --> 00:01:19,360
+and so I guess let's start here can you
+ 
+
+73
+00:01:19,360 --> 00:01:21,749
+and so I guess let's start here can you
+break down what do you mean when you say
+
+74
+00:01:21,749 --> 00:01:21,759
+break down what do you mean when you say
+ 
+
+75
+00:01:21,759 --> 00:01:24,590
+break down what do you mean when you say
+cost of inaction how is it measured how
+
+76
+00:01:24,590 --> 00:01:24,600
+cost of inaction how is it measured how
+ 
+
+77
+00:01:24,600 --> 00:01:25,830
+cost of inaction how is it measured how
+do you think about it like what's the
+
+78
+00:01:25,830 --> 00:01:25,840
+do you think about it like what's the
+ 
+
+79
+00:01:25,840 --> 00:01:27,510
+do you think about it like what's the
+foundation starting point before we dive
+
+80
+00:01:27,510 --> 00:01:27,520
+foundation starting point before we dive
+ 
+
+81
+00:01:27,520 --> 00:01:29,950
+foundation starting point before we dive
+too deep yeah so let me start with this
+
+82
+00:01:29,950 --> 00:01:29,960
+too deep yeah so let me start with this
+ 
+
+83
+00:01:29,960 --> 00:01:32,789
+too deep yeah so let me start with this
+cost of in action is a New Concept for a
+
+84
+00:01:32,789 --> 00:01:32,799
+cost of in action is a New Concept for a
+ 
+
+85
+00:01:32,799 --> 00:01:34,389
+cost of in action is a New Concept for a
+lot of people particularly in sales and
+
+86
+00:01:34,389 --> 00:01:34,399
+lot of people particularly in sales and
+ 
+
+87
+00:01:34,399 --> 00:01:36,230
+lot of people particularly in sales and
+marketing so I always think when it's a
+
+88
+00:01:36,230 --> 00:01:36,240
+marketing so I always think when it's a
+ 
+
+89
+00:01:36,240 --> 00:01:37,670
+marketing so I always think when it's a
+New Concept it's helpful to frame it
+
+90
+00:01:37,670 --> 00:01:37,680
+New Concept it's helpful to frame it
+ 
+
+91
+00:01:37,680 --> 00:01:40,230
+New Concept it's helpful to frame it
+around something we know first so most
+
+92
+00:01:40,230 --> 00:01:40,240
+around something we know first so most
+ 
+
+93
+00:01:40,240 --> 00:01:41,550
+around something we know first so most
+of us in sales and marketing are
+
+94
+00:01:41,550 --> 00:01:41,560
+of us in sales and marketing are
+ 
+
+95
+00:01:41,560 --> 00:01:44,749
+of us in sales and marketing are
+familiar with those three letters Roi or
+
+96
+00:01:44,749 --> 00:01:44,759
+familiar with those three letters Roi or
+ 
+
+97
+00:01:44,759 --> 00:01:47,590
+familiar with those three letters Roi or
+return on investment and Roi if we break
+
+98
+00:01:47,590 --> 00:01:47,600
+return on investment and Roi if we break
+ 
+
+99
+00:01:47,600 --> 00:01:49,550
+return on investment and Roi if we break
+it down to its simplest simplest
+
+100
+00:01:49,550 --> 00:01:49,560
+it down to its simplest simplest
+ 
+
+101
+00:01:49,560 --> 00:01:53,350
+it down to its simplest simplest
+definition is by doing something you
+
+102
+00:01:53,350 --> 00:01:53,360
+definition is by doing something you
+ 
+
+103
+00:01:53,360 --> 00:01:56,670
+definition is by doing something you
+might see a return that looks like this
+
+104
+00:01:56,670 --> 00:01:56,680
+might see a return that looks like this
+ 
+
+105
+00:01:56,680 --> 00:01:59,350
+might see a return that looks like this
+if we think about cost of an action cost
+
+106
+00:01:59,350 --> 00:01:59,360
+if we think about cost of an action cost
+ 
+
+107
+00:01:59,360 --> 00:02:00,749
+if we think about cost of an action cost
+of an action the way I describe it is
+
+108
+00:02:00,749 --> 00:02:00,759
+of an action the way I describe it is
+ 
+
+109
+00:02:00,759 --> 00:02:03,590
+of an action the way I describe it is
+like by changing nothing here is the
+
+110
+00:02:03,590 --> 00:02:03,600
+like by changing nothing here is the
+ 
+
+111
+00:02:03,600 --> 00:02:05,830
+like by changing nothing here is the
+unintended negative consequence of how
+
+112
+00:02:05,830 --> 00:02:05,840
+unintended negative consequence of how
+ 
+
+113
+00:02:05,840 --> 00:02:07,270
+unintended negative consequence of how
+you're currently solving the problem
+
+114
+00:02:07,270 --> 00:02:07,280
+you're currently solving the problem
+ 
+
+115
+00:02:07,280 --> 00:02:08,869
+you're currently solving the problem
+today so if you stand those two up
+
+116
+00:02:08,869 --> 00:02:08,879
+today so if you stand those two up
+ 
+
+117
+00:02:08,879 --> 00:02:11,510
+today so if you stand those two up
+against each other Roi requires that a
+
+118
+00:02:11,510 --> 00:02:11,520
+against each other Roi requires that a
+ 
+
+119
+00:02:11,520 --> 00:02:13,869
+against each other Roi requires that a
+human being changes buy something do
+
+120
+00:02:13,869 --> 00:02:13,879
+human being changes buy something do
+ 
+
+121
+00:02:13,879 --> 00:02:16,750
+human being changes buy something do
+something different so that maybe you
+
+122
+00:02:16,750 --> 00:02:16,760
+something different so that maybe you
+ 
+
+123
+00:02:16,760 --> 00:02:19,070
+something different so that maybe you
+realize a future benefit cost of in
+
+124
+00:02:19,070 --> 00:02:19,080
+realize a future benefit cost of in
+ 
+
+125
+00:02:19,080 --> 00:02:21,030
+realize a future benefit cost of in
+action is totally agnostic of the
+
+126
+00:02:21,030 --> 00:02:21,040
+action is totally agnostic of the
+ 
+
+127
+00:02:21,040 --> 00:02:23,550
+action is totally agnostic of the
+solution it's simply saying here is how
+
+128
+00:02:23,550 --> 00:02:23,560
+solution it's simply saying here is how
+ 
+
+129
+00:02:23,560 --> 00:02:25,150
+solution it's simply saying here is how
+you're currently solving the problem
+
+130
+00:02:25,150 --> 00:02:25,160
+you're currently solving the problem
+ 
+
+131
+00:02:25,160 --> 00:02:27,270
+you're currently solving the problem
+today and here is the negative
+
+132
+00:02:27,270 --> 00:02:27,280
+today and here is the negative
+ 
+
+133
+00:02:27,280 --> 00:02:29,509
+today and here is the negative
+consequence if it's time money risk you
+
+134
+00:02:29,509 --> 00:02:29,519
+consequence if it's time money risk you
+ 
+
+135
+00:02:29,519 --> 00:02:30,630
+consequence if it's time money risk you
+name it
+
+136
+00:02:30,630 --> 00:02:30,640
+name it
+ 
+
+137
+00:02:30,640 --> 00:02:32,670
+name it
+as a result of solving the problem in
+
+138
+00:02:32,670 --> 00:02:32,680
+as a result of solving the problem in
+ 
+
+139
+00:02:32,680 --> 00:02:34,390
+as a result of solving the problem in
+this way and so if you put those side by
+
+140
+00:02:34,390 --> 00:02:34,400
+this way and so if you put those side by
+ 
+
+141
+00:02:34,400 --> 00:02:37,869
+this way and so if you put those side by
+side I like to say Roi is a maybe I
+
+142
+00:02:37,869 --> 00:02:37,879
+side I like to say Roi is a maybe I
+ 
+
+143
+00:02:37,879 --> 00:02:41,790
+side I like to say Roi is a maybe I
+can't guarantee it COI is is a fact
+
+144
+00:02:41,790 --> 00:02:41,800
+can't guarantee it COI is is a fact
+ 
+
+145
+00:02:41,800 --> 00:02:43,869
+can't guarantee it COI is is a fact
+right like this is how much it's costing
+
+146
+00:02:43,869 --> 00:02:43,879
+right like this is how much it's costing
+ 
+
+147
+00:02:43,879 --> 00:02:45,149
+right like this is how much it's costing
+us to solve the problem the way we're
+
+148
+00:02:45,149 --> 00:02:45,159
+us to solve the problem the way we're
+ 
+
+149
+00:02:45,159 --> 00:02:47,589
+us to solve the problem the way we're
+currently solving it today I love this
+
+150
+00:02:47,589 --> 00:02:47,599
+currently solving it today I love this
+ 
+
+151
+00:02:47,599 --> 00:02:50,430
+currently solving it today I love this
+framing does this come into play when
+
+152
+00:02:50,430 --> 00:02:50,440
+framing does this come into play when
+ 
+
+153
+00:02:50,440 --> 00:02:52,790
+framing does this come into play when
+you come in and work with companies do
+
+154
+00:02:52,790 --> 00:02:52,800
+you come in and work with companies do
+ 
+
+155
+00:02:52,800 --> 00:02:55,309
+you come in and work with companies do
+you encourage marketing and the
+
+156
+00:02:55,309 --> 00:02:55,319
+you encourage marketing and the
+ 
+
+157
+00:02:55,319 --> 00:02:57,110
+you encourage marketing and the
+executive team and whatever to think
+
+158
+00:02:57,110 --> 00:02:57,120
+executive team and whatever to think
+ 
+
+159
+00:02:57,120 --> 00:02:59,270
+executive team and whatever to think
+about this and absorb like this feels
+
+160
+00:02:59,270 --> 00:02:59,280
+about this and absorb like this feels
+ 
+
+161
+00:02:59,280 --> 00:03:00,830
+about this and absorb like this feels
+like it has the the potential to be like
+
+162
+00:03:00,830 --> 00:03:00,840
+like it has the the potential to be like
+ 
+
+163
+00:03:00,840 --> 00:03:02,470
+like it has the the potential to be like
+what messaging or positioning is like
+
+164
+00:03:02,470 --> 00:03:02,480
+what messaging or positioning is like
+ 
+
+165
+00:03:02,480 --> 00:03:04,509
+what messaging or positioning is like
+from originating maybe in one place like
+
+166
+00:03:04,509 --> 00:03:04,519
+from originating maybe in one place like
+ 
+
+167
+00:03:04,519 --> 00:03:06,509
+from originating maybe in one place like
+marketing but then trying to make its
+
+168
+00:03:06,509 --> 00:03:06,519
+marketing but then trying to make its
+ 
+
+169
+00:03:06,519 --> 00:03:08,550
+marketing but then trying to make its
+way out and impact like all these areas
+
+170
+00:03:08,550 --> 00:03:08,560
+way out and impact like all these areas
+ 
+
+171
+00:03:08,560 --> 00:03:10,789
+way out and impact like all these areas
+of the company or does this primarily in
+
+172
+00:03:10,789 --> 00:03:10,799
+of the company or does this primarily in
+ 
+
+173
+00:03:10,799 --> 00:03:13,390
+of the company or does this primarily in
+your mind live in sales and is something
+
+174
+00:03:13,390 --> 00:03:13,400
+your mind live in sales and is something
+ 
+
+175
+00:03:13,400 --> 00:03:16,430
+your mind live in sales and is something
+that's like baked into the sales process
+
+176
+00:03:16,430 --> 00:03:16,440
+that's like baked into the sales process
+ 
+
+177
+00:03:16,440 --> 00:03:18,910
+that's like baked into the sales process
+you nailed it I don't think it should
+
+178
+00:03:18,910 --> 00:03:18,920
+you nailed it I don't think it should
+ 
+
+179
+00:03:18,920 --> 00:03:21,830
+you nailed it I don't think it should
+start and end in any one function like
+
+180
+00:03:21,830 --> 00:03:21,840
+start and end in any one function like
+ 
+
+181
+00:03:21,840 --> 00:03:23,110
+start and end in any one function like
+I've seen a lot of companies who like ah
+
+182
+00:03:23,110 --> 00:03:23,120
+I've seen a lot of companies who like ah
+ 
+
+183
+00:03:23,120 --> 00:03:24,390
+I've seen a lot of companies who like ah
+it's marketing's job to come up with
+
+184
+00:03:24,390 --> 00:03:24,400
+it's marketing's job to come up with
+ 
+
+185
+00:03:24,400 --> 00:03:25,990
+it's marketing's job to come up with
+that positioning well I think anyone
+
+186
+00:03:25,990 --> 00:03:26,000
+that positioning well I think anyone
+ 
+
+187
+00:03:26,000 --> 00:03:28,030
+that positioning well I think anyone
+who's been in a sales role knows that if
+
+188
+00:03:28,030 --> 00:03:28,040
+who's been in a sales role knows that if
+ 
+
+189
+00:03:28,040 --> 00:03:29,789
+who's been in a sales role knows that if
+you get something thrown over the fence
+
+190
+00:03:29,789 --> 00:03:29,799
+you get something thrown over the fence
+ 
+
+191
+00:03:29,799 --> 00:03:31,470
+you get something thrown over the fence
+to you and you weren't a part of
+
+192
+00:03:31,470 --> 00:03:31,480
+to you and you weren't a part of
+ 
+
+193
+00:03:31,480 --> 00:03:33,630
+to you and you weren't a part of
+co-creating it often times that's where
+
+194
+00:03:33,630 --> 00:03:33,640
+co-creating it often times that's where
+ 
+
+195
+00:03:33,640 --> 00:03:36,670
+co-creating it often times that's where
+we see organ rejection and so in my
+
+196
+00:03:36,670 --> 00:03:36,680
+we see organ rejection and so in my
+ 
+
+197
+00:03:36,680 --> 00:03:38,630
+we see organ rejection and so in my
+opinion this is a collaborative effort
+
+198
+00:03:38,630 --> 00:03:38,640
+opinion this is a collaborative effort
+ 
+
+199
+00:03:38,640 --> 00:03:40,589
+opinion this is a collaborative effort
+where you're taking voices from sales
+
+200
+00:03:40,589 --> 00:03:40,599
+where you're taking voices from sales
+ 
+
+201
+00:03:40,599 --> 00:03:42,390
+where you're taking voices from sales
+voices from marketing voices from sales
+
+202
+00:03:42,390 --> 00:03:42,400
+voices from marketing voices from sales
+ 
+
+203
+00:03:42,400 --> 00:03:44,869
+voices from marketing voices from sales
+engineering voices from your leadership
+
+204
+00:03:44,869 --> 00:03:44,879
+engineering voices from your leadership
+ 
+
+205
+00:03:44,879 --> 00:03:47,149
+engineering voices from your leadership
+team or your founder and saying what
+
+206
+00:03:47,149 --> 00:03:47,159
+team or your founder and saying what
+ 
+
+207
+00:03:47,159 --> 00:03:49,550
+team or your founder and saying what
+ultimately is the current status quo of
+
+208
+00:03:49,550 --> 00:03:49,560
+ultimately is the current status quo of
+ 
+
+209
+00:03:49,560 --> 00:03:51,830
+ultimately is the current status quo of
+how most companies solve the problem we
+
+210
+00:03:51,830 --> 00:03:51,840
+how most companies solve the problem we
+ 
+
+211
+00:03:51,840 --> 00:03:53,990
+how most companies solve the problem we
+only exist as businesses because we have
+
+212
+00:03:53,990 --> 00:03:54,000
+only exist as businesses because we have
+ 
+
+213
+00:03:54,000 --> 00:03:55,869
+only exist as businesses because we have
+a different take on how we believe
+
+214
+00:03:55,869 --> 00:03:55,879
+a different take on how we believe
+ 
+
+215
+00:03:55,879 --> 00:03:57,630
+a different take on how we believe
+companies should be solving for the
+
+216
+00:03:57,630 --> 00:03:57,640
+companies should be solving for the
+ 
+
+217
+00:03:57,640 --> 00:04:00,509
+companies should be solving for the
+solution so what is that ground upon and
+
+218
+00:04:00,509 --> 00:04:00,519
+solution so what is that ground upon and
+ 
+
+219
+00:04:00,519 --> 00:04:02,670
+solution so what is that ground upon and
+I think one of the missteps is we either
+
+220
+00:04:02,670 --> 00:04:02,680
+I think one of the missteps is we either
+ 
+
+221
+00:04:02,680 --> 00:04:04,110
+I think one of the missteps is we either
+see companies say like sellers that's
+
+222
+00:04:04,110 --> 00:04:04,120
+see companies say like sellers that's
+ 
+
+223
+00:04:04,120 --> 00:04:05,630
+see companies say like sellers that's
+your job go figure it out or hey it's
+
+224
+00:04:05,630 --> 00:04:05,640
+your job go figure it out or hey it's
+ 
+
+225
+00:04:05,640 --> 00:04:07,470
+your job go figure it out or hey it's
+marketing's job go figure it out and
+
+226
+00:04:07,470 --> 00:04:07,480
+marketing's job go figure it out and
+ 
+
+227
+00:04:07,480 --> 00:04:08,949
+marketing's job go figure it out and
+then we don't have a complete picture or
+
+228
+00:04:08,949 --> 00:04:08,959
+then we don't have a complete picture or
+ 
+
+229
+00:04:08,959 --> 00:04:10,670
+then we don't have a complete picture or
+a complete story so to directly answer
+
+230
+00:04:10,670 --> 00:04:10,680
+a complete story so to directly answer
+ 
+
+231
+00:04:10,680 --> 00:04:12,869
+a complete story so to directly answer
+your question I totally think this is a
+
+232
+00:04:12,869 --> 00:04:12,879
+your question I totally think this is a
+ 
+
+233
+00:04:12,879 --> 00:04:14,190
+your question I totally think this is a
+cross functional effort because
+
+234
+00:04:14,190 --> 00:04:14,200
+cross functional effort because
+ 
+
+235
+00:04:14,200 --> 00:04:16,270
+cross functional effort because
+everybody adds a piece to the the pie
+
+236
+00:04:16,270 --> 00:04:16,280
+everybody adds a piece to the the pie
+ 
+
+237
+00:04:16,280 --> 00:04:20,150
+everybody adds a piece to the the pie
+here and how do companies do you have
+
+238
+00:04:20,150 --> 00:04:20,160
+here and how do companies do you have
+ 
+
+239
+00:04:20,160 --> 00:04:22,870
+here and how do companies do you have
+like a framework or like easy steps to
+
+240
+00:04:22,870 --> 00:04:22,880
+like a framework or like easy steps to
+ 
+
+241
+00:04:22,880 --> 00:04:24,590
+like a framework or like easy steps to
+determine this because it feels like
+
+242
+00:04:24,590 --> 00:04:24,600
+determine this because it feels like
+ 
+
+243
+00:04:24,600 --> 00:04:25,950
+determine this because it feels like
+what immediately is coming to mind is
+
+244
+00:04:25,950 --> 00:04:25,960
+what immediately is coming to mind is
+ 
+
+245
+00:04:25,960 --> 00:04:27,510
+what immediately is coming to mind is
+like there's probably a number of costs
+
+246
+00:04:27,510 --> 00:04:27,520
+like there's probably a number of costs
+ 
+
+247
+00:04:27,520 --> 00:04:29,830
+like there's probably a number of costs
+to inactivity do you try and cover all
+
+248
+00:04:29,830 --> 00:04:29,840
+to inactivity do you try and cover all
+ 
+
+249
+00:04:29,840 --> 00:04:31,749
+to inactivity do you try and cover all
+of them do you shape them into like one
+
+250
+00:04:31,749 --> 00:04:31,759
+of them do you shape them into like one
+ 
+
+251
+00:04:31,759 --> 00:04:33,350
+of them do you shape them into like one
+big Co you know do you frame them into
+
+252
+00:04:33,350 --> 00:04:33,360
+big Co you know do you frame them into
+ 
+
+253
+00:04:33,360 --> 00:04:35,230
+big Co you know do you frame them into
+like one conglomerate like cost of
+
+254
+00:04:35,230 --> 00:04:35,240
+like one conglomerate like cost of
+ 
+
+255
+00:04:35,240 --> 00:04:38,230
+like one conglomerate like cost of
+inactivity like what is what is guidance
+
+256
+00:04:38,230 --> 00:04:38,240
+inactivity like what is what is guidance
+ 
+
+257
+00:04:38,240 --> 00:04:39,830
+inactivity like what is what is guidance
+you could provide on how to put this
+
+258
+00:04:39,830 --> 00:04:39,840
+you could provide on how to put this
+ 
+
+259
+00:04:39,840 --> 00:04:42,469
+you could provide on how to put this
+together and then tie it to that anti
+
+260
+00:04:42,469 --> 00:04:42,479
+together and then tie it to that anti
+ 
+
+261
+00:04:42,479 --> 00:04:44,590
+together and then tie it to that anti
+that anti- Roi number like the negative
+
+262
+00:04:44,590 --> 00:04:44,600
+that anti- Roi number like the negative
+ 
+
+263
+00:04:44,600 --> 00:04:45,830
+that anti- Roi number like the negative
+number that's going to come out as a
+
+264
+00:04:45,830 --> 00:04:45,840
+number that's going to come out as a
+ 
+
+265
+00:04:45,840 --> 00:04:48,510
+number that's going to come out as a
+result of not taking any action yeah and
+
+266
+00:04:48,510 --> 00:04:48,520
+result of not taking any action yeah and
+ 
+
+267
+00:04:48,520 --> 00:04:49,909
+result of not taking any action yeah and
+and to be clear one of the things I
+
+268
+00:04:49,909 --> 00:04:49,919
+and to be clear one of the things I
+ 
+
+269
+00:04:49,919 --> 00:04:51,590
+and to be clear one of the things I
+always call out too is like we're not
+
+270
+00:04:51,590 --> 00:04:51,600
+always call out too is like we're not
+ 
+
+271
+00:04:51,600 --> 00:04:53,550
+always call out too is like we're not
+talking about here is not inverted Roi
+
+272
+00:04:53,550 --> 00:04:53,560
+talking about here is not inverted Roi
+ 
+
+273
+00:04:53,560 --> 00:04:55,230
+talking about here is not inverted Roi
+so it's like sometimes I'll see people
+
+274
+00:04:55,230 --> 00:04:55,240
+so it's like sometimes I'll see people
+ 
+
+275
+00:04:55,240 --> 00:04:56,830
+so it's like sometimes I'll see people
+say like oh we've got cost of in action
+
+276
+00:04:56,830 --> 00:04:56,840
+say like oh we've got cost of in action
+ 
+
+277
+00:04:56,840 --> 00:04:59,189
+say like oh we've got cost of in action
+figure out by not buying us you're going
+
+278
+00:04:59,189 --> 00:04:59,199
+figure out by not buying us you're going
+ 
+
+279
+00:04:59,199 --> 00:05:02,350
+figure out by not buying us you're going
+to see 100% less leads it's like no
+
+280
+00:05:02,350 --> 00:05:02,360
+to see 100% less leads it's like no
+ 
+
+281
+00:05:02,360 --> 00:05:03,830
+to see 100% less leads it's like no
+that's just taking Roi and flipping it
+
+282
+00:05:03,830 --> 00:05:03,840
+that's just taking Roi and flipping it
+ 
+
+283
+00:05:03,840 --> 00:05:06,510
+that's just taking Roi and flipping it
+on its head so the way I always teach
+
+284
+00:05:06,510 --> 00:05:06,520
+on its head so the way I always teach
+ 
+
+285
+00:05:06,520 --> 00:05:08,150
+on its head so the way I always teach
+this because I think this is the easiest
+
+286
+00:05:08,150 --> 00:05:08,160
+this because I think this is the easiest
+ 
+
+287
+00:05:08,160 --> 00:05:09,870
+this because I think this is the easiest
+way to learn the concept and then you
+
+288
+00:05:09,870 --> 00:05:09,880
+way to learn the concept and then you
+ 
+
+289
+00:05:09,880 --> 00:05:11,510
+way to learn the concept and then you
+can kind of back into a larger
+
+290
+00:05:11,510 --> 00:05:11,520
+can kind of back into a larger
+ 
+
+291
+00:05:11,520 --> 00:05:13,749
+can kind of back into a larger
+organizational message is for every
+
+292
+00:05:13,749 --> 00:05:13,759
+organizational message is for every
+ 
+
+293
+00:05:13,759 --> 00:05:16,629
+organizational message is for every
+person that I'm I'm teaching is they
+
+294
+00:05:16,629 --> 00:05:16,639
+person that I'm I'm teaching is they
+ 
+
+295
+00:05:16,639 --> 00:05:18,590
+person that I'm I'm teaching is they
+pick a Target account that they really
+
+296
+00:05:18,590 --> 00:05:18,600
+pick a Target account that they really
+ 
+
+297
+00:05:18,600 --> 00:05:21,430
+pick a Target account that they really
+want to win for the business and what I
+
+298
+00:05:21,430 --> 00:05:21,440
+want to win for the business and what I
+ 
+
+299
+00:05:21,440 --> 00:05:23,430
+want to win for the business and what I
+asked them to do is start by saying what
+
+300
+00:05:23,430 --> 00:05:23,440
+asked them to do is start by saying what
+ 
+
+301
+00:05:23,440 --> 00:05:26,309
+asked them to do is start by saying what
+are the organizational goals for that
+
+302
+00:05:26,309 --> 00:05:26,319
+are the organizational goals for that
+ 
+
+303
+00:05:26,319 --> 00:05:28,350
+are the organizational goals for that
+account not your functional goals but
+
+304
+00:05:28,350 --> 00:05:28,360
+account not your functional goals but
+ 
+
+305
+00:05:28,360 --> 00:05:30,150
+account not your functional goals but
+like as a company is this a company
+
+306
+00:05:30,150 --> 00:05:30,160
+like as a company is this a company
+ 
+
+307
+00:05:30,160 --> 00:05:31,189
+like as a company is this a company
+that's trying to break into a new
+
+308
+00:05:31,189 --> 00:05:31,199
+that's trying to break into a new
+ 
+
+309
+00:05:31,199 --> 00:05:32,710
+that's trying to break into a new
+vertical is this a company that's trying
+
+310
+00:05:32,710 --> 00:05:32,720
+vertical is this a company that's trying
+ 
+
+311
+00:05:32,720 --> 00:05:34,749
+vertical is this a company that's trying
+to I don't know introduce a new AI
+
+312
+00:05:34,749 --> 00:05:34,759
+to I don't know introduce a new AI
+ 
+
+313
+00:05:34,759 --> 00:05:36,110
+to I don't know introduce a new AI
+offering like what are the big things
+
+314
+00:05:36,110 --> 00:05:36,120
+offering like what are the big things
+ 
+
+315
+00:05:36,120 --> 00:05:37,990
+offering like what are the big things
+that the CEO is talking about that's
+
+316
+00:05:37,990 --> 00:05:38,000
+that the CEO is talking about that's
+ 
+
+317
+00:05:38,000 --> 00:05:41,430
+that the CEO is talking about that's
+step one step two is to say what can I
+
+318
+00:05:41,430 --> 00:05:41,440
+step one step two is to say what can I
+ 
+
+319
+00:05:41,440 --> 00:05:43,990
+step one step two is to say what can I
+find or even if I can't find it specific
+
+320
+00:05:43,990 --> 00:05:44,000
+find or even if I can't find it specific
+ 
+
+321
+00:05:44,000 --> 00:05:45,990
+find or even if I can't find it specific
+to them what do I know from other
+
+322
+00:05:45,990 --> 00:05:46,000
+to them what do I know from other
+ 
+
+323
+00:05:46,000 --> 00:05:47,309
+to them what do I know from other
+conversations with companies with
+
+324
+00:05:47,309 --> 00:05:47,319
+conversations with companies with
+ 
+
+325
+00:05:47,319 --> 00:05:50,270
+conversations with companies with
+similar goals how do most companies
+
+326
+00:05:50,270 --> 00:05:50,280
+similar goals how do most companies
+ 
+
+327
+00:05:50,280 --> 00:05:54,070
+similar goals how do most companies
+typically try to solve for that problem
+
+328
+00:05:54,070 --> 00:05:54,080
+typically try to solve for that problem
+ 
+
+329
+00:05:54,080 --> 00:05:56,510
+typically try to solve for that problem
+and then I'll create a list of current
+
+330
+00:05:56,510 --> 00:05:56,520
+and then I'll create a list of current
+ 
+
+331
+00:05:56,520 --> 00:05:59,350
+and then I'll create a list of current
+state Alternatives now step three is
+
+332
+00:05:59,350 --> 00:05:59,360
+state Alternatives now step three is
+ 
+
+333
+00:05:59,360 --> 00:06:01,990
+state Alternatives now step three is
+where we kind of fall down a lot which
+
+334
+00:06:01,990 --> 00:06:02,000
+where we kind of fall down a lot which
+ 
+
+335
+00:06:02,000 --> 00:06:04,029
+where we kind of fall down a lot which
+is instead of attacking those
+
+336
+00:06:04,029 --> 00:06:04,039
+is instead of attacking those
+ 
+
+337
+00:06:04,039 --> 00:06:05,710
+is instead of attacking those
+Alternatives I actually want to take the
+
+338
+00:06:05,710 --> 00:06:05,720
+Alternatives I actually want to take the
+ 
+
+339
+00:06:05,720 --> 00:06:09,270
+Alternatives I actually want to take the
+opposing view why might this different
+
+340
+00:06:09,270 --> 00:06:09,280
+opposing view why might this different
+ 
+
+341
+00:06:09,280 --> 00:06:10,830
+opposing view why might this different
+way of solving the problem that they're
+
+342
+00:06:10,830 --> 00:06:10,840
+way of solving the problem that they're
+ 
+
+343
+00:06:10,840 --> 00:06:13,270
+way of solving the problem that they're
+currently pursuing today why might that
+
+344
+00:06:13,270 --> 00:06:13,280
+currently pursuing today why might that
+ 
+
+345
+00:06:13,280 --> 00:06:15,790
+currently pursuing today why might that
+be attractive like companies don't
+
+346
+00:06:15,790 --> 00:06:15,800
+be attractive like companies don't
+ 
+
+347
+00:06:15,800 --> 00:06:18,990
+be attractive like companies don't
+intentionally make stupid decisions they
+
+348
+00:06:18,990 --> 00:06:19,000
+intentionally make stupid decisions they
+ 
+
+349
+00:06:19,000 --> 00:06:20,670
+intentionally make stupid decisions they
+make decisions with the best information
+
+350
+00:06:20,670 --> 00:06:20,680
+make decisions with the best information
+ 
+
+351
+00:06:20,680 --> 00:06:22,110
+make decisions with the best information
+they have available think like your
+
+352
+00:06:22,110 --> 00:06:22,120
+they have available think like your
+ 
+
+353
+00:06:22,120 --> 00:06:24,110
+they have available think like your
+buyer what would be a compelling reason
+
+354
+00:06:24,110 --> 00:06:24,120
+buyer what would be a compelling reason
+ 
+
+355
+00:06:24,120 --> 00:06:25,469
+buyer what would be a compelling reason
+why someone would choose to solve them
+
+356
+00:06:25,469 --> 00:06:25,479
+why someone would choose to solve them
+ 
+
+357
+00:06:25,479 --> 00:06:27,189
+why someone would choose to solve them
+the problem this way as they are
+
+358
+00:06:27,189 --> 00:06:27,199
+the problem this way as they are
+ 
+
+359
+00:06:27,199 --> 00:06:30,430
+the problem this way as they are
+currently and then if you get that right
+
+360
+00:06:30,430 --> 00:06:30,440
+currently and then if you get that right
+ 
+
+361
+00:06:30,440 --> 00:06:31,830
+currently and then if you get that right
+that allows you to go to the fourth and
+
+362
+00:06:31,830 --> 00:06:31,840
+that allows you to go to the fourth and
+ 
+
+363
+00:06:31,840 --> 00:06:34,390
+that allows you to go to the fourth and
+final step which is what
+
+364
+00:06:34,390 --> 00:06:34,400
+final step which is what
+ 
+
+365
+00:06:34,400 --> 00:06:37,870
+final step which is what
+information do we know that they don't
+
+366
+00:06:37,870 --> 00:06:37,880
+information do we know that they don't
+ 
+
+367
+00:06:37,880 --> 00:06:39,830
+information do we know that they don't
+about the beliefs and assumptions they
+
+368
+00:06:39,830 --> 00:06:39,840
+about the beliefs and assumptions they
+ 
+
+369
+00:06:39,840 --> 00:06:42,390
+about the beliefs and assumptions they
+have that are flawed not because they
+
+370
+00:06:42,390 --> 00:06:42,400
+have that are flawed not because they
+ 
+
+371
+00:06:42,400 --> 00:06:44,629
+have that are flawed not because they
+are stupid not because they are wrong
+
+372
+00:06:44,629 --> 00:06:44,639
+are stupid not because they are wrong
+ 
+
+373
+00:06:44,639 --> 00:06:46,670
+are stupid not because they are wrong
+not because they don't know any better
+
+374
+00:06:46,670 --> 00:06:46,680
+not because they don't know any better
+ 
+
+375
+00:06:46,680 --> 00:06:49,589
+not because they don't know any better
+but because something environmental has
+
+376
+00:06:49,589 --> 00:06:49,599
+but because something environmental has
+ 
+
+377
+00:06:49,599 --> 00:06:52,990
+but because something environmental has
+changed and so that is the key is you
+
+378
+00:06:52,990 --> 00:06:53,000
+changed and so that is the key is you
+ 
+
+379
+00:06:53,000 --> 00:06:55,749
+changed and so that is the key is you
+cannot get to four which is like what is
+
+380
+00:06:55,749 --> 00:06:55,759
+cannot get to four which is like what is
+ 
+
+381
+00:06:55,759 --> 00:06:58,110
+cannot get to four which is like what is
+that new information if you don't do one
+
+382
+00:06:58,110 --> 00:06:58,120
+that new information if you don't do one
+ 
+
+383
+00:06:58,120 --> 00:07:00,510
+that new information if you don't do one
+two and three first now as a company if
+
+384
+00:07:00,510 --> 00:07:00,520
+two and three first now as a company if
+ 
+
+385
+00:07:00,520 --> 00:07:02,029
+two and three first now as a company if
+you put a bunch of Sellers and marketers
+
+386
+00:07:02,029 --> 00:07:02,039
+you put a bunch of Sellers and marketers
+ 
+
+387
+00:07:02,039 --> 00:07:03,550
+you put a bunch of Sellers and marketers
+and product people and sales engineers
+
+388
+00:07:03,550 --> 00:07:03,560
+and product people and sales engineers
+ 
+
+389
+00:07:03,560 --> 00:07:05,869
+and product people and sales engineers
+in a room and have them all do it what
+
+390
+00:07:05,869 --> 00:07:05,879
+in a room and have them all do it what
+ 
+
+391
+00:07:05,879 --> 00:07:07,430
+in a room and have them all do it what
+ends up happening is you start to sus
+
+392
+00:07:07,430 --> 00:07:07,440
+ends up happening is you start to sus
+ 
+
+393
+00:07:07,440 --> 00:07:09,309
+ends up happening is you start to sus
+out to your earlier point a bunch of
+
+394
+00:07:09,309 --> 00:07:09,319
+out to your earlier point a bunch of
+ 
+
+395
+00:07:09,319 --> 00:07:11,150
+out to your earlier point a bunch of
+different themes because it's very rare
+
+396
+00:07:11,150 --> 00:07:11,160
+different themes because it's very rare
+ 
+
+397
+00:07:11,160 --> 00:07:13,189
+different themes because it's very rare
+a company will only have one cost of an
+
+398
+00:07:13,189 --> 00:07:13,199
+a company will only have one cost of an
+ 
+
+399
+00:07:13,199 --> 00:07:15,350
+a company will only have one cost of an
+action story to tell but I find rather
+
+400
+00:07:15,350 --> 00:07:15,360
+action story to tell but I find rather
+ 
+
+401
+00:07:15,360 --> 00:07:17,589
+action story to tell but I find rather
+than look at the the like macro and say
+
+402
+00:07:17,589 --> 00:07:17,599
+than look at the the like macro and say
+ 
+
+403
+00:07:17,599 --> 00:07:19,350
+than look at the the like macro and say
+you know what could we do which feels
+
+404
+00:07:19,350 --> 00:07:19,360
+you know what could we do which feels
+ 
+
+405
+00:07:19,360 --> 00:07:21,029
+you know what could we do which feels
+hard and ugly and just a meeting I'd
+
+406
+00:07:21,029 --> 00:07:21,039
+hard and ugly and just a meeting I'd
+ 
+
+407
+00:07:21,039 --> 00:07:23,350
+hard and ugly and just a meeting I'd
+want to skip start at the micro and say
+
+408
+00:07:23,350 --> 00:07:23,360
+want to skip start at the micro and say
+ 
+
+409
+00:07:23,360 --> 00:07:25,670
+want to skip start at the micro and say
+let me work back from the customer and
+
+410
+00:07:25,670 --> 00:07:25,680
+let me work back from the customer and
+ 
+
+411
+00:07:25,680 --> 00:07:27,589
+let me work back from the customer and
+then see are there commonalities or
+
+412
+00:07:27,589 --> 00:07:27,599
+then see are there commonalities or
+ 
+
+413
+00:07:27,599 --> 00:07:29,830
+then see are there commonalities or
+patterns based on certain you know
+
+414
+00:07:29,830 --> 00:07:29,840
+patterns based on certain you know
+ 
+
+415
+00:07:29,840 --> 00:07:31,309
+patterns based on certain you know
+attributes about a customer that would
+
+416
+00:07:31,309 --> 00:07:31,319
+attributes about a customer that would
+ 
+
+417
+00:07:31,319 --> 00:07:33,550
+attributes about a customer that would
+indicate they are more likely to be up
+
+418
+00:07:33,550 --> 00:07:33,560
+indicate they are more likely to be up
+ 
+
+419
+00:07:33,560 --> 00:07:35,150
+indicate they are more likely to be up
+against this particular cost of an
+
+420
+00:07:35,150 --> 00:07:35,160
+against this particular cost of an
+ 
+
+421
+00:07:35,160 --> 00:07:37,309
+against this particular cost of an
+action story so that's how I do it this
+
+422
+00:07:37,309 --> 00:07:37,319
+action story so that's how I do it this
+ 
+
+423
+00:07:37,319 --> 00:07:38,909
+action story so that's how I do it this
+is really really helpful one of the
+
+424
+00:07:38,909 --> 00:07:38,919
+is really really helpful one of the
+ 
+
+425
+00:07:38,919 --> 00:07:40,150
+is really really helpful one of the
+things I feel like I'm hearing you
+
+426
+00:07:40,150 --> 00:07:40,160
+things I feel like I'm hearing you
+ 
+
+427
+00:07:40,160 --> 00:07:43,510
+things I feel like I'm hearing you
+underline is there's a lot of empathy
+
+428
+00:07:43,510 --> 00:07:43,520
+underline is there's a lot of empathy
+ 
+
+429
+00:07:43,520 --> 00:07:45,270
+underline is there's a lot of empathy
+involved like you hit on this a couple
+
+430
+00:07:45,270 --> 00:07:45,280
+involved like you hit on this a couple
+ 
+
+431
+00:07:45,280 --> 00:07:47,350
+involved like you hit on this a couple
+different ways but it sounds like
+
+432
+00:07:47,350 --> 00:07:47,360
+different ways but it sounds like
+ 
+
+433
+00:07:47,360 --> 00:07:49,270
+different ways but it sounds like
+there's a tendency and maybe one area I
+
+434
+00:07:49,270 --> 00:07:49,280
+there's a tendency and maybe one area I
+ 
+
+435
+00:07:49,280 --> 00:07:50,710
+there's a tendency and maybe one area I
+was going to ask you what are the main
+
+436
+00:07:50,710 --> 00:07:50,720
+was going to ask you what are the main
+ 
+
+437
+00:07:50,720 --> 00:07:52,230
+was going to ask you what are the main
+ways companies get this wrong so I do
+
+438
+00:07:52,230 --> 00:07:52,240
+ways companies get this wrong so I do
+ 
+
+439
+00:07:52,240 --> 00:07:53,909
+ways companies get this wrong so I do
+want to ask that but it sounds like
+
+440
+00:07:53,909 --> 00:07:53,919
+want to ask that but it sounds like
+ 
+
+441
+00:07:53,919 --> 00:07:55,950
+want to ask that but it sounds like
+maybe one of the key ways you see
+
+442
+00:07:55,950 --> 00:07:55,960
+maybe one of the key ways you see
+ 
+
+443
+00:07:55,960 --> 00:07:58,070
+maybe one of the key ways you see
+companies get this wrong is they don't
+
+444
+00:07:58,070 --> 00:07:58,080
+companies get this wrong is they don't
+ 
+
+445
+00:07:58,080 --> 00:08:01,510
+companies get this wrong is they don't
+enter with like aathy for like there's a
+
+446
+00:08:01,510 --> 00:08:01,520
+enter with like aathy for like there's a
+ 
+
+447
+00:08:01,520 --> 00:08:03,230
+enter with like aathy for like there's a
+there's a good reason like there's an
+
+448
+00:08:03,230 --> 00:08:03,240
+there's a good reason like there's an
+ 
+
+449
+00:08:03,240 --> 00:08:04,469
+there's a good reason like there's an
+assumption you're trying to enter as
+
+450
+00:08:04,469 --> 00:08:04,479
+assumption you're trying to enter as
+ 
+
+451
+00:08:04,479 --> 00:08:06,110
+assumption you're trying to enter as
+like there's a good reason why they're
+
+452
+00:08:06,110 --> 00:08:06,120
+like there's a good reason why they're
+ 
+
+453
+00:08:06,120 --> 00:08:08,629
+like there's a good reason why they're
+doing this not like coming out from like
+
+454
+00:08:08,629 --> 00:08:08,639
+doing this not like coming out from like
+ 
+
+455
+00:08:08,639 --> 00:08:10,270
+doing this not like coming out from like
+the standard maybe sales approach where
+
+456
+00:08:10,270 --> 00:08:10,280
+the standard maybe sales approach where
+ 
+
+457
+00:08:10,280 --> 00:08:12,749
+the standard maybe sales approach where
+it's like what you're doing is dumb and
+
+458
+00:08:12,749 --> 00:08:12,759
+it's like what you're doing is dumb and
+ 
+
+459
+00:08:12,759 --> 00:08:14,629
+it's like what you're doing is dumb and
+this is the new hot way this is like the
+
+460
+00:08:14,629 --> 00:08:14,639
+this is the new hot way this is like the
+ 
+
+461
+00:08:14,639 --> 00:08:16,950
+this is the new hot way this is like the
+new you know better future way and this
+
+462
+00:08:16,950 --> 00:08:16,960
+new you know better future way and this
+ 
+
+463
+00:08:16,960 --> 00:08:19,390
+new you know better future way and this
+should be super clear to you it's a
+
+464
+00:08:19,390 --> 00:08:19,400
+should be super clear to you it's a
+ 
+
+465
+00:08:19,400 --> 00:08:20,589
+should be super clear to you it's a
+completely different angle to come in
+
+466
+00:08:20,589 --> 00:08:20,599
+completely different angle to come in
+ 
+
+467
+00:08:20,599 --> 00:08:22,390
+completely different angle to come in
+and say we totally get why you're doing
+
+468
+00:08:22,390 --> 00:08:22,400
+and say we totally get why you're doing
+ 
+
+469
+00:08:22,400 --> 00:08:24,710
+and say we totally get why you're doing
+this it has a lot of Pros it just
+
+470
+00:08:24,710 --> 00:08:24,720
+this it has a lot of Pros it just
+ 
+
+471
+00:08:24,720 --> 00:08:26,070
+this it has a lot of Pros it just
+there's maybe this other part that
+
+472
+00:08:26,070 --> 00:08:26,080
+there's maybe this other part that
+ 
+
+473
+00:08:26,080 --> 00:08:27,550
+there's maybe this other part that
+you're not considering yet so let's
+
+474
+00:08:27,550 --> 00:08:27,560
+you're not considering yet so let's
+ 
+
+475
+00:08:27,560 --> 00:08:29,950
+you're not considering yet so let's
+focus it on this yes that is exact it
+
+476
+00:08:29,950 --> 00:08:29,960
+focus it on this yes that is exact it
+ 
+
+477
+00:08:29,960 --> 00:08:31,350
+focus it on this yes that is exact it
+right and if you think about just the
+
+478
+00:08:31,350 --> 00:08:31,360
+right and if you think about just the
+ 
+
+479
+00:08:31,360 --> 00:08:34,149
+right and if you think about just the
+dynamic of a prospect seller
+
+480
+00:08:34,149 --> 00:08:34,159
+dynamic of a prospect seller
+ 
+
+481
+00:08:34,159 --> 00:08:36,709
+dynamic of a prospect seller
+conversation prospects almost always
+
+482
+00:08:36,709 --> 00:08:36,719
+conversation prospects almost always
+ 
+
+483
+00:08:36,719 --> 00:08:39,110
+conversation prospects almost always
+already enter in with a defensive
+
+484
+00:08:39,110 --> 00:08:39,120
+already enter in with a defensive
+ 
+
+485
+00:08:39,120 --> 00:08:40,430
+already enter in with a defensive
+posture right because nobody likes to be
+
+486
+00:08:40,430 --> 00:08:40,440
+posture right because nobody likes to be
+ 
+
+487
+00:08:40,440 --> 00:08:42,190
+posture right because nobody likes to be
+sold or convinced of everything so if I
+
+488
+00:08:42,190 --> 00:08:42,200
+sold or convinced of everything so if I
+ 
+
+489
+00:08:42,200 --> 00:08:44,190
+sold or convinced of everything so if I
+come in and then I start calling their
+
+490
+00:08:44,190 --> 00:08:44,200
+come in and then I start calling their
+ 
+
+491
+00:08:44,200 --> 00:08:46,590
+come in and then I start calling their
+baby busted as hell what do I think is
+
+492
+00:08:46,590 --> 00:08:46,600
+baby busted as hell what do I think is
+ 
+
+493
+00:08:46,600 --> 00:08:48,389
+baby busted as hell what do I think is
+going to happen in that Dynamic like I'm
+
+494
+00:08:48,389 --> 00:08:48,399
+going to happen in that Dynamic like I'm
+ 
+
+495
+00:08:48,399 --> 00:08:50,630
+going to happen in that Dynamic like I'm
+not I might be right but I'm still wrong
+
+496
+00:08:50,630 --> 00:08:50,640
+not I might be right but I'm still wrong
+ 
+
+497
+00:08:50,640 --> 00:08:52,470
+not I might be right but I'm still wrong
+in my delivery and so I think it's
+
+498
+00:08:52,470 --> 00:08:52,480
+in my delivery and so I think it's
+ 
+
+499
+00:08:52,480 --> 00:08:54,829
+in my delivery and so I think it's
+really important to remember we don't
+
+500
+00:08:54,829 --> 00:08:54,839
+really important to remember we don't
+ 
+
+501
+00:08:54,839 --> 00:08:56,870
+really important to remember we don't
+win favor with customers when we come in
+
+502
+00:08:56,870 --> 00:08:56,880
+win favor with customers when we come in
+ 
+
+503
+00:08:56,880 --> 00:08:58,910
+win favor with customers when we come in
+and we say you're an idiot because where
+
+504
+00:08:58,910 --> 00:08:58,920
+and we say you're an idiot because where
+ 
+
+505
+00:08:58,920 --> 00:09:01,069
+and we say you're an idiot because where
+we do in favor is we introduce new
+
+506
+00:09:01,069 --> 00:09:01,079
+we do in favor is we introduce new
+ 
+
+507
+00:09:01,079 --> 00:09:03,710
+we do in favor is we introduce new
+information about what has changed and
+
+508
+00:09:03,710 --> 00:09:03,720
+information about what has changed and
+ 
+
+509
+00:09:03,720 --> 00:09:05,870
+information about what has changed and
+then we allow the dynamic to be we're
+
+510
+00:09:05,870 --> 00:09:05,880
+then we allow the dynamic to be we're
+ 
+
+511
+00:09:05,880 --> 00:09:07,670
+then we allow the dynamic to be we're
+both looking at this enemy and the enemy
+
+512
+00:09:07,670 --> 00:09:07,680
+both looking at this enemy and the enemy
+ 
+
+513
+00:09:07,680 --> 00:09:11,069
+both looking at this enemy and the enemy
+is not you it's this thing over here so
+
+514
+00:09:11,069 --> 00:09:11,079
+is not you it's this thing over here so
+ 
+
+515
+00:09:11,079 --> 00:09:13,310
+is not you it's this thing over here so
+there's like there's this really stupid
+
+516
+00:09:13,310 --> 00:09:13,320
+there's like there's this really stupid
+ 
+
+517
+00:09:13,320 --> 00:09:15,990
+there's like there's this really stupid
+stupid way I tell a story to show that
+
+518
+00:09:15,990 --> 00:09:16,000
+stupid way I tell a story to show that
+ 
+
+519
+00:09:16,000 --> 00:09:18,710
+stupid way I tell a story to show that
+like how you follow those four steps
+
+520
+00:09:18,710 --> 00:09:18,720
+like how you follow those four steps
+ 
+
+521
+00:09:18,720 --> 00:09:20,190
+like how you follow those four steps
+that I think everyone can kind of
+
+522
+00:09:20,190 --> 00:09:20,200
+that I think everyone can kind of
+ 
+
+523
+00:09:20,200 --> 00:09:21,389
+that I think everyone can kind of
+understand because I'm a big believer in
+
+524
+00:09:21,389 --> 00:09:21,399
+understand because I'm a big believer in
+ 
+
+525
+00:09:21,399 --> 00:09:23,670
+understand because I'm a big believer in
+like analogies and related to something
+
+526
+00:09:23,670 --> 00:09:23,680
+like analogies and related to something
+ 
+
+527
+00:09:23,680 --> 00:09:25,190
+like analogies and related to something
+human cuz even the way I describe it I
+
+528
+00:09:25,190 --> 00:09:25,200
+human cuz even the way I describe it I
+ 
+
+529
+00:09:25,200 --> 00:09:26,630
+human cuz even the way I describe it I
+think still sounds theoretical would it
+
+530
+00:09:26,630 --> 00:09:26,640
+think still sounds theoretical would it
+ 
+
+531
+00:09:26,640 --> 00:09:28,069
+think still sounds theoretical would it
+be helpful if I just like told that
+
+532
+00:09:28,069 --> 00:09:28,079
+be helpful if I just like told that
+ 
+
+533
+00:09:28,079 --> 00:09:30,829
+be helpful if I just like told that
+story so you could see I it okay and
+
+534
+00:09:30,829 --> 00:09:30,839
+story so you could see I it okay and
+ 
+
+535
+00:09:30,839 --> 00:09:31,949
+story so you could see I it okay and
+just bear with me because I know it
+
+536
+00:09:31,949 --> 00:09:31,959
+just bear with me because I know it
+ 
+
+537
+00:09:31,959 --> 00:09:33,829
+just bear with me because I know it
+sounds silly in the beginning but let's
+
+538
+00:09:33,829 --> 00:09:33,839
+sounds silly in the beginning but let's
+ 
+
+539
+00:09:33,839 --> 00:09:36,110
+sounds silly in the beginning but let's
+say like we both work for a company and
+
+540
+00:09:36,110 --> 00:09:36,120
+say like we both work for a company and
+ 
+
+541
+00:09:36,120 --> 00:09:38,710
+say like we both work for a company and
+they sell a packable rain coat now the
+
+542
+00:09:38,710 --> 00:09:38,720
+they sell a packable rain coat now the
+ 
+
+543
+00:09:38,720 --> 00:09:40,389
+they sell a packable rain coat now the
+the purpose of a packable rain coat is
+
+544
+00:09:40,389 --> 00:09:40,399
+the purpose of a packable rain coat is
+ 
+
+545
+00:09:40,399 --> 00:09:42,829
+the purpose of a packable rain coat is
+so that you stay dry in the rain right
+
+546
+00:09:42,829 --> 00:09:42,839
+so that you stay dry in the rain right
+ 
+
+547
+00:09:42,839 --> 00:09:45,389
+so that you stay dry in the rain right
+but if you think about the customers's
+
+548
+00:09:45,389 --> 00:09:45,399
+but if you think about the customers's
+ 
+
+549
+00:09:45,399 --> 00:09:47,190
+but if you think about the customers's
+goals so that's step one my goal is to
+
+550
+00:09:47,190 --> 00:09:47,200
+goals so that's step one my goal is to
+ 
+
+551
+00:09:47,200 --> 00:09:49,590
+goals so that's step one my goal is to
+stay dry if you think about step two
+
+552
+00:09:49,590 --> 00:09:49,600
+stay dry if you think about step two
+ 
+
+553
+00:09:49,600 --> 00:09:51,550
+stay dry if you think about step two
+step two is like what are all the ways
+
+554
+00:09:51,550 --> 00:09:51,560
+step two is like what are all the ways
+ 
+
+555
+00:09:51,560 --> 00:09:52,990
+step two is like what are all the ways
+you could solve for the problem of
+
+556
+00:09:52,990 --> 00:09:53,000
+you could solve for the problem of
+ 
+
+557
+00:09:53,000 --> 00:09:55,590
+you could solve for the problem of
+staying dry so what's the most I'll just
+
+558
+00:09:55,590 --> 00:09:55,600
+staying dry so what's the most I'll just
+ 
+
+559
+00:09:55,600 --> 00:09:56,870
+staying dry so what's the most I'll just
+pull you in here like what's the most
+
+560
+00:09:56,870 --> 00:09:56,880
+pull you in here like what's the most
+ 
+
+561
+00:09:56,880 --> 00:09:59,590
+pull you in here like what's the most
+common way we as human beings if we we
+
+562
+00:09:59,590 --> 00:09:59,600
+common way we as human beings if we we
+ 
+
+563
+00:09:59,600 --> 00:10:01,150
+common way we as human beings if we we
+look outside and it's raining what do we
+
+564
+00:10:01,150 --> 00:10:01,160
+look outside and it's raining what do we
+ 
+
+565
+00:10:01,160 --> 00:10:03,269
+look outside and it's raining what do we
+grab when we want to stay dry first I
+
+566
+00:10:03,269 --> 00:10:03,279
+grab when we want to stay dry first I
+ 
+
+567
+00:10:03,279 --> 00:10:05,590
+grab when we want to stay dry first I
+would say umbrella yes and then second I
+
+568
+00:10:05,590 --> 00:10:05,600
+would say umbrella yes and then second I
+ 
+
+569
+00:10:05,600 --> 00:10:09,350
+would say umbrella yes and then second I
+would say a permanently wearable
+
+570
+00:10:09,350 --> 00:10:09,360
+would say a permanently wearable
+ 
+
+571
+00:10:09,360 --> 00:10:12,150
+would say a permanently wearable
+raincoat just stuck to our body so
+
+572
+00:10:12,150 --> 00:10:12,160
+raincoat just stuck to our body so
+ 
+
+573
+00:10:12,160 --> 00:10:13,990
+raincoat just stuck to our body so
+umbrella right umbrella even if I don't
+
+574
+00:10:13,990 --> 00:10:14,000
+umbrella right umbrella even if I don't
+ 
+
+575
+00:10:14,000 --> 00:10:15,949
+umbrella right umbrella even if I don't
+know you and you don't know me odds are
+
+576
+00:10:15,949 --> 00:10:15,959
+know you and you don't know me odds are
+ 
+
+577
+00:10:15,959 --> 00:10:18,470
+know you and you don't know me odds are
+you are likely to rely on an umbrella to
+
+578
+00:10:18,470 --> 00:10:18,480
+you are likely to rely on an umbrella to
+ 
+
+579
+00:10:18,480 --> 00:10:21,750
+you are likely to rely on an umbrella to
+stay try dry so what normally happens is
+
+580
+00:10:21,750 --> 00:10:21,760
+stay try dry so what normally happens is
+ 
+
+581
+00:10:21,760 --> 00:10:23,509
+stay try dry so what normally happens is
+we come in as salespeople and we're like
+
+582
+00:10:23,509 --> 00:10:23,519
+we come in as salespeople and we're like
+ 
+
+583
+00:10:23,519 --> 00:10:25,790
+we come in as salespeople and we're like
+here's all the reasons umbrellas suck
+
+584
+00:10:25,790 --> 00:10:25,800
+here's all the reasons umbrellas suck
+ 
+
+585
+00:10:25,800 --> 00:10:27,590
+here's all the reasons umbrellas suck
+right like you hold it up and it's windy
+
+586
+00:10:27,590 --> 00:10:27,600
+right like you hold it up and it's windy
+ 
+
+587
+00:10:27,600 --> 00:10:29,550
+right like you hold it up and it's windy
+and it inverts and you look like a
+
+588
+00:10:29,550 --> 00:10:29,560
+and it inverts and you look like a
+ 
+
+589
+00:10:29,560 --> 00:10:31,190
+and it inverts and you look like a
+there's all this surface area on you
+
+590
+00:10:31,190 --> 00:10:31,200
+there's all this surface area on you
+ 
+
+591
+00:10:31,200 --> 00:10:33,350
+there's all this surface area on you
+that gets wet and so it doesn't even do
+
+592
+00:10:33,350 --> 00:10:33,360
+that gets wet and so it doesn't even do
+ 
+
+593
+00:10:33,360 --> 00:10:35,310
+that gets wet and so it doesn't even do
+that great of a job you forget the
+
+594
+00:10:35,310 --> 00:10:35,320
+that great of a job you forget the
+ 
+
+595
+00:10:35,320 --> 00:10:37,110
+that great of a job you forget the
+umbrella and people will sit there and
+
+596
+00:10:37,110 --> 00:10:37,120
+umbrella and people will sit there and
+ 
+
+597
+00:10:37,120 --> 00:10:38,790
+umbrella and people will sit there and
+say you're right yep yep yep and then we
+
+598
+00:10:38,790 --> 00:10:38,800
+say you're right yep yep yep and then we
+ 
+
+599
+00:10:38,800 --> 00:10:41,110
+say you're right yep yep yep and then we
+say and our raincoat is better for all
+
+600
+00:10:41,110 --> 00:10:41,120
+say and our raincoat is better for all
+ 
+
+601
+00:10:41,120 --> 00:10:43,629
+say and our raincoat is better for all
+these reasons and it only costs you $100
+
+602
+00:10:43,629 --> 00:10:43,639
+these reasons and it only costs you $100
+ 
+
+603
+00:10:43,639 --> 00:10:46,110
+these reasons and it only costs you $100
+and that's the moment when the when the
+
+604
+00:10:46,110 --> 00:10:46,120
+and that's the moment when the when the
+ 
+
+605
+00:10:46,120 --> 00:10:47,790
+and that's the moment when the when the
+customer sits there and says okay you're
+
+606
+00:10:47,790 --> 00:10:47,800
+customer sits there and says okay you're
+ 
+
+607
+00:10:47,800 --> 00:10:50,790
+customer sits there and says okay you're
+right but am I going to drop a $100 on a
+
+608
+00:10:50,790 --> 00:10:50,800
+right but am I going to drop a $100 on a
+ 
+
+609
+00:10:50,800 --> 00:10:53,389
+right but am I going to drop a $100 on a
+raincoat that I don't really think I
+
+610
+00:10:53,389 --> 00:10:53,399
+raincoat that I don't really think I
+ 
+
+611
+00:10:53,399 --> 00:10:54,910
+raincoat that I don't really think I
+need because I've got two umbrellas and
+
+612
+00:10:54,910 --> 00:10:54,920
+need because I've got two umbrellas and
+ 
+
+613
+00:10:54,920 --> 00:10:56,710
+need because I've got two umbrellas and
+they're good enough and this is a
+
+614
+00:10:56,710 --> 00:10:56,720
+they're good enough and this is a
+ 
+
+615
+00:10:56,720 --> 00:10:58,069
+they're good enough and this is a
+dynamic I saw happening in my
+
+616
+00:10:58,069 --> 00:10:58,079
+dynamic I saw happening in my
+ 
+
+617
+00:10:58,079 --> 00:10:59,509
+dynamic I saw happening in my
+conversation so if you follow follow
+
+618
+00:10:59,509 --> 00:10:59,519
+conversation so if you follow follow
+ 
+
+619
+00:10:59,519 --> 00:11:02,190
+conversation so if you follow follow
+that four-step process you get to step
+
+620
+00:11:02,190 --> 00:11:02,200
+that four-step process you get to step
+ 
+
+621
+00:11:02,200 --> 00:11:04,550
+that four-step process you get to step
+three now we're thinking why do
+
+622
+00:11:04,550 --> 00:11:04,560
+three now we're thinking why do
+ 
+
+623
+00:11:04,560 --> 00:11:06,670
+three now we're thinking why do
+customers prefer umbrellas well because
+
+624
+00:11:06,670 --> 00:11:06,680
+customers prefer umbrellas well because
+ 
+
+625
+00:11:06,680 --> 00:11:09,150
+customers prefer umbrellas well because
+umbrellas are cheap right that's why
+
+626
+00:11:09,150 --> 00:11:09,160
+umbrellas are cheap right that's why
+ 
+
+627
+00:11:09,160 --> 00:11:10,710
+umbrellas are cheap right that's why
+most of us buy umbrella you buy an
+
+628
+00:11:10,710 --> 00:11:10,720
+most of us buy umbrella you buy an
+ 
+
+629
+00:11:10,720 --> 00:11:13,350
+most of us buy umbrella you buy an
+umbrella for like four bucks so now step
+
+630
+00:11:13,350 --> 00:11:13,360
+umbrella for like four bucks so now step
+ 
+
+631
+00:11:13,360 --> 00:11:15,949
+umbrella for like four bucks so now step
+four is I have to think about what can I
+
+632
+00:11:15,949 --> 00:11:15,959
+four is I have to think about what can I
+ 
+
+633
+00:11:15,959 --> 00:11:18,550
+four is I have to think about what can I
+teach them that shows them that using an
+
+634
+00:11:18,550 --> 00:11:18,560
+teach them that shows them that using an
+ 
+
+635
+00:11:18,560 --> 00:11:20,710
+teach them that shows them that using an
+umbrella is actually not that cheap the
+
+636
+00:11:20,710 --> 00:11:20,720
+umbrella is actually not that cheap the
+ 
+
+637
+00:11:20,720 --> 00:11:23,710
+umbrella is actually not that cheap the
+umbrella is still cheap but using isn't
+
+638
+00:11:23,710 --> 00:11:23,720
+umbrella is still cheap but using isn't
+ 
+
+639
+00:11:23,720 --> 00:11:25,829
+umbrella is still cheap but using isn't
+so here's what I came up with first
+
+640
+00:11:25,829 --> 00:11:25,839
+so here's what I came up with first
+ 
+
+641
+00:11:25,839 --> 00:11:27,790
+so here's what I came up with first
+things first I'm going to my territory
+
+642
+00:11:27,790 --> 00:11:27,800
+things first I'm going to my territory
+ 
+
+643
+00:11:27,800 --> 00:11:29,590
+things first I'm going to my territory
+and I'm not trying to get anybody has a
+
+644
+00:11:29,590 --> 00:11:29,600
+and I'm not trying to get anybody has a
+ 
+
+645
+00:11:29,600 --> 00:11:31,670
+and I'm not trying to get anybody has a
+heartbeat to buy an umbrella I'm
+
+646
+00:11:31,670 --> 00:11:31,680
+heartbeat to buy an umbrella I'm
+ 
+
+647
+00:11:31,680 --> 00:11:33,470
+heartbeat to buy an umbrella I'm
+focusing my territory on who is most
+
+648
+00:11:33,470 --> 00:11:33,480
+focusing my territory on who is most
+ 
+
+649
+00:11:33,480 --> 00:11:35,110
+focusing my territory on who is most
+likely to feel that problem probably
+
+650
+00:11:35,110 --> 00:11:35,120
+likely to feel that problem probably
+ 
+
+651
+00:11:35,120 --> 00:11:38,230
+likely to feel that problem probably
+people in Chicago Miami Seattle right so
+
+652
+00:11:38,230 --> 00:11:38,240
+people in Chicago Miami Seattle right so
+ 
+
+653
+00:11:38,240 --> 00:11:40,030
+people in Chicago Miami Seattle right so
+Step One is filter your territory by
+
+654
+00:11:40,030 --> 00:11:40,040
+Step One is filter your territory by
+ 
+
+655
+00:11:40,040 --> 00:11:42,110
+Step One is filter your territory by
+propensity to have the problem and then
+
+656
+00:11:42,110 --> 00:11:42,120
+propensity to have the problem and then
+ 
+
+657
+00:11:42,120 --> 00:11:43,509
+propensity to have the problem and then
+I'm going a step further and saying it's
+
+658
+00:11:43,509 --> 00:11:43,519
+I'm going a step further and saying it's
+ 
+
+659
+00:11:43,519 --> 00:11:44,990
+I'm going a step further and saying it's
+probably the people that like live and
+
+660
+00:11:44,990 --> 00:11:45,000
+probably the people that like live and
+ 
+
+661
+00:11:45,000 --> 00:11:48,269
+probably the people that like live and
+work in a city who maybe walk to work so
+
+662
+00:11:48,269 --> 00:11:48,279
+work in a city who maybe walk to work so
+ 
+
+663
+00:11:48,279 --> 00:11:50,670
+work in a city who maybe walk to work so
+now I'm zoned in on a high propensity
+
+664
+00:11:50,670 --> 00:11:50,680
+now I'm zoned in on a high propensity
+ 
+
+665
+00:11:50,680 --> 00:11:53,389
+now I'm zoned in on a high propensity
+audience that have that problem step two
+
+666
+00:11:53,389 --> 00:11:53,399
+audience that have that problem step two
+ 
+
+667
+00:11:53,399 --> 00:11:55,550
+audience that have that problem step two
+is now I've got to frame what is the
+
+668
+00:11:55,550 --> 00:11:55,560
+is now I've got to frame what is the
+ 
+
+669
+00:11:55,560 --> 00:11:56,949
+is now I've got to frame what is the
+negative consequence of using an
+
+670
+00:11:56,949 --> 00:11:56,959
+negative consequence of using an
+ 
+
+671
+00:11:56,959 --> 00:12:00,110
+negative consequence of using an
+umbrella well think about it it like
+
+672
+00:12:00,110 --> 00:12:00,120
+umbrella well think about it it like
+ 
+
+673
+00:12:00,120 --> 00:12:01,870
+umbrella well think about it it like
+research actually shows if you Google
+
+674
+00:12:01,870 --> 00:12:01,880
+research actually shows if you Google
+ 
+
+675
+00:12:01,880 --> 00:12:04,949
+research actually shows if you Google
+this only 5% of us remember to bring
+
+676
+00:12:04,949 --> 00:12:04,959
+this only 5% of us remember to bring
+ 
+
+677
+00:12:04,959 --> 00:12:07,310
+this only 5% of us remember to bring
+umbrellas on days it's supposed to rain
+
+678
+00:12:07,310 --> 00:12:07,320
+umbrellas on days it's supposed to rain
+ 
+
+679
+00:12:07,320 --> 00:12:08,870
+umbrellas on days it's supposed to rain
+on top of that if I live in Chicago
+
+680
+00:12:08,870 --> 00:12:08,880
+on top of that if I live in Chicago
+ 
+
+681
+00:12:08,880 --> 00:12:11,190
+on top of that if I live in Chicago
+which I do we get 119 days of rain a
+
+682
+00:12:11,190 --> 00:12:11,200
+which I do we get 119 days of rain a
+ 
+
+683
+00:12:11,200 --> 00:12:13,670
+which I do we get 119 days of rain a
+year so if I live and work in downtown
+
+684
+00:12:13,670 --> 00:12:13,680
+year so if I live and work in downtown
+ 
+
+685
+00:12:13,680 --> 00:12:15,790
+year so if I live and work in downtown
+Chicago and I step outside or I step
+
+686
+00:12:15,790 --> 00:12:15,800
+Chicago and I step outside or I step
+ 
+
+687
+00:12:15,800 --> 00:12:17,670
+Chicago and I step outside or I step
+down in the lobby and I see it's pouring
+
+688
+00:12:17,670 --> 00:12:17,680
+down in the lobby and I see it's pouring
+ 
+
+689
+00:12:17,680 --> 00:12:19,670
+down in the lobby and I see it's pouring
+out and I've got a customer dinner to go
+
+690
+00:12:19,670 --> 00:12:19,680
+out and I've got a customer dinner to go
+ 
+
+691
+00:12:19,680 --> 00:12:21,910
+out and I've got a customer dinner to go
+to unless I'm part of that 5% probably
+
+692
+00:12:21,910 --> 00:12:21,920
+to unless I'm part of that 5% probably
+ 
+
+693
+00:12:21,920 --> 00:12:23,670
+to unless I'm part of that 5% probably
+not going to just like go out in the
+
+694
+00:12:23,670 --> 00:12:23,680
+not going to just like go out in the
+ 
+
+695
+00:12:23,680 --> 00:12:25,350
+not going to just like go out in the
+rain and show up like a wet rat what I'm
+
+696
+00:12:25,350 --> 00:12:25,360
+rain and show up like a wet rat what I'm
+ 
+
+697
+00:12:25,360 --> 00:12:27,470
+rain and show up like a wet rat what I'm
+going to do is I'm going to hit Uber and
+
+698
+00:12:27,470 --> 00:12:27,480
+going to do is I'm going to hit Uber and
+ 
+
+699
+00:12:27,480 --> 00:12:29,629
+going to do is I'm going to hit Uber and
+Uber is going to do what Uber does and
+
+700
+00:12:29,629 --> 00:12:29,639
+Uber is going to do what Uber does and
+ 
+
+701
+00:12:29,639 --> 00:12:31,230
+Uber is going to do what Uber does and
+they're going to charge me four times as
+
+702
+00:12:31,230 --> 00:12:31,240
+they're going to charge me four times as
+ 
+
+703
+00:12:31,240 --> 00:12:33,430
+they're going to charge me four times as
+much as it should cuz of surge pricing
+
+704
+00:12:33,430 --> 00:12:33,440
+much as it should cuz of surge pricing
+ 
+
+705
+00:12:33,440 --> 00:12:35,829
+much as it should cuz of surge pricing
+and so if that happens four or five
+
+706
+00:12:35,829 --> 00:12:35,839
+and so if that happens four or five
+ 
+
+707
+00:12:35,839 --> 00:12:39,509
+and so if that happens four or five
+times a month I'm actually paying $200 a
+
+708
+00:12:39,509 --> 00:12:39,519
+times a month I'm actually paying $200 a
+ 
+
+709
+00:12:39,519 --> 00:12:43,150
+times a month I'm actually paying $200 a
+month to stay dry because I forget my
+
+710
+00:12:43,150 --> 00:12:43,160
+month to stay dry because I forget my
+ 
+
+711
+00:12:43,160 --> 00:12:45,670
+month to stay dry because I forget my
+umbrella so it's not attacking the
+
+712
+00:12:45,670 --> 00:12:45,680
+umbrella so it's not attacking the
+ 
+
+713
+00:12:45,680 --> 00:12:48,110
+umbrella so it's not attacking the
+umbrella it's just saying our Behavior
+
+714
+00:12:48,110 --> 00:12:48,120
+umbrella it's just saying our Behavior
+ 
+
+715
+00:12:48,120 --> 00:12:50,990
+umbrella it's just saying our Behavior
+around using it is fundamentally flawed
+
+716
+00:12:50,990 --> 00:12:51,000
+around using it is fundamentally flawed
+ 
+
+717
+00:12:51,000 --> 00:12:52,910
+around using it is fundamentally flawed
+so now if you hold up a $200 a month
+
+718
+00:12:52,910 --> 00:12:52,920
+so now if you hold up a $200 a month
+ 
+
+719
+00:12:52,920 --> 00:12:55,670
+so now if you hold up a $200 a month
+Uber Bill versus a onetime 100 a month
+
+720
+00:12:55,670 --> 00:12:55,680
+Uber Bill versus a onetime 100 a month
+ 
+
+721
+00:12:55,680 --> 00:12:58,389
+Uber Bill versus a onetime 100 a month
+pay or $100 payment for a raincoat now
+
+722
+00:12:58,389 --> 00:12:58,399
+pay or $100 payment for a raincoat now
+ 
+
+723
+00:12:58,399 --> 00:13:00,389
+pay or $100 payment for a raincoat now
+the raincoat's actually the cheap option
+
+724
+00:13:00,389 --> 00:13:00,399
+the raincoat's actually the cheap option
+ 
+
+725
+00:13:00,399 --> 00:13:02,389
+the raincoat's actually the cheap option
+so I know it's a silly example but like
+
+726
+00:13:02,389 --> 00:13:02,399
+so I know it's a silly example but like
+ 
+
+727
+00:13:02,399 --> 00:13:04,230
+so I know it's a silly example but like
+that's how you get to that is I first
+
+728
+00:13:04,230 --> 00:13:04,240
+that's how you get to that is I first
+ 
+
+729
+00:13:04,240 --> 00:13:06,949
+that's how you get to that is I first
+got to understand what do they why do
+
+730
+00:13:06,949 --> 00:13:06,959
+got to understand what do they why do
+ 
+
+731
+00:13:06,959 --> 00:13:08,990
+got to understand what do they why do
+they prefer status quo and then I've got
+
+732
+00:13:08,990 --> 00:13:09,000
+they prefer status quo and then I've got
+ 
+
+733
+00:13:09,000 --> 00:13:11,350
+they prefer status quo and then I've got
+to seek to understand what might they be
+
+734
+00:13:11,350 --> 00:13:11,360
+to seek to understand what might they be
+ 
+
+735
+00:13:11,360 --> 00:13:13,590
+to seek to understand what might they be
+missing in terms of how they are um
+
+736
+00:13:13,590 --> 00:13:13,600
+missing in terms of how they are um
+ 
+
+737
+00:13:13,600 --> 00:13:16,470
+missing in terms of how they are um
+implementing status quo okay can I I
+
+738
+00:13:16,470 --> 00:13:16,480
+implementing status quo okay can I I
+ 
+
+739
+00:13:16,480 --> 00:13:18,069
+implementing status quo okay can I I
+have like a product marketing nerd
+
+740
+00:13:18,069 --> 00:13:18,079
+have like a product marketing nerd
+ 
+
+741
+00:13:18,079 --> 00:13:20,310
+have like a product marketing nerd
+question and I want to I want to use
+
+742
+00:13:20,310 --> 00:13:20,320
+question and I want to I want to use
+ 
+
+743
+00:13:20,320 --> 00:13:22,389
+question and I want to I want to use
+your uh your story analogy because I
+
+744
+00:13:22,389 --> 00:13:22,399
+your uh your story analogy because I
+ 
+
+745
+00:13:22,399 --> 00:13:24,150
+your uh your story analogy because I
+mean hearing an important distinction
+
+746
+00:13:24,150 --> 00:13:24,160
+mean hearing an important distinction
+ 
+
+747
+00:13:24,160 --> 00:13:25,590
+mean hearing an important distinction
+here that I think is worth calling out
+
+748
+00:13:25,590 --> 00:13:25,600
+here that I think is worth calling out
+ 
+
+749
+00:13:25,600 --> 00:13:29,430
+here that I think is worth calling out
+which is this thing naming this you
+
+750
+00:13:29,430 --> 00:13:29,440
+which is this thing naming this you
+ 
+
+751
+00:13:29,440 --> 00:13:31,430
+which is this thing naming this you
+called it earlier like an enemy or
+
+752
+00:13:31,430 --> 00:13:31,440
+called it earlier like an enemy or
+ 
+
+753
+00:13:31,440 --> 00:13:32,990
+called it earlier like an enemy or
+showing like how they're actually
+
+754
+00:13:32,990 --> 00:13:33,000
+showing like how they're actually
+ 
+
+755
+00:13:33,000 --> 00:13:34,590
+showing like how they're actually
+missing out on money and introducing
+
+756
+00:13:34,590 --> 00:13:34,600
+missing out on money and introducing
+ 
+
+757
+00:13:34,600 --> 00:13:37,269
+missing out on money and introducing
+them to this alternative is not the same
+
+758
+00:13:37,269 --> 00:13:37,279
+them to this alternative is not the same
+ 
+
+759
+00:13:37,279 --> 00:13:38,790
+them to this alternative is not the same
+as hitting on a bunch of feature and
+
+760
+00:13:38,790 --> 00:13:38,800
+as hitting on a bunch of feature and
+ 
+
+761
+00:13:38,800 --> 00:13:41,550
+as hitting on a bunch of feature and
+benefits like in this analogy there is a
+
+762
+00:13:41,550 --> 00:13:41,560
+benefits like in this analogy there is a
+ 
+
+763
+00:13:41,560 --> 00:13:43,790
+benefits like in this analogy there is a
+place for that and you like went through
+
+764
+00:13:43,790 --> 00:13:43,800
+place for that and you like went through
+ 
+
+765
+00:13:43,800 --> 00:13:47,389
+place for that and you like went through
+that at an earlier part but that doesn't
+
+766
+00:13:47,389 --> 00:13:47,399
+that at an earlier part but that doesn't
+ 
+
+767
+00:13:47,399 --> 00:13:50,990
+that at an earlier part but that doesn't
+address the yeah but why not status quo
+
+768
+00:13:50,990 --> 00:13:51,000
+address the yeah but why not status quo
+ 
+
+769
+00:13:51,000 --> 00:13:52,509
+address the yeah but why not status quo
+like it's kind of easier to go back to
+
+770
+00:13:52,509 --> 00:13:52,519
+like it's kind of easier to go back to
+ 
+
+771
+00:13:52,519 --> 00:13:54,150
+like it's kind of easier to go back to
+my thing did I not talk about in that
+
+772
+00:13:54,150 --> 00:13:54,160
+my thing did I not talk about in that
+ 
+
+773
+00:13:54,160 --> 00:13:55,710
+my thing did I not talk about in that
+example I didn't talk about the rain
+
+774
+00:13:55,710 --> 00:13:55,720
+example I didn't talk about the rain
+ 
+
+775
+00:13:55,720 --> 00:13:59,189
+example I didn't talk about the rain
+code at all right right and that's where
+
+776
+00:13:59,189 --> 00:13:59,199
+code at all right right and that's where
+ 
+
+777
+00:13:59,199 --> 00:14:01,430
+code at all right right and that's where
+like what I want to ask you is like okay
+
+778
+00:14:01,430 --> 00:14:01,440
+like what I want to ask you is like okay
+ 
+
+779
+00:14:01,440 --> 00:14:05,230
+like what I want to ask you is like okay
+so so here's here's this is like taking
+
+780
+00:14:05,230 --> 00:14:05,240
+so so here's here's this is like taking
+ 
+
+781
+00:14:05,240 --> 00:14:06,790
+so so here's here's this is like taking
+your example on the F this is may be a
+
+782
+00:14:06,790 --> 00:14:06,800
+your example on the F this is may be a
+ 
+
+783
+00:14:06,800 --> 00:14:09,110
+your example on the F this is may be a
+terrible example but like feature
+
+784
+00:14:09,110 --> 00:14:09,120
+terrible example but like feature
+ 
+
+785
+00:14:09,120 --> 00:14:11,069
+terrible example but like feature
+benefit analysis like we think about a
+
+786
+00:14:11,069 --> 00:14:11,079
+benefit analysis like we think about a
+ 
+
+787
+00:14:11,079 --> 00:14:13,310
+benefit analysis like we think about a
+lot right like so okay the raincoat
+
+788
+00:14:13,310 --> 00:14:13,320
+lot right like so okay the raincoat
+ 
+
+789
+00:14:13,320 --> 00:14:15,710
+lot right like so okay the raincoat
+offers is completely wearable and covers
+
+790
+00:14:15,710 --> 00:14:15,720
+offers is completely wearable and covers
+ 
+
+791
+00:14:15,720 --> 00:14:17,790
+offers is completely wearable and covers
+your entire outfit which offers you
+
+792
+00:14:17,790 --> 00:14:17,800
+your entire outfit which offers you
+ 
+
+793
+00:14:17,800 --> 00:14:19,590
+your entire outfit which offers you
+protection from sideways rain which an
+
+794
+00:14:19,590 --> 00:14:19,600
+protection from sideways rain which an
+ 
+
+795
+00:14:19,600 --> 00:14:21,189
+protection from sideways rain which an
+umbrella doesn't so if you take an
+
+796
+00:14:21,189 --> 00:14:21,199
+umbrella doesn't so if you take an
+ 
+
+797
+00:14:21,199 --> 00:14:22,590
+umbrella doesn't so if you take an
+umbrella you're still going to show up
+
+798
+00:14:22,590 --> 00:14:22,600
+umbrella you're still going to show up
+ 
+
+799
+00:14:22,600 --> 00:14:24,230
+umbrella you're still going to show up
+wet you know your pants are going to be
+
+800
+00:14:24,230 --> 00:14:24,240
+wet you know your pants are going to be
+ 
+
+801
+00:14:24,240 --> 00:14:25,749
+wet you know your pants are going to be
+wet at the dinner at the business dinner
+
+802
+00:14:25,749 --> 00:14:25,759
+wet at the dinner at the business dinner
+ 
+
+803
+00:14:25,759 --> 00:14:27,629
+wet at the dinner at the business dinner
+whatever and that's not good and so it
+
+804
+00:14:27,629 --> 00:14:27,639
+whatever and that's not good and so it
+ 
+
+805
+00:14:27,639 --> 00:14:29,069
+whatever and that's not good and so it
+doesn't it's inadequate coverage
+
+806
+00:14:29,069 --> 00:14:29,079
+doesn't it's inadequate coverage
+ 
+
+807
+00:14:29,079 --> 00:14:30,269
+doesn't it's inadequate coverage
+compared to the raincoat which is full
+
+808
+00:14:30,269 --> 00:14:30,279
+compared to the raincoat which is full
+ 
+
+809
+00:14:30,279 --> 00:14:32,350
+compared to the raincoat which is full
+coverage but your point is like people
+
+810
+00:14:32,350 --> 00:14:32,360
+coverage but your point is like people
+ 
+
+811
+00:14:32,360 --> 00:14:33,910
+coverage but your point is like people
+are still going to like you can go
+
+812
+00:14:33,910 --> 00:14:33,920
+are still going to like you can go
+ 
+
+813
+00:14:33,920 --> 00:14:35,310
+are still going to like you can go
+through all the feature and benefits but
+
+814
+00:14:35,310 --> 00:14:35,320
+through all the feature and benefits but
+ 
+
+815
+00:14:35,320 --> 00:14:37,350
+through all the feature and benefits but
+then people are still going to say I get
+
+816
+00:14:37,350 --> 00:14:37,360
+then people are still going to say I get
+ 
+
+817
+00:14:37,360 --> 00:14:39,670
+then people are still going to say I get
+it I agree that like I'll stay drier
+
+818
+00:14:39,670 --> 00:14:39,680
+it I agree that like I'll stay drier
+ 
+
+819
+00:14:39,680 --> 00:14:41,829
+it I agree that like I'll stay drier
+hypothetically with a raincoat but for
+
+820
+00:14:41,829 --> 00:14:41,839
+hypothetically with a raincoat but for
+ 
+
+821
+00:14:41,839 --> 00:14:43,790
+hypothetically with a raincoat but for
+the five times you know a year that I
+
+822
+00:14:43,790 --> 00:14:43,800
+the five times you know a year that I
+ 
+
+823
+00:14:43,800 --> 00:14:45,710
+the five times you know a year that I
+use it or whatever is it actually worth
+
+824
+00:14:45,710 --> 00:14:45,720
+use it or whatever is it actually worth
+ 
+
+825
+00:14:45,720 --> 00:14:46,910
+use it or whatever is it actually worth
+that cost and that's where we have to
+
+826
+00:14:46,910 --> 00:14:46,920
+that cost and that's where we have to
+ 
+
+827
+00:14:46,920 --> 00:14:49,150
+that cost and that's where we have to
+show them actually even in those five
+
+828
+00:14:49,150 --> 00:14:49,160
+show them actually even in those five
+ 
+
+829
+00:14:49,160 --> 00:14:50,990
+show them actually even in those five
+times you're still going to save $500 if
+
+830
+00:14:50,990 --> 00:14:51,000
+times you're still going to save $500 if
+ 
+
+831
+00:14:51,000 --> 00:14:54,389
+times you're still going to save $500 if
+you use it that's I mean that's exactly
+
+832
+00:14:54,389 --> 00:14:54,399
+you use it that's I mean that's exactly
+ 
+
+833
+00:14:54,399 --> 00:14:57,470
+you use it that's I mean that's exactly
+it we love to talk about ourselves so
+
+834
+00:14:57,470 --> 00:14:57,480
+it we love to talk about ourselves so
+ 
+
+835
+00:14:57,480 --> 00:14:59,310
+it we love to talk about ourselves so
+much and even when we convince ourselves
+
+836
+00:14:59,310 --> 00:14:59,320
+much and even when we convince ourselves
+ 
+
+837
+00:14:59,320 --> 00:15:00,910
+much and even when we convince ourselves
+well we're still being customer Centric
+
+838
+00:15:00,910 --> 00:15:00,920
+well we're still being customer Centric
+ 
+
+839
+00:15:00,920 --> 00:15:02,509
+well we're still being customer Centric
+about like if you wear the raincoat you
+
+840
+00:15:02,509 --> 00:15:02,519
+about like if you wear the raincoat you
+ 
+
+841
+00:15:02,519 --> 00:15:05,430
+about like if you wear the raincoat you
+don't get wet it's not it's us Centric
+
+842
+00:15:05,430 --> 00:15:05,440
+don't get wet it's not it's us Centric
+ 
+
+843
+00:15:05,440 --> 00:15:06,629
+don't get wet it's not it's us Centric
+because we are talking about our
+
+844
+00:15:06,629 --> 00:15:06,639
+because we are talking about our
+ 
+
+845
+00:15:06,639 --> 00:15:09,790
+because we are talking about our
+solution job number one is this person
+
+846
+00:15:09,790 --> 00:15:09,800
+solution job number one is this person
+ 
+
+847
+00:15:09,800 --> 00:15:11,710
+solution job number one is this person
+has to believe they have a problem I
+
+848
+00:15:11,710 --> 00:15:11,720
+has to believe they have a problem I
+ 
+
+849
+00:15:11,720 --> 00:15:13,230
+has to believe they have a problem I
+would never in a million years buy a
+
+850
+00:15:13,230 --> 00:15:13,240
+would never in a million years buy a
+ 
+
+851
+00:15:13,240 --> 00:15:15,310
+would never in a million years buy a
+raincoat if I don't perceive I have a
+
+852
+00:15:15,310 --> 00:15:15,320
+raincoat if I don't perceive I have a
+ 
+
+853
+00:15:15,320 --> 00:15:16,990
+raincoat if I don't perceive I have a
+problem with how I'm solving for staying
+
+854
+00:15:16,990 --> 00:15:17,000
+problem with how I'm solving for staying
+ 
+
+855
+00:15:17,000 --> 00:15:19,389
+problem with how I'm solving for staying
+dry today and that's the thing I screwed
+
+856
+00:15:19,389 --> 00:15:19,399
+dry today and that's the thing I screwed
+ 
+
+857
+00:15:19,399 --> 00:15:20,710
+dry today and that's the thing I screwed
+this up all the time when I started
+
+858
+00:15:20,710 --> 00:15:20,720
+this up all the time when I started
+ 
+
+859
+00:15:20,720 --> 00:15:23,389
+this up all the time when I started
+selling run to the solution and hope by
+
+860
+00:15:23,389 --> 00:15:23,399
+selling run to the solution and hope by
+ 
+
+861
+00:15:23,399 --> 00:15:25,189
+selling run to the solution and hope by
+talking about the solution I could wow
+
+862
+00:15:25,189 --> 00:15:25,199
+talking about the solution I could wow
+ 
+
+863
+00:15:25,199 --> 00:15:26,670
+talking about the solution I could wow
+them into believing they have a problem
+
+864
+00:15:26,670 --> 00:15:26,680
+them into believing they have a problem
+ 
+
+865
+00:15:26,680 --> 00:15:29,269
+them into believing they have a problem
+it's totally backwards first and formost
+
+866
+00:15:29,269 --> 00:15:29,279
+it's totally backwards first and formost
+ 
+
+867
+00:15:29,279 --> 00:15:30,749
+it's totally backwards first and formost
+I have to isolate how are you solving
+
+868
+00:15:30,749 --> 00:15:30,759
+I have to isolate how are you solving
+ 
+
+869
+00:15:30,759 --> 00:15:32,509
+I have to isolate how are you solving
+the problem today are there flaws with
+
+870
+00:15:32,509 --> 00:15:32,519
+the problem today are there flaws with
+ 
+
+871
+00:15:32,519 --> 00:15:35,350
+the problem today are there flaws with
+that are those flaws costly risky enough
+
+872
+00:15:35,350 --> 00:15:35,360
+that are those flaws costly risky enough
+ 
+
+873
+00:15:35,360 --> 00:15:37,590
+that are those flaws costly risky enough
+to the point you'd warrant action and
+
+874
+00:15:37,590 --> 00:15:37,600
+to the point you'd warrant action and
+ 
+
+875
+00:15:37,600 --> 00:15:39,230
+to the point you'd warrant action and
+then I can show up and be like guess
+
+876
+00:15:39,230 --> 00:15:39,240
+then I can show up and be like guess
+ 
+
+877
+00:15:39,240 --> 00:15:41,350
+then I can show up and be like guess
+what the reason the rain Cod is awesome
+
+878
+00:15:41,350 --> 00:15:41,360
+what the reason the rain Cod is awesome
+ 
+
+879
+00:15:41,360 --> 00:15:43,350
+what the reason the rain Cod is awesome
+is because it is packable so you don't
+
+880
+00:15:43,350 --> 00:15:43,360
+is because it is packable so you don't
+ 
+
+881
+00:15:43,360 --> 00:15:45,150
+is because it is packable so you don't
+have to remember it like an umbrella it
+
+882
+00:15:45,150 --> 00:15:45,160
+have to remember it like an umbrella it
+ 
+
+883
+00:15:45,160 --> 00:15:47,590
+have to remember it like an umbrella it
+fits in your bag but that's the end
+
+884
+00:15:47,590 --> 00:15:47,600
+fits in your bag but that's the end
+ 
+
+885
+00:15:47,600 --> 00:15:49,269
+fits in your bag but that's the end
+point it's not the starting point if I
+
+886
+00:15:49,269 --> 00:15:49,279
+point it's not the starting point if I
+ 
+
+887
+00:15:49,279 --> 00:15:50,990
+point it's not the starting point if I
+try to sell you on a packable raincoat
+
+888
+00:15:50,990 --> 00:15:51,000
+try to sell you on a packable raincoat
+ 
+
+889
+00:15:51,000 --> 00:15:52,790
+try to sell you on a packable raincoat
+because it fits in your bag you're
+
+890
+00:15:52,790 --> 00:15:52,800
+because it fits in your bag you're
+ 
+
+891
+00:15:52,800 --> 00:15:54,509
+because it fits in your bag you're
+you're thinking is probably like yeah
+
+892
+00:15:54,509 --> 00:15:54,519
+you're thinking is probably like yeah
+ 
+
+893
+00:15:54,519 --> 00:15:56,389
+you're thinking is probably like yeah
+but so does an umbrella and like why
+
+894
+00:15:56,389 --> 00:15:56,399
+but so does an umbrella and like why
+ 
+
+895
+00:15:56,399 --> 00:15:58,749
+but so does an umbrella and like why
+don't I just use the umbrella until you
+
+896
+00:15:58,749 --> 00:15:58,759
+don't I just use the umbrella until you
+ 
+
+897
+00:15:58,759 --> 00:16:00,590
+don't I just use the umbrella until you
+go through that story and you realize
+
+898
+00:16:00,590 --> 00:16:00,600
+go through that story and you realize
+ 
+
+899
+00:16:00,600 --> 00:16:02,309
+go through that story and you realize
+gosh I'm falling into this trap this is
+
+900
+00:16:02,309 --> 00:16:02,319
+gosh I'm falling into this trap this is
+ 
+
+901
+00:16:02,319 --> 00:16:05,470
+gosh I'm falling into this trap this is
+me and by the way remember 5% of people
+
+902
+00:16:05,470 --> 00:16:05,480
+me and by the way remember 5% of people
+ 
+
+903
+00:16:05,480 --> 00:16:07,110
+me and by the way remember 5% of people
+never forget their umbrella there's
+
+904
+00:16:07,110 --> 00:16:07,120
+never forget their umbrella there's
+ 
+
+905
+00:16:07,120 --> 00:16:08,110
+never forget their umbrella there's
+probably a bunch of people who don't
+
+906
+00:16:08,110 --> 00:16:08,120
+probably a bunch of people who don't
+ 
+
+907
+00:16:08,120 --> 00:16:09,990
+probably a bunch of people who don't
+mind frolicking in the rain like it is
+
+908
+00:16:09,990 --> 00:16:10,000
+mind frolicking in the rain like it is
+ 
+
+909
+00:16:10,000 --> 00:16:11,949
+mind frolicking in the rain like it is
+not a silver bullet message but it is a
+
+910
+00:16:11,949 --> 00:16:11,959
+not a silver bullet message but it is a
+ 
+
+911
+00:16:11,959 --> 00:16:13,670
+not a silver bullet message but it is a
+it is a message that will resonate with
+
+912
+00:16:13,670 --> 00:16:13,680
+it is a message that will resonate with
+ 
+
+913
+00:16:13,680 --> 00:16:15,309
+it is a message that will resonate with
+the audience who feels the problem that
+
+914
+00:16:15,309 --> 00:16:15,319
+the audience who feels the problem that
+ 
+
+915
+00:16:15,319 --> 00:16:16,430
+the audience who feels the problem that
+you solve and that's who we should be
+
+916
+00:16:16,430 --> 00:16:16,440
+you solve and that's who we should be
+ 
+
+917
+00:16:16,440 --> 00:16:19,269
+you solve and that's who we should be
+paying attention to in my opinion where
+
+918
+00:16:19,269 --> 00:16:19,279
+paying attention to in my opinion where
+ 
+
+919
+00:16:19,279 --> 00:16:22,509
+paying attention to in my opinion where
+do you think most I want to ask two
+
+920
+00:16:22,509 --> 00:16:22,519
+do you think most I want to ask two
+ 
+
+921
+00:16:22,519 --> 00:16:24,069
+do you think most I want to ask two
+questions one is where do you think most
+
+922
+00:16:24,069 --> 00:16:24,079
+questions one is where do you think most
+ 
+
+923
+00:16:24,079 --> 00:16:26,230
+questions one is where do you think most
+companies get this wrong so let's say
+
+924
+00:16:26,230 --> 00:16:26,240
+companies get this wrong so let's say
+ 
+
+925
+00:16:26,240 --> 00:16:27,350
+companies get this wrong so let's say
+you know they've listened to a couple
+
+926
+00:16:27,350 --> 00:16:27,360
+you know they've listened to a couple
+ 
+
+927
+00:16:27,360 --> 00:16:29,710
+you know they've listened to a couple
+they've like they've heard you speak hen
+
+928
+00:16:29,710 --> 00:16:29,720
+they've like they've heard you speak hen
+ 
+
+929
+00:16:29,720 --> 00:16:31,990
+they've like they've heard you speak hen
+is a Keno speaker FYI uh they've heard
+
+930
+00:16:31,990 --> 00:16:32,000
+is a Keno speaker FYI uh they've heard
+ 
+
+931
+00:16:32,000 --> 00:16:33,749
+is a Keno speaker FYI uh they've heard
+you speak at an event or like they've
+
+932
+00:16:33,749 --> 00:16:33,759
+you speak at an event or like they've
+ 
+
+933
+00:16:33,759 --> 00:16:35,350
+you speak at an event or like they've
+read stuff on LinkedIn from you and
+
+934
+00:16:35,350 --> 00:16:35,360
+read stuff on LinkedIn from you and
+ 
+
+935
+00:16:35,360 --> 00:16:36,470
+read stuff on LinkedIn from you and
+they're like okay everyone like we need
+
+936
+00:16:36,470 --> 00:16:36,480
+they're like okay everyone like we need
+ 
+
+937
+00:16:36,480 --> 00:16:38,069
+they're like okay everyone like we need
+to focus on this when they go to roll it
+
+938
+00:16:38,069 --> 00:16:38,079
+to focus on this when they go to roll it
+ 
+
+939
+00:16:38,079 --> 00:16:39,509
+to focus on this when they go to roll it
+out where do they get it wrong because
+
+940
+00:16:39,509 --> 00:16:39,519
+out where do they get it wrong because
+ 
+
+941
+00:16:39,519 --> 00:16:40,910
+out where do they get it wrong because
+I'd like listeners to be aware of a
+
+942
+00:16:40,910 --> 00:16:40,920
+I'd like listeners to be aware of a
+ 
+
+943
+00:16:40,920 --> 00:16:43,110
+I'd like listeners to be aware of a
+couple danger areas like one area is
+
+944
+00:16:43,110 --> 00:16:43,120
+couple danger areas like one area is
+ 
+
+945
+00:16:43,120 --> 00:16:45,389
+couple danger areas like one area is
+coming to mind is I would imagine it
+
+946
+00:16:45,389 --> 00:16:45,399
+coming to mind is I would imagine it
+ 
+
+947
+00:16:45,399 --> 00:16:47,389
+coming to mind is I would imagine it
+takes a bit of time and effort and work
+
+948
+00:16:47,389 --> 00:16:47,399
+takes a bit of time and effort and work
+ 
+
+949
+00:16:47,399 --> 00:16:49,189
+takes a bit of time and effort and work
+to like come to agreement on what this
+
+950
+00:16:49,189 --> 00:16:49,199
+to like come to agreement on what this
+ 
+
+951
+00:16:49,199 --> 00:16:51,509
+to like come to agreement on what this
+is cuz I would imagine like CEO or like
+
+952
+00:16:51,509 --> 00:16:51,519
+is cuz I would imagine like CEO or like
+ 
+
+953
+00:16:51,519 --> 00:16:53,269
+is cuz I would imagine like CEO or like
+executive team probably has like one
+
+954
+00:16:53,269 --> 00:16:53,279
+executive team probably has like one
+ 
+
+955
+00:16:53,279 --> 00:16:54,910
+executive team probably has like one
+narrative in their mind sales people who
+
+956
+00:16:54,910 --> 00:16:54,920
+narrative in their mind sales people who
+ 
+
+957
+00:16:54,920 --> 00:16:56,230
+narrative in their mind sales people who
+are encountering this every day have a
+
+958
+00:16:56,230 --> 00:16:56,240
+are encountering this every day have a
+ 
+
+959
+00:16:56,240 --> 00:16:57,590
+are encountering this every day have a
+different and then product team has a
+
+960
+00:16:57,590 --> 00:16:57,600
+different and then product team has a
+ 
+
+961
+00:16:57,600 --> 00:16:59,629
+different and then product team has a
+completely different like one that that
+
+962
+00:16:59,629 --> 00:16:59,639
+completely different like one that that
+ 
+
+963
+00:16:59,639 --> 00:17:02,150
+completely different like one that that
+is so how do you come to alignment what
+
+964
+00:17:02,150 --> 00:17:02,160
+is so how do you come to alignment what
+ 
+
+965
+00:17:02,160 --> 00:17:03,749
+is so how do you come to alignment what
+do people get wrong about that and then
+
+966
+00:17:03,749 --> 00:17:03,759
+do people get wrong about that and then
+ 
+
+967
+00:17:03,759 --> 00:17:06,590
+do people get wrong about that and then
+my second question is um wait save it
+
+968
+00:17:06,590 --> 00:17:06,600
+my second question is um wait save it
+ 
+
+969
+00:17:06,600 --> 00:17:07,710
+my second question is um wait save it
+because I'll forget your second question
+
+970
+00:17:07,710 --> 00:17:07,720
+because I'll forget your second question
+ 
+
+971
+00:17:07,720 --> 00:17:09,949
+because I'll forget your second question
+okay okay yeah yeah I've got limited
+
+972
+00:17:09,949 --> 00:17:09,959
+okay okay yeah yeah I've got limited
+ 
+
+973
+00:17:09,959 --> 00:17:11,750
+okay okay yeah yeah I've got limited
+mental capacity I was on the verge of
+
+974
+00:17:11,750 --> 00:17:11,760
+mental capacity I was on the verge of
+ 
+
+975
+00:17:11,760 --> 00:17:13,429
+mental capacity I was on the verge of
+forgetting my second one already because
+
+976
+00:17:13,429 --> 00:17:13,439
+forgetting my second one already because
+ 
+
+977
+00:17:13,439 --> 00:17:15,110
+forgetting my second one already because
+I took too long to ask the first one so
+
+978
+00:17:15,110 --> 00:17:15,120
+I took too long to ask the first one so
+ 
+
+979
+00:17:15,120 --> 00:17:16,390
+I took too long to ask the first one so
+go ahead no the first question is
+
+980
+00:17:16,390 --> 00:17:16,400
+go ahead no the first question is
+ 
+
+981
+00:17:16,400 --> 00:17:18,990
+go ahead no the first question is
+awesome so there's a few things one is
+
+982
+00:17:18,990 --> 00:17:19,000
+awesome so there's a few things one is
+ 
+
+983
+00:17:19,000 --> 00:17:20,789
+awesome so there's a few things one is
+coming up with all this in a vacuum and
+
+984
+00:17:20,789 --> 00:17:20,799
+coming up with all this in a vacuum and
+ 
+
+985
+00:17:20,799 --> 00:17:22,949
+coming up with all this in a vacuum and
+then not testing it with customers your
+
+986
+00:17:22,949 --> 00:17:22,959
+then not testing it with customers your
+ 
+
+987
+00:17:22,959 --> 00:17:24,669
+then not testing it with customers your
+customers will be able to tell you in a
+
+988
+00:17:24,669 --> 00:17:24,679
+customers will be able to tell you in a
+ 
+
+989
+00:17:24,679 --> 00:17:26,870
+customers will be able to tell you in a
+heartbeat this slaps or it doesn't or
+
+990
+00:17:26,870 --> 00:17:26,880
+heartbeat this slaps or it doesn't or
+ 
+
+991
+00:17:26,880 --> 00:17:28,230
+heartbeat this slaps or it doesn't or
+you're missing this really critical
+
+992
+00:17:28,230 --> 00:17:28,240
+you're missing this really critical
+ 
+
+993
+00:17:28,240 --> 00:17:29,950
+you're missing this really critical
+piece or you're blaming the customer too
+
+994
+00:17:29,950 --> 00:17:29,960
+piece or you're blaming the customer too
+ 
+
+995
+00:17:29,960 --> 00:17:32,070
+piece or you're blaming the customer too
+much here so like take advantage of that
+
+996
+00:17:32,070 --> 00:17:32,080
+much here so like take advantage of that
+ 
+
+997
+00:17:32,080 --> 00:17:33,909
+much here so like take advantage of that
+you everybody has some happy customers
+
+998
+00:17:33,909 --> 00:17:33,919
+you everybody has some happy customers
+ 
+
+999
+00:17:33,919 --> 00:17:36,669
+you everybody has some happy customers
+if you say listen as we work to like
+
+1000
+00:17:36,669 --> 00:17:36,679
+if you say listen as we work to like
+ 
+
+1001
+00:17:36,679 --> 00:17:38,669
+if you say listen as we work to like
+refine our messaging and focus on the
+
+1002
+00:17:38,669 --> 00:17:38,679
+refine our messaging and focus on the
+ 
+
+1003
+00:17:38,679 --> 00:17:40,350
+refine our messaging and focus on the
+right problem for the right customers
+
+1004
+00:17:40,350 --> 00:17:40,360
+right problem for the right customers
+ 
+
+1005
+00:17:40,360 --> 00:17:42,230
+right problem for the right customers
+can we just run this by you and and get
+
+1006
+00:17:42,230 --> 00:17:42,240
+can we just run this by you and and get
+ 
+
+1007
+00:17:42,240 --> 00:17:44,950
+can we just run this by you and and get
+your honest reaction to it some of the
+
+1008
+00:17:44,950 --> 00:17:44,960
+your honest reaction to it some of the
+ 
+
+1009
+00:17:44,960 --> 00:17:46,630
+your honest reaction to it some of the
+best feedback you'll get are directly
+
+1010
+00:17:46,630 --> 00:17:46,640
+best feedback you'll get are directly
+ 
+
+1011
+00:17:46,640 --> 00:17:48,470
+best feedback you'll get are directly
+from customers we just skip over asking
+
+1012
+00:17:48,470 --> 00:17:48,480
+from customers we just skip over asking
+ 
+
+1013
+00:17:48,480 --> 00:17:51,430
+from customers we just skip over asking
+them so that's one two is it like you
+
+1014
+00:17:51,430 --> 00:17:51,440
+them so that's one two is it like you
+ 
+
+1015
+00:17:51,440 --> 00:17:53,190
+them so that's one two is it like you
+come in you do it you put all this hard
+
+1016
+00:17:53,190 --> 00:17:53,200
+come in you do it you put all this hard
+ 
+
+1017
+00:17:53,200 --> 00:17:55,070
+come in you do it you put all this hard
+work on it but because it's harder we
+
+1018
+00:17:55,070 --> 00:17:55,080
+work on it but because it's harder we
+ 
+
+1019
+00:17:55,080 --> 00:17:56,789
+work on it but because it's harder we
+just put it on the back burner and then
+
+1020
+00:17:56,789 --> 00:17:56,799
+just put it on the back burner and then
+ 
+
+1021
+00:17:56,799 --> 00:17:58,430
+just put it on the back burner and then
+we default to what's comfortable which
+
+1022
+00:17:58,430 --> 00:17:58,440
+we default to what's comfortable which
+ 
+
+1023
+00:17:58,440 --> 00:18:00,750
+we default to what's comfortable which
+is like hey we released this new feature
+
+1024
+00:18:00,750 --> 00:18:00,760
+is like hey we released this new feature
+ 
+
+1025
+00:18:00,760 --> 00:18:03,310
+is like hey we released this new feature
+everybody go talk about that so that's
+
+1026
+00:18:03,310 --> 00:18:03,320
+everybody go talk about that so that's
+ 
+
+1027
+00:18:03,320 --> 00:18:05,710
+everybody go talk about that so that's
+the the most common one is number two
+
+1028
+00:18:05,710 --> 00:18:05,720
+the the most common one is number two
+ 
+
+1029
+00:18:05,720 --> 00:18:08,110
+the the most common one is number two
+like we tend to not do what's hard but
+
+1030
+00:18:08,110 --> 00:18:08,120
+like we tend to not do what's hard but
+ 
+
+1031
+00:18:08,120 --> 00:18:10,390
+like we tend to not do what's hard but
+what's hard works because it's hard and
+
+1032
+00:18:10,390 --> 00:18:10,400
+what's hard works because it's hard and
+ 
+
+1033
+00:18:10,400 --> 00:18:12,950
+what's hard works because it's hard and
+nobody else does it and then number
+
+1034
+00:18:12,950 --> 00:18:12,960
+nobody else does it and then number
+ 
+
+1035
+00:18:12,960 --> 00:18:17,190
+nobody else does it and then number
+three is we think to micro in terms of
+
+1036
+00:18:17,190 --> 00:18:17,200
+three is we think to micro in terms of
+ 
+
+1037
+00:18:17,200 --> 00:18:19,710
+three is we think to micro in terms of
+the problem and so like I'm running into
+
+1038
+00:18:19,710 --> 00:18:19,720
+the problem and so like I'm running into
+ 
+
+1039
+00:18:19,720 --> 00:18:21,070
+the problem and so like I'm running into
+this right now with a client where it's
+
+1040
+00:18:21,070 --> 00:18:21,080
+this right now with a client where it's
+ 
+
+1041
+00:18:21,080 --> 00:18:22,909
+this right now with a client where it's
+like they're talking about a problem
+
+1042
+00:18:22,909 --> 00:18:22,919
+like they're talking about a problem
+ 
+
+1043
+00:18:22,919 --> 00:18:24,470
+like they're talking about a problem
+they solve but the problem that they
+
+1044
+00:18:24,470 --> 00:18:24,480
+they solve but the problem that they
+ 
+
+1045
+00:18:24,480 --> 00:18:27,310
+they solve but the problem that they
+solve isn't actually a true it's not ma
+
+1046
+00:18:27,310 --> 00:18:27,320
+solve isn't actually a true it's not ma
+ 
+
+1047
+00:18:27,320 --> 00:18:29,390
+solve isn't actually a true it's not ma
+up to a true business objective like
+
+1048
+00:18:29,390 --> 00:18:29,400
+up to a true business objective like
+ 
+
+1049
+00:18:29,400 --> 00:18:32,230
+up to a true business objective like
+we're thinking way too narrow and so it
+
+1050
+00:18:32,230 --> 00:18:32,240
+we're thinking way too narrow and so it
+ 
+
+1051
+00:18:32,240 --> 00:18:35,630
+we're thinking way too narrow and so it
+resonates with the end user persona but
+
+1052
+00:18:35,630 --> 00:18:35,640
+resonates with the end user persona but
+ 
+
+1053
+00:18:35,640 --> 00:18:37,070
+resonates with the end user persona but
+by the time you take it up to the sea
+
+1054
+00:18:37,070 --> 00:18:37,080
+by the time you take it up to the sea
+ 
+
+1055
+00:18:37,080 --> 00:18:38,470
+by the time you take it up to the sea
+level it's like okay yeah I get that
+
+1056
+00:18:38,470 --> 00:18:38,480
+level it's like okay yeah I get that
+ 
+
+1057
+00:18:38,480 --> 00:18:39,549
+level it's like okay yeah I get that
+that's if difficult for you but what
+
+1058
+00:18:39,549 --> 00:18:39,559
+that's if difficult for you but what
+ 
+
+1059
+00:18:39,559 --> 00:18:40,750
+that's if difficult for you but what
+does it have to do with anything that
+
+1060
+00:18:40,750 --> 00:18:40,760
+does it have to do with anything that
+ 
+
+1061
+00:18:40,760 --> 00:18:42,350
+does it have to do with anything that
+matters to me so we've also got to make
+
+1062
+00:18:42,350 --> 00:18:42,360
+matters to me so we've also got to make
+ 
+
+1063
+00:18:42,360 --> 00:18:44,590
+matters to me so we've also got to make
+sure it's the right elevation of problem
+
+1064
+00:18:44,590 --> 00:18:44,600
+sure it's the right elevation of problem
+ 
+
+1065
+00:18:44,600 --> 00:18:47,230
+sure it's the right elevation of problem
+when we're selling into B2B okay okay
+
+1066
+00:18:47,230 --> 00:18:47,240
+when we're selling into B2B okay okay
+ 
+
+1067
+00:18:47,240 --> 00:18:49,909
+when we're selling into B2B okay okay
+and how many companies do you think like
+
+1068
+00:18:49,909 --> 00:18:49,919
+and how many companies do you think like
+ 
+
+1069
+00:18:49,919 --> 00:18:51,950
+and how many companies do you think like
+you have a good sense of of the state of
+
+1070
+00:18:51,950 --> 00:18:51,960
+you have a good sense of of the state of
+ 
+
+1071
+00:18:51,960 --> 00:18:54,029
+you have a good sense of of the state of
+sales do you think there's a healthy
+
+1072
+00:18:54,029 --> 00:18:54,039
+sales do you think there's a healthy
+ 
+
+1073
+00:18:54,039 --> 00:18:56,029
+sales do you think there's a healthy
+appreciation for how much loss happens
+
+1074
+00:18:56,029 --> 00:18:56,039
+appreciation for how much loss happens
+ 
+
+1075
+00:18:56,039 --> 00:18:58,830
+appreciation for how much loss happens
+to status quo or this is like under
+
+1076
+00:18:58,830 --> 00:18:58,840
+to status quo or this is like under
+ 
+
+1077
+00:18:58,840 --> 00:19:00,549
+to status quo or this is like under
+utiliz or people just aren't doing the
+
+1078
+00:19:00,549 --> 00:19:00,559
+utiliz or people just aren't doing the
+ 
+
+1079
+00:19:00,559 --> 00:19:02,350
+utiliz or people just aren't doing the
+right thing with it like how do you
+
+1080
+00:19:02,350 --> 00:19:02,360
+right thing with it like how do you
+ 
+
+1081
+00:19:02,360 --> 00:19:03,870
+right thing with it like how do you
+think this relates to fixing losing
+
+1082
+00:19:03,870 --> 00:19:03,880
+think this relates to fixing losing
+ 
+
+1083
+00:19:03,880 --> 00:19:05,870
+think this relates to fixing losing
+deals to status quo versus competitors
+
+1084
+00:19:05,870 --> 00:19:05,880
+deals to status quo versus competitors
+ 
+
+1085
+00:19:05,880 --> 00:19:07,549
+deals to status quo versus competitors
+are people do you find people are like
+
+1086
+00:19:07,549 --> 00:19:07,559
+are people do you find people are like
+ 
+
+1087
+00:19:07,559 --> 00:19:09,590
+are people do you find people are like
+that you consult with are like overly
+
+1088
+00:19:09,590 --> 00:19:09,600
+that you consult with are like overly
+ 
+
+1089
+00:19:09,600 --> 00:19:11,230
+that you consult with are like overly
+fixated on competitors when maybe like
+
+1090
+00:19:11,230 --> 00:19:11,240
+fixated on competitors when maybe like
+ 
+
+1091
+00:19:11,240 --> 00:19:12,669
+fixated on competitors when maybe like
+the bulk of what they're losing is to
+
+1092
+00:19:12,669 --> 00:19:12,679
+the bulk of what they're losing is to
+ 
+
+1093
+00:19:12,679 --> 00:19:14,390
+the bulk of what they're losing is to
+status quo or how does that come into
+
+1094
+00:19:14,390 --> 00:19:14,400
+status quo or how does that come into
+ 
+
+1095
+00:19:14,400 --> 00:19:17,390
+status quo or how does that come into
+play I love this question
+
+1096
+00:19:17,390 --> 00:19:17,400
+play I love this question
+ 
+
+1097
+00:19:17,400 --> 00:19:19,870
+play I love this question
+genuinely despite the vast amount of
+
+1098
+00:19:19,870 --> 00:19:19,880
+genuinely despite the vast amount of
+ 
+
+1099
+00:19:19,880 --> 00:19:22,149
+genuinely despite the vast amount of
+research the vast amount of like yelling
+
+1100
+00:19:22,149 --> 00:19:22,159
+research the vast amount of like yelling
+ 
+
+1101
+00:19:22,159 --> 00:19:24,710
+research the vast amount of like yelling
+into the void on LinkedIn the vast
+
+1102
+00:19:24,710 --> 00:19:24,720
+into the void on LinkedIn the vast
+ 
+
+1103
+00:19:24,720 --> 00:19:26,630
+into the void on LinkedIn the vast
+majority of people are still way too
+
+1104
+00:19:26,630 --> 00:19:26,640
+majority of people are still way too
+ 
+
+1105
+00:19:26,640 --> 00:19:28,710
+majority of people are still way too
+worried about competitive losses and the
+
+1106
+00:19:28,710 --> 00:19:28,720
+worried about competitive losses and the
+ 
+
+1107
+00:19:28,720 --> 00:19:31,110
+worried about competitive losses and the
+the reason for that is a lot of times no
+
+1108
+00:19:31,110 --> 00:19:31,120
+the reason for that is a lot of times no
+ 
+
+1109
+00:19:31,120 --> 00:19:33,070
+the reason for that is a lot of times no
+decision or status quo losses sound a
+
+1110
+00:19:33,070 --> 00:19:33,080
+decision or status quo losses sound a
+ 
+
+1111
+00:19:33,080 --> 00:19:35,350
+decision or status quo losses sound a
+lot like competitive like losses so it's
+
+1112
+00:19:35,350 --> 00:19:35,360
+lot like competitive like losses so it's
+ 
+
+1113
+00:19:35,360 --> 00:19:39,310
+lot like competitive like losses so it's
+like you know we are too expensive great
+
+1114
+00:19:39,310 --> 00:19:39,320
+like you know we are too expensive great
+ 
+
+1115
+00:19:39,320 --> 00:19:41,470
+like you know we are too expensive great
+that's not on me the salesperson that's
+
+1116
+00:19:41,470 --> 00:19:41,480
+that's not on me the salesperson that's
+ 
+
+1117
+00:19:41,480 --> 00:19:43,190
+that's not on me the salesperson that's
+on our product pricing they went with
+
+1118
+00:19:43,190 --> 00:19:43,200
+on our product pricing they went with
+ 
+
+1119
+00:19:43,200 --> 00:19:44,669
+on our product pricing they went with
+the other person because they had a
+
+1120
+00:19:44,669 --> 00:19:44,679
+the other person because they had a
+ 
+
+1121
+00:19:44,679 --> 00:19:47,430
+the other person because they had a
+better price well if a prospect looks at
+
+1122
+00:19:47,430 --> 00:19:47,440
+better price well if a prospect looks at
+ 
+
+1123
+00:19:47,440 --> 00:19:49,789
+better price well if a prospect looks at
+two suppliers and both of them seem to
+
+1124
+00:19:49,789 --> 00:19:49,799
+two suppliers and both of them seem to
+ 
+
+1125
+00:19:49,799 --> 00:19:51,830
+two suppliers and both of them seem to
+offer the same value and you are more
+
+1126
+00:19:51,830 --> 00:19:51,840
+offer the same value and you are more
+ 
+
+1127
+00:19:51,840 --> 00:19:53,750
+offer the same value and you are more
+expensive you've given them no other
+
+1128
+00:19:53,750 --> 00:19:53,760
+expensive you've given them no other
+ 
+
+1129
+00:19:53,760 --> 00:19:56,110
+expensive you've given them no other
+reason to choose you like price has to
+
+1130
+00:19:56,110 --> 00:19:56,120
+reason to choose you like price has to
+ 
+
+1131
+00:19:56,120 --> 00:19:58,870
+reason to choose you like price has to
+become the decision criteria and so I
+
+1132
+00:19:58,870 --> 00:19:58,880
+become the decision criteria and so I
+ 
+
+1133
+00:19:58,880 --> 00:20:00,390
+become the decision criteria and so I
+think in many ways if I look back at my
+
+1134
+00:20:00,390 --> 00:20:00,400
+think in many ways if I look back at my
+ 
+
+1135
+00:20:00,400 --> 00:20:03,230
+think in many ways if I look back at my
+own mistakes as a salesperson I would
+
+1136
+00:20:03,230 --> 00:20:03,240
+own mistakes as a salesperson I would
+ 
+
+1137
+00:20:03,240 --> 00:20:05,710
+own mistakes as a salesperson I would
+just assume I was losing to these other
+
+1138
+00:20:05,710 --> 00:20:05,720
+just assume I was losing to these other
+ 
+
+1139
+00:20:05,720 --> 00:20:08,350
+just assume I was losing to these other
+factors that were actually just really
+
+1140
+00:20:08,350 --> 00:20:08,360
+factors that were actually just really
+ 
+
+1141
+00:20:08,360 --> 00:20:10,149
+factors that were actually just really
+status quo and disguise like call me
+
+1142
+00:20:10,149 --> 00:20:10,159
+status quo and disguise like call me
+ 
+
+1143
+00:20:10,159 --> 00:20:13,430
+status quo and disguise like call me
+back next year um Now isn't a good time
+
+1144
+00:20:13,430 --> 00:20:13,440
+back next year um Now isn't a good time
+ 
+
+1145
+00:20:13,440 --> 00:20:15,110
+back next year um Now isn't a good time
+let me socialize this and get back to
+
+1146
+00:20:15,110 --> 00:20:15,120
+let me socialize this and get back to
+ 
+
+1147
+00:20:15,120 --> 00:20:16,990
+let me socialize this and get back to
+you like I still think there's a lot of
+
+1148
+00:20:16,990 --> 00:20:17,000
+you like I still think there's a lot of
+ 
+
+1149
+00:20:17,000 --> 00:20:18,789
+you like I still think there's a lot of
+companies who don't appreciate status
+
+1150
+00:20:18,789 --> 00:20:18,799
+companies who don't appreciate status
+ 
+
+1151
+00:20:18,799 --> 00:20:20,149
+companies who don't appreciate status
+quo is
+
+1152
+00:20:20,149 --> 00:20:20,159
+quo is
+ 
+
+1153
+00:20:20,159 --> 00:20:23,029
+quo is
+destroying destroying our Pipeline and
+
+1154
+00:20:23,029 --> 00:20:23,039
+destroying destroying our Pipeline and
+ 
+
+1155
+00:20:23,039 --> 00:20:24,510
+destroying destroying our Pipeline and
+it's the one we have the most control
+
+1156
+00:20:24,510 --> 00:20:24,520
+it's the one we have the most control
+ 
+
+1157
+00:20:24,520 --> 00:20:25,830
+it's the one we have the most control
+over in
+
+1158
+00:20:25,830 --> 00:20:25,840
+over in
+ 
+
+1159
+00:20:25,840 --> 00:20:29,230
+over in
+fixing how do you recommend company
+
+1160
+00:20:29,230 --> 00:20:29,240
+fixing how do you recommend company
+ 
+
+1161
+00:20:29,240 --> 00:20:30,870
+fixing how do you recommend company
+let's say a company's listening like
+
+1162
+00:20:30,870 --> 00:20:30,880
+let's say a company's listening like
+ 
+
+1163
+00:20:30,880 --> 00:20:32,950
+let's say a company's listening like
+okay you've convinced me they meet with
+
+1164
+00:20:32,950 --> 00:20:32,960
+okay you've convinced me they meet with
+ 
+
+1165
+00:20:32,960 --> 00:20:35,870
+okay you've convinced me they meet with
+their team they come up with an enemy or
+
+1166
+00:20:35,870 --> 00:20:35,880
+their team they come up with an enemy or
+ 
+
+1167
+00:20:35,880 --> 00:20:37,789
+their team they come up with an enemy or
+they come you know an enemy that is not
+
+1168
+00:20:37,789 --> 00:20:37,799
+they come you know an enemy that is not
+ 
+
+1169
+00:20:37,799 --> 00:20:39,149
+they come you know an enemy that is not
+the customer and it's not the it's
+
+1170
+00:20:39,149 --> 00:20:39,159
+the customer and it's not the it's
+ 
+
+1171
+00:20:39,159 --> 00:20:41,310
+the customer and it's not the it's
+insult not insulting the customers and
+
+1172
+00:20:41,310 --> 00:20:41,320
+insult not insulting the customers and
+ 
+
+1173
+00:20:41,320 --> 00:20:45,990
+insult not insulting the customers and
+they are able to frame a cost of in
+
+1174
+00:20:45,990 --> 00:20:46,000
+they are able to frame a cost of in
+ 
+
+1175
+00:20:46,000 --> 00:20:49,350
+they are able to frame a cost of in
+action and like tie it to a number and
+
+1176
+00:20:49,350 --> 00:20:49,360
+action and like tie it to a number and
+ 
+
+1177
+00:20:49,360 --> 00:20:50,830
+action and like tie it to a number and
+then they start R they test it with
+
+1178
+00:20:50,830 --> 00:20:50,840
+then they start R they test it with
+ 
+
+1179
+00:20:50,840 --> 00:20:52,510
+then they start R they test it with
+customers and then they start rolling
+
+1180
+00:20:52,510 --> 00:20:52,520
+customers and then they start rolling
+ 
+
+1181
+00:20:52,520 --> 00:20:54,789
+customers and then they start rolling
+this narrative out and they get good
+
+1182
+00:20:54,789 --> 00:20:54,799
+this narrative out and they get good
+ 
+
+1183
+00:20:54,799 --> 00:20:57,230
+this narrative out and they get good
+responses what's a way you would expect
+
+1184
+00:20:57,230 --> 00:20:57,240
+responses what's a way you would expect
+ 
+
+1185
+00:20:57,240 --> 00:20:59,029
+responses what's a way you would expect
+this to show up in a measure measurable
+
+1186
+00:20:59,029 --> 00:20:59,039
+this to show up in a measure measurable
+ 
+
+1187
+00:20:59,039 --> 00:21:00,750
+this to show up in a measure measurable
+way that like wow this was the unlock
+
+1188
+00:21:00,750 --> 00:21:00,760
+way that like wow this was the unlock
+ 
+
+1189
+00:21:00,760 --> 00:21:03,149
+way that like wow this was the unlock
+for us would this be like reduction in
+
+1190
+00:21:03,149 --> 00:21:03,159
+for us would this be like reduction in
+ 
+
+1191
+00:21:03,159 --> 00:21:06,029
+for us would this be like reduction in
+loss deals like to status quo or like
+
+1192
+00:21:06,029 --> 00:21:06,039
+loss deals like to status quo or like
+ 
+
+1193
+00:21:06,039 --> 00:21:07,110
+loss deals like to status quo or like
+are there other ways that you would
+
+1194
+00:21:07,110 --> 00:21:07,120
+are there other ways that you would
+ 
+
+1195
+00:21:07,120 --> 00:21:08,909
+are there other ways that you would
+think about it yeah so I would say
+
+1196
+00:21:08,909 --> 00:21:08,919
+think about it yeah so I would say
+ 
+
+1197
+00:21:08,919 --> 00:21:11,310
+think about it yeah so I would say
+reduction in Clos uh closed LW status
+
+1198
+00:21:11,310 --> 00:21:11,320
+reduction in Clos uh closed LW status
+ 
+
+1199
+00:21:11,320 --> 00:21:15,669
+reduction in Clos uh closed LW status
+clo status quo reduction in sales cycle
+
+1200
+00:21:15,669 --> 00:21:15,679
+clo status quo reduction in sales cycle
+ 
+
+1201
+00:21:15,679 --> 00:21:18,070
+clo status quo reduction in sales cycle
+time so the thing that showed up for me
+
+1202
+00:21:18,070 --> 00:21:18,080
+time so the thing that showed up for me
+ 
+
+1203
+00:21:18,080 --> 00:21:20,510
+time so the thing that showed up for me
+is I was always like dragging prospects
+
+1204
+00:21:20,510 --> 00:21:20,520
+is I was always like dragging prospects
+ 
+
+1205
+00:21:20,520 --> 00:21:23,070
+is I was always like dragging prospects
+along with me versus when you and part
+
+1206
+00:21:23,070 --> 00:21:23,080
+along with me versus when you and part
+ 
+
+1207
+00:21:23,080 --> 00:21:24,990
+along with me versus when you and part
+of this is also like soft skill of
+
+1208
+00:21:24,990 --> 00:21:25,000
+of this is also like soft skill of
+ 
+
+1209
+00:21:25,000 --> 00:21:27,230
+of this is also like soft skill of
+making it someone else's idea like I'm
+
+1210
+00:21:27,230 --> 00:21:27,240
+making it someone else's idea like I'm
+ 
+
+1211
+00:21:27,240 --> 00:21:30,190
+making it someone else's idea like I'm
+giving you the framework toal at COI but
+
+1212
+00:21:30,190 --> 00:21:30,200
+giving you the framework toal at COI but
+ 
+
+1213
+00:21:30,200 --> 00:21:31,510
+giving you the framework toal at COI but
+you're the one that hits the enter
+
+1214
+00:21:31,510 --> 00:21:31,520
+you're the one that hits the enter
+ 
+
+1215
+00:21:31,520 --> 00:21:33,510
+you're the one that hits the enter
+button and the magic in that is if
+
+1216
+00:21:33,510 --> 00:21:33,520
+button and the magic in that is if
+ 
+
+1217
+00:21:33,520 --> 00:21:35,590
+button and the magic in that is if
+someone does that versus being told it
+
+1218
+00:21:35,590 --> 00:21:35,600
+someone does that versus being told it
+ 
+
+1219
+00:21:35,600 --> 00:21:38,149
+someone does that versus being told it
+it feels like their idea and so they are
+
+1220
+00:21:38,149 --> 00:21:38,159
+it feels like their idea and so they are
+ 
+
+1221
+00:21:38,159 --> 00:21:39,549
+it feels like their idea and so they are
+much more likely to hang up the phone
+
+1222
+00:21:39,549 --> 00:21:39,559
+much more likely to hang up the phone
+ 
+
+1223
+00:21:39,559 --> 00:21:41,789
+much more likely to hang up the phone
+with me walk to their boss's office and
+
+1224
+00:21:41,789 --> 00:21:41,799
+with me walk to their boss's office and
+ 
+
+1225
+00:21:41,799 --> 00:21:44,070
+with me walk to their boss's office and
+be like look at this thing I just found
+
+1226
+00:21:44,070 --> 00:21:44,080
+be like look at this thing I just found
+ 
+
+1227
+00:21:44,080 --> 00:21:46,269
+be like look at this thing I just found
+and so that helped me move sales Cycles
+
+1228
+00:21:46,269 --> 00:21:46,279
+and so that helped me move sales Cycles
+ 
+
+1229
+00:21:46,279 --> 00:21:48,630
+and so that helped me move sales Cycles
+faster the other big benefit and this is
+
+1230
+00:21:48,630 --> 00:21:48,640
+faster the other big benefit and this is
+ 
+
+1231
+00:21:48,640 --> 00:21:49,870
+faster the other big benefit and this is
+one I just don't think we as sales
+
+1232
+00:21:49,870 --> 00:21:49,880
+one I just don't think we as sales
+ 
+
+1233
+00:21:49,880 --> 00:21:51,710
+one I just don't think we as sales
+people appreciate enough is just
+
+1234
+00:21:51,710 --> 00:21:51,720
+people appreciate enough is just
+ 
+
+1235
+00:21:51,720 --> 00:21:53,590
+people appreciate enough is just
+disqualifying faster like there are
+
+1236
+00:21:53,590 --> 00:21:53,600
+disqualifying faster like there are
+ 
+
+1237
+00:21:53,600 --> 00:21:55,470
+disqualifying faster like there are
+times I've gone in with a hypothesis
+
+1238
+00:21:55,470 --> 00:21:55,480
+times I've gone in with a hypothesis
+ 
+
+1239
+00:21:55,480 --> 00:21:58,870
+times I've gone in with a hypothesis
+around zoi and I've been wrong the
+
+1240
+00:21:58,870 --> 00:21:58,880
+around zoi and I've been wrong the
+ 
+
+1241
+00:21:58,880 --> 00:22:01,269
+around zoi and I've been wrong the
+problem just was not big enough and for
+
+1242
+00:22:01,269 --> 00:22:01,279
+problem just was not big enough and for
+ 
+
+1243
+00:22:01,279 --> 00:22:02,669
+problem just was not big enough and for
+whatever reason maybe it was like a good
+
+1244
+00:22:02,669 --> 00:22:02,679
+whatever reason maybe it was like a good
+ 
+
+1245
+00:22:02,679 --> 00:22:04,430
+whatever reason maybe it was like a good
+logo or like I could see a big
+
+1246
+00:22:04,430 --> 00:22:04,440
+logo or like I could see a big
+ 
+
+1247
+00:22:04,440 --> 00:22:05,909
+logo or like I could see a big
+opportunity size on the other side of it
+
+1248
+00:22:05,909 --> 00:22:05,919
+opportunity size on the other side of it
+ 
+
+1249
+00:22:05,919 --> 00:22:07,950
+opportunity size on the other side of it
+I probably would have kept working on it
+
+1250
+00:22:07,950 --> 00:22:07,960
+I probably would have kept working on it
+ 
+
+1251
+00:22:07,960 --> 00:22:09,430
+I probably would have kept working on it
+by knowing up front that the problem
+
+1252
+00:22:09,430 --> 00:22:09,440
+by knowing up front that the problem
+ 
+
+1253
+00:22:09,440 --> 00:22:11,149
+by knowing up front that the problem
+just wasn't big enough to solve I could
+
+1254
+00:22:11,149 --> 00:22:11,159
+just wasn't big enough to solve I could
+ 
+
+1255
+00:22:11,159 --> 00:22:13,390
+just wasn't big enough to solve I could
+confidently walk away from that deal and
+
+1256
+00:22:13,390 --> 00:22:13,400
+confidently walk away from that deal and
+ 
+
+1257
+00:22:13,400 --> 00:22:14,789
+confidently walk away from that deal and
+that meant I wasn't working these deals
+
+1258
+00:22:14,789 --> 00:22:14,799
+that meant I wasn't working these deals
+ 
+
+1259
+00:22:14,799 --> 00:22:16,909
+that meant I wasn't working these deals
+for like 6 eight months in Enterprise
+
+1260
+00:22:16,909 --> 00:22:16,919
+for like 6 eight months in Enterprise
+ 
+
+1261
+00:22:16,919 --> 00:22:18,149
+for like 6 eight months in Enterprise
+only to come up with nothing on the
+
+1262
+00:22:18,149 --> 00:22:18,159
+only to come up with nothing on the
+ 
+
+1263
+00:22:18,159 --> 00:22:20,029
+only to come up with nothing on the
+other side so disqualification because
+
+1264
+00:22:20,029 --> 00:22:20,039
+other side so disqualification because
+ 
+
+1265
+00:22:20,039 --> 00:22:21,470
+other side so disqualification because
+the problem isn't big enough we want
+
+1266
+00:22:21,470 --> 00:22:21,480
+the problem isn't big enough we want
+ 
+
+1267
+00:22:21,480 --> 00:22:22,950
+the problem isn't big enough we want
+that early because that will play out
+
+1268
+00:22:22,950 --> 00:22:22,960
+that early because that will play out
+ 
+
+1269
+00:22:22,960 --> 00:22:25,269
+that early because that will play out
+late if we don't and sorry to clarify
+
+1270
+00:22:25,269 --> 00:22:25,279
+late if we don't and sorry to clarify
+ 
+
+1271
+00:22:25,279 --> 00:22:27,110
+late if we don't and sorry to clarify
+you mean the problem isn't big enough
+
+1272
+00:22:27,110 --> 00:22:27,120
+you mean the problem isn't big enough
+ 
+
+1273
+00:22:27,120 --> 00:22:29,149
+you mean the problem isn't big enough
+that you all internally have decided to
+
+1274
+00:22:29,149 --> 00:22:29,159
+that you all internally have decided to
+ 
+
+1275
+00:22:29,159 --> 00:22:31,950
+that you all internally have decided to
+focus COI on or the pro or what you know
+
+1276
+00:22:31,950 --> 00:22:31,960
+focus COI on or the pro or what you know
+ 
+
+1277
+00:22:31,960 --> 00:22:34,149
+focus COI on or the pro or what you know
+is the right COI is just not to that
+
+1278
+00:22:34,149 --> 00:22:34,159
+is the right COI is just not to that
+ 
+
+1279
+00:22:34,159 --> 00:22:36,110
+is the right COI is just not to that
+person to the prospect a big enough
+
+1280
+00:22:36,110 --> 00:22:36,120
+person to the prospect a big enough
+ 
+
+1281
+00:22:36,120 --> 00:22:38,669
+person to the prospect a big enough
+problem exactly like I might come in
+
+1282
+00:22:38,669 --> 00:22:38,679
+problem exactly like I might come in
+ 
+
+1283
+00:22:38,679 --> 00:22:40,669
+problem exactly like I might come in
+with a hypothesis on the prospect's cost
+
+1284
+00:22:40,669 --> 00:22:40,679
+with a hypothesis on the prospect's cost
+ 
+
+1285
+00:22:40,679 --> 00:22:43,310
+with a hypothesis on the prospect's cost
+of an action and then they may give me a
+
+1286
+00:22:43,310 --> 00:22:43,320
+of an action and then they may give me a
+ 
+
+1287
+00:22:43,320 --> 00:22:45,070
+of an action and then they may give me a
+an input number to that that I wasn't
+
+1288
+00:22:45,070 --> 00:22:45,080
+an input number to that that I wasn't
+ 
+
+1289
+00:22:45,080 --> 00:22:46,549
+an input number to that that I wasn't
+expecting and I'm like wait a second
+
+1290
+00:22:46,549 --> 00:22:46,559
+expecting and I'm like wait a second
+ 
+
+1291
+00:22:46,559 --> 00:22:48,750
+expecting and I'm like wait a second
+that's actually not as big as I thought
+
+1292
+00:22:48,750 --> 00:22:48,760
+that's actually not as big as I thought
+ 
+
+1293
+00:22:48,760 --> 00:22:50,350
+that's actually not as big as I thought
+I don't know that you would need to
+
+1294
+00:22:50,350 --> 00:22:50,360
+I don't know that you would need to
+ 
+
+1295
+00:22:50,360 --> 00:22:52,190
+I don't know that you would need to
+solve for this right now this might be a
+
+1296
+00:22:52,190 --> 00:22:52,200
+solve for this right now this might be a
+ 
+
+1297
+00:22:52,200 --> 00:22:55,029
+solve for this right now this might be a
+future State problem and that is good I
+
+1298
+00:22:55,029 --> 00:22:55,039
+future State problem and that is good I
+ 
+
+1299
+00:22:55,039 --> 00:22:57,669
+future State problem and that is good I
+want no I what I don't want are nothings
+
+1300
+00:22:57,669 --> 00:22:57,679
+want no I what I don't want are nothings
+ 
+
+1301
+00:22:57,679 --> 00:22:59,470
+want no I what I don't want are nothings
+and go
+
+1302
+00:22:59,470 --> 00:22:59,480
+and go
+ 
+
+1303
+00:22:59,480 --> 00:23:01,470
+and go
+yeah is COI do you recommend that when
+
+1304
+00:23:01,470 --> 00:23:01,480
+yeah is COI do you recommend that when
+ 
+
+1305
+00:23:01,480 --> 00:23:03,190
+yeah is COI do you recommend that when
+people go through this exercise should
+
+1306
+00:23:03,190 --> 00:23:03,200
+people go through this exercise should
+ 
+
+1307
+00:23:03,200 --> 00:23:05,029
+people go through this exercise should
+they always I'm looking down to the
+
+1308
+00:23:05,029 --> 00:23:05,039
+they always I'm looking down to the
+ 
+
+1309
+00:23:05,039 --> 00:23:06,750
+they always I'm looking down to the
+right CU my frantic scrambled notebook
+
+1310
+00:23:06,750 --> 00:23:06,760
+right CU my frantic scrambled notebook
+ 
+
+1311
+00:23:06,760 --> 00:23:09,870
+right CU my frantic scrambled notebook
+as you talk is COI always like a dollar
+
+1312
+00:23:09,870 --> 00:23:09,880
+as you talk is COI always like a dollar
+ 
+
+1313
+00:23:09,880 --> 00:23:11,830
+as you talk is COI always like a dollar
+sign on the other end is it sometimes
+
+1314
+00:23:11,830 --> 00:23:11,840
+sign on the other end is it sometimes
+ 
+
+1315
+00:23:11,840 --> 00:23:13,750
+sign on the other end is it sometimes
+time is it sometimes like more
+
+1316
+00:23:13,750 --> 00:23:13,760
+time is it sometimes like more
+ 
+
+1317
+00:23:13,760 --> 00:23:16,070
+time is it sometimes like more
+qualitative or do you recommend like no
+
+1318
+00:23:16,070 --> 00:23:16,080
+qualitative or do you recommend like no
+ 
+
+1319
+00:23:16,080 --> 00:23:17,549
+qualitative or do you recommend like no
+by the time you go through this exercise
+
+1320
+00:23:17,549 --> 00:23:17,559
+by the time you go through this exercise
+ 
+
+1321
+00:23:17,559 --> 00:23:19,110
+by the time you go through this exercise
+you should have like a dollar amount
+
+1322
+00:23:19,110 --> 00:23:19,120
+you should have like a dollar amount
+ 
+
+1323
+00:23:19,120 --> 00:23:21,750
+you should have like a dollar amount
+that impacts Revenue if they ignore this
+
+1324
+00:23:21,750 --> 00:23:21,760
+that impacts Revenue if they ignore this
+ 
+
+1325
+00:23:21,760 --> 00:23:24,029
+that impacts Revenue if they ignore this
+problem that's a great question like of
+
+1326
+00:23:24,029 --> 00:23:24,039
+problem that's a great question like of
+ 
+
+1327
+00:23:24,039 --> 00:23:26,549
+problem that's a great question like of
+course time in a business ultimately
+
+1328
+00:23:26,549 --> 00:23:26,559
+course time in a business ultimately
+ 
+
+1329
+00:23:26,559 --> 00:23:28,950
+course time in a business ultimately
+equates to dollars but I wouldn't sleep
+
+1330
+00:23:28,950 --> 00:23:28,960
+equates to dollars but I wouldn't sleep
+ 
+
+1331
+00:23:28,960 --> 00:23:30,789
+equates to dollars but I wouldn't sleep
+over trying to get to a specific dollar
+
+1332
+00:23:30,789 --> 00:23:30,799
+over trying to get to a specific dollar
+ 
+
+1333
+00:23:30,799 --> 00:23:33,149
+over trying to get to a specific dollar
+figure like I think intensifying the
+
+1334
+00:23:33,149 --> 00:23:33,159
+figure like I think intensifying the
+ 
+
+1335
+00:23:33,159 --> 00:23:34,830
+figure like I think intensifying the
+pain enough is good so I'll give you an
+
+1336
+00:23:34,830 --> 00:23:34,840
+pain enough is good so I'll give you an
+ 
+
+1337
+00:23:34,840 --> 00:23:36,549
+pain enough is good so I'll give you an
+example there's a company I work with
+
+1338
+00:23:36,549 --> 00:23:36,559
+example there's a company I work with
+ 
+
+1339
+00:23:36,559 --> 00:23:38,470
+example there's a company I work with
+and one of the problems they solve for
+
+1340
+00:23:38,470 --> 00:23:38,480
+and one of the problems they solve for
+ 
+
+1341
+00:23:38,480 --> 00:23:42,710
+and one of the problems they solve for
+customers is Wi-Fi reliability right and
+
+1342
+00:23:42,710 --> 00:23:42,720
+customers is Wi-Fi reliability right and
+ 
+
+1343
+00:23:42,720 --> 00:23:45,909
+customers is Wi-Fi reliability right and
+so when they go out to their customers a
+
+1344
+00:23:45,909 --> 00:23:45,919
+so when they go out to their customers a
+ 
+
+1345
+00:23:45,919 --> 00:23:47,590
+so when they go out to their customers a
+lot of their customers are companies
+
+1346
+00:23:47,590 --> 00:23:47,600
+lot of their customers are companies
+ 
+
+1347
+00:23:47,600 --> 00:23:49,710
+lot of their customers are companies
+that have franchise models and in the
+
+1348
+00:23:49,710 --> 00:23:49,720
+that have franchise models and in the
+ 
+
+1349
+00:23:49,720 --> 00:23:52,029
+that have franchise models and in the
+franchise model the corporate like the
+
+1350
+00:23:52,029 --> 00:23:52,039
+franchise model the corporate like the
+ 
+
+1351
+00:23:52,039 --> 00:23:54,310
+franchise model the corporate like the
+company that they're selling to is the
+
+1352
+00:23:54,310 --> 00:23:54,320
+company that they're selling to is the
+ 
+
+1353
+00:23:54,320 --> 00:23:57,830
+company that they're selling to is the
+one that is sending out it technicians
+
+1354
+00:23:57,830 --> 00:23:57,840
+one that is sending out it technicians
+ 
+
+1355
+00:23:57,840 --> 00:23:59,430
+one that is sending out it technicians
+to the Fran frch locations because
+
+1356
+00:23:59,430 --> 00:23:59,440
+to the Fran frch locations because
+ 
+
+1357
+00:23:59,440 --> 00:24:00,830
+to the Fran frch locations because
+franchise owners typically don't have
+
+1358
+00:24:00,830 --> 00:24:00,840
+franchise owners typically don't have
+ 
+
+1359
+00:24:00,840 --> 00:24:03,029
+franchise owners typically don't have
+their own it support and so like one of
+
+1360
+00:24:03,029 --> 00:24:03,039
+their own it support and so like one of
+ 
+
+1361
+00:24:03,039 --> 00:24:04,909
+their own it support and so like one of
+the cost of an action stories they were
+
+1362
+00:24:04,909 --> 00:24:04,919
+the cost of an action stories they were
+ 
+
+1363
+00:24:04,919 --> 00:24:07,070
+the cost of an action stories they were
+telling was how much is it costing you
+
+1364
+00:24:07,070 --> 00:24:07,080
+telling was how much is it costing you
+ 
+
+1365
+00:24:07,080 --> 00:24:11,110
+telling was how much is it costing you
+to send out these it people to go solve
+
+1366
+00:24:11,110 --> 00:24:11,120
+to send out these it people to go solve
+ 
+
+1367
+00:24:11,120 --> 00:24:12,830
+to send out these it people to go solve
+for things that was literally like just
+
+1368
+00:24:12,830 --> 00:24:12,840
+for things that was literally like just
+ 
+
+1369
+00:24:12,840 --> 00:24:15,230
+for things that was literally like just
+reset the power button and then they
+
+1370
+00:24:15,230 --> 00:24:15,240
+reset the power button and then they
+ 
+
+1371
+00:24:15,240 --> 00:24:17,549
+reset the power button and then they
+come back and it wasn't really just the
+
+1372
+00:24:17,549 --> 00:24:17,559
+come back and it wasn't really just the
+ 
+
+1373
+00:24:17,559 --> 00:24:18,950
+come back and it wasn't really just the
+cost of their time because that's kind
+
+1374
+00:24:18,950 --> 00:24:18,960
+cost of their time because that's kind
+ 
+
+1375
+00:24:18,960 --> 00:24:21,350
+cost of their time because that's kind
+of built into how businesses run but it
+
+1376
+00:24:21,350 --> 00:24:21,360
+of built into how businesses run but it
+ 
+
+1377
+00:24:21,360 --> 00:24:23,350
+of built into how businesses run but it
+was what that prevented them from being
+
+1378
+00:24:23,350 --> 00:24:23,360
+was what that prevented them from being
+ 
+
+1379
+00:24:23,360 --> 00:24:25,389
+was what that prevented them from being
+able to work on so that's why we come
+
+1380
+00:24:25,389 --> 00:24:25,399
+able to work on so that's why we come
+ 
+
+1381
+00:24:25,399 --> 00:24:27,110
+able to work on so that's why we come
+back to that first step in the process
+
+1382
+00:24:27,110 --> 00:24:27,120
+back to that first step in the process
+ 
+
+1383
+00:24:27,120 --> 00:24:28,389
+back to that first step in the process
+which is you really got to understand
+
+1384
+00:24:28,389 --> 00:24:28,399
+which is you really got to understand
+ 
+
+1385
+00:24:28,399 --> 00:24:29,950
+which is you really got to understand
+what is it the company is trying to
+
+1386
+00:24:29,950 --> 00:24:29,960
+what is it the company is trying to
+ 
+
+1387
+00:24:29,960 --> 00:24:32,230
+what is it the company is trying to
+achieve because sometimes it's not the
+
+1388
+00:24:32,230 --> 00:24:32,240
+achieve because sometimes it's not the
+ 
+
+1389
+00:24:32,240 --> 00:24:35,830
+achieve because sometimes it's not the
+direct like COI it is because we are
+
+1390
+00:24:35,830 --> 00:24:35,840
+direct like COI it is because we are
+ 
+
+1391
+00:24:35,840 --> 00:24:38,190
+direct like COI it is because we are
+wasting time over here it is limiting
+
+1392
+00:24:38,190 --> 00:24:38,200
+wasting time over here it is limiting
+ 
+
+1393
+00:24:38,200 --> 00:24:39,990
+wasting time over here it is limiting
+our ability to actually spend time over
+
+1394
+00:24:39,990 --> 00:24:40,000
+our ability to actually spend time over
+ 
+
+1395
+00:24:40,000 --> 00:24:42,389
+our ability to actually spend time over
+here which is a big corporate priority
+
+1396
+00:24:42,389 --> 00:24:42,399
+here which is a big corporate priority
+ 
+
+1397
+00:24:42,399 --> 00:24:44,870
+here which is a big corporate priority
+so it's like it's like an indirect CI if
+
+1398
+00:24:44,870 --> 00:24:44,880
+so it's like it's like an indirect CI if
+ 
+
+1399
+00:24:44,880 --> 00:24:46,750
+so it's like it's like an indirect CI if
+that makes sense and so yeah I think
+
+1400
+00:24:46,750 --> 00:24:46,760
+that makes sense and so yeah I think
+ 
+
+1401
+00:24:46,760 --> 00:24:47,909
+that makes sense and so yeah I think
+that's really important to understand
+
+1402
+00:24:47,909 --> 00:24:47,919
+that's really important to understand
+ 
+
+1403
+00:24:47,919 --> 00:24:49,190
+that's really important to understand
+it's not always going to be a dollar
+
+1404
+00:24:49,190 --> 00:24:49,200
+it's not always going to be a dollar
+ 
+
+1405
+00:24:49,200 --> 00:24:51,950
+it's not always going to be a dollar
+figure right so if we determine in step
+
+1406
+00:24:51,950 --> 00:24:51,960
+figure right so if we determine in step
+ 
+
+1407
+00:24:51,960 --> 00:24:54,190
+figure right so if we determine in step
+one that the company's goal is this
+
+1408
+00:24:54,190 --> 00:24:54,200
+one that the company's goal is this
+ 
+
+1409
+00:24:54,200 --> 00:24:56,549
+one that the company's goal is this
+sometimes it will be that your COI is
+
+1410
+00:24:56,549 --> 00:24:56,559
+sometimes it will be that your COI is
+ 
+
+1411
+00:24:56,559 --> 00:24:58,430
+sometimes it will be that your COI is
+exactly that and you're like great we
+
+1412
+00:24:58,430 --> 00:24:58,440
+exactly that and you're like great we
+ 
+
+1413
+00:24:58,440 --> 00:25:00,230
+exactly that and you're like great we
+all one to one but a lot of times it's
+
+1414
+00:25:00,230 --> 00:25:00,240
+all one to one but a lot of times it's
+ 
+
+1415
+00:25:00,240 --> 00:25:02,269
+all one to one but a lot of times it's
+going to be well in order to get there
+
+1416
+00:25:02,269 --> 00:25:02,279
+going to be well in order to get there
+ 
+
+1417
+00:25:02,279 --> 00:25:03,470
+going to be well in order to get there
+you've got to go through these three
+
+1418
+00:25:03,470 --> 00:25:03,480
+you've got to go through these three
+ 
+
+1419
+00:25:03,480 --> 00:25:05,149
+you've got to go through these three
+steps and on step two here you're
+
+1420
+00:25:05,149 --> 00:25:05,159
+steps and on step two here you're
+ 
+
+1421
+00:25:05,159 --> 00:25:06,789
+steps and on step two here you're
+blocked and that's what like this is
+
+1422
+00:25:06,789 --> 00:25:06,799
+blocked and that's what like this is
+ 
+
+1423
+00:25:06,799 --> 00:25:08,630
+blocked and that's what like this is
+enabling you to do exactly like if a
+
+1424
+00:25:08,630 --> 00:25:08,640
+enabling you to do exactly like if a
+ 
+
+1425
+00:25:08,640 --> 00:25:09,870
+enabling you to do exactly like if a
+Company's trying to go through a digital
+
+1426
+00:25:09,870 --> 00:25:09,880
+Company's trying to go through a digital
+ 
+
+1427
+00:25:09,880 --> 00:25:11,230
+Company's trying to go through a digital
+transformation and they're sending dudes
+
+1428
+00:25:11,230 --> 00:25:11,240
+transformation and they're sending dudes
+ 
+
+1429
+00:25:11,240 --> 00:25:13,990
+transformation and they're sending dudes
+out to like ons sites that don't need to
+
+1430
+00:25:13,990 --> 00:25:14,000
+out to like ons sites that don't need to
+ 
+
+1431
+00:25:14,000 --> 00:25:15,430
+out to like ons sites that don't need to
+happen well that's obviously going to
+
+1432
+00:25:15,430 --> 00:25:15,440
+happen well that's obviously going to
+ 
+
+1433
+00:25:15,440 --> 00:25:17,029
+happen well that's obviously going to
+make your digital transformation take a
+
+1434
+00:25:17,029 --> 00:25:17,039
+make your digital transformation take a
+ 
+
+1435
+00:25:17,039 --> 00:25:18,870
+make your digital transformation take a
+lot longer and that's the money thing
+
+1436
+00:25:18,870 --> 00:25:18,880
+lot longer and that's the money thing
+ 
+
+1437
+00:25:18,880 --> 00:25:20,830
+lot longer and that's the money thing
+like that's the thing they care about so
+
+1438
+00:25:20,830 --> 00:25:20,840
+like that's the thing they care about so
+ 
+
+1439
+00:25:20,840 --> 00:25:22,430
+like that's the thing they care about so
+that gets back to that I think I said
+
+1440
+00:25:22,430 --> 00:25:22,440
+that gets back to that I think I said
+ 
+
+1441
+00:25:22,440 --> 00:25:23,909
+that gets back to that I think I said
+was like the second problem or the third
+
+1442
+00:25:23,909 --> 00:25:23,919
+was like the second problem or the third
+ 
+
+1443
+00:25:23,919 --> 00:25:25,430
+was like the second problem or the third
+problem which is like our elevation is
+
+1444
+00:25:25,430 --> 00:25:25,440
+problem which is like our elevation is
+ 
+
+1445
+00:25:25,440 --> 00:25:27,750
+problem which is like our elevation is
+too low don't always try to go for the
+
+1446
+00:25:27,750 --> 00:25:27,760
+too low don't always try to go for the
+ 
+
+1447
+00:25:27,760 --> 00:25:29,310
+too low don't always try to go for the
+direct some sometimes the indirect is
+
+1448
+00:25:29,310 --> 00:25:29,320
+direct some sometimes the indirect is
+ 
+
+1449
+00:25:29,320 --> 00:25:31,990
+direct some sometimes the indirect is
+just as powerful cuz people's time costs
+
+1450
+00:25:31,990 --> 00:25:32,000
+just as powerful cuz people's time costs
+ 
+
+1451
+00:25:32,000 --> 00:25:35,230
+just as powerful cuz people's time costs
+money yeah yeah absolutely okay this has
+
+1452
+00:25:35,230 --> 00:25:35,240
+money yeah yeah absolutely okay this has
+ 
+
+1453
+00:25:35,240 --> 00:25:36,710
+money yeah yeah absolutely okay this has
+been amazing I have one more question
+
+1454
+00:25:36,710 --> 00:25:36,720
+been amazing I have one more question
+ 
+
+1455
+00:25:36,720 --> 00:25:38,430
+been amazing I have one more question
+for you
+
+1456
+00:25:38,430 --> 00:25:38,440
+for you
+ 
+
+1457
+00:25:38,440 --> 00:25:41,669
+for you
+yeah where are all the areas that when
+
+1458
+00:25:41,669 --> 00:25:41,679
+yeah where are all the areas that when
+ 
+
+1459
+00:25:41,679 --> 00:25:43,310
+yeah where are all the areas that when
+this is done well I know it's not an
+
+1460
+00:25:43,310 --> 00:25:43,320
+this is done well I know it's not an
+ 
+
+1461
+00:25:43,320 --> 00:25:45,470
+this is done well I know it's not an
+overnight process but where are all the
+
+1462
+00:25:45,470 --> 00:25:45,480
+overnight process but where are all the
+ 
+
+1463
+00:25:45,480 --> 00:25:47,510
+overnight process but where are all the
+areas that when you've seen it executed
+
+1464
+00:25:47,510 --> 00:25:47,520
+areas that when you've seen it executed
+ 
+
+1465
+00:25:47,520 --> 00:25:49,789
+areas that when you've seen it executed
+well and really humming at a company
+
+1466
+00:25:49,789 --> 00:25:49,799
+well and really humming at a company
+ 
+
+1467
+00:25:49,799 --> 00:25:51,669
+well and really humming at a company
+this this should show up in an Ideal
+
+1468
+00:25:51,669 --> 00:25:51,679
+this this should show up in an Ideal
+ 
+
+1469
+00:25:51,679 --> 00:25:53,549
+this this should show up in an Ideal
+World so obviously we talked like most
+
+1470
+00:25:53,549 --> 00:25:53,559
+World so obviously we talked like most
+ 
+
+1471
+00:25:53,559 --> 00:25:55,750
+World so obviously we talked like most
+of the time about the sales process but
+
+1472
+00:25:55,750 --> 00:25:55,760
+of the time about the sales process but
+ 
+
+1473
+00:25:55,760 --> 00:25:57,950
+of the time about the sales process but
+like it's making me think where would it
+
+1474
+00:25:57,950 --> 00:25:57,960
+like it's making me think where would it
+ 
+
+1475
+00:25:57,960 --> 00:26:00,710
+like it's making me think where would it
+show up in like where would it show up
+
+1476
+00:26:00,710 --> 00:26:00,720
+show up in like where would it show up
+ 
+
+1477
+00:26:00,720 --> 00:26:02,510
+show up in like where would it show up
+with BDS where would it show up on the
+
+1478
+00:26:02,510 --> 00:26:02,520
+with BDS where would it show up on the
+ 
+
+1479
+00:26:02,520 --> 00:26:04,190
+with BDS where would it show up on the
+website like with marketing messaging
+
+1480
+00:26:04,190 --> 00:26:04,200
+website like with marketing messaging
+ 
+
+1481
+00:26:04,200 --> 00:26:06,149
+website like with marketing messaging
+where would it show up like I'm just
+
+1482
+00:26:06,149 --> 00:26:06,159
+where would it show up like I'm just
+ 
+
+1483
+00:26:06,159 --> 00:26:07,990
+where would it show up like I'm just
+thinking there's a lot like we have our
+
+1484
+00:26:07,990 --> 00:26:08,000
+thinking there's a lot like we have our
+ 
+
+1485
+00:26:08,000 --> 00:26:10,149
+thinking there's a lot like we have our
+own framework on like messaging and what
+
+1486
+00:26:10,149 --> 00:26:10,159
+own framework on like messaging and what
+ 
+
+1487
+00:26:10,159 --> 00:26:11,470
+own framework on like messaging and what
+we're going to include on the website
+
+1488
+00:26:11,470 --> 00:26:11,480
+we're going to include on the website
+ 
+
+1489
+00:26:11,480 --> 00:26:13,909
+we're going to include on the website
+and this isn't often something COI is
+
+1490
+00:26:13,909 --> 00:26:13,919
+and this isn't often something COI is
+ 
+
+1491
+00:26:13,919 --> 00:26:16,029
+and this isn't often something COI is
+not often a concept I feel like i' pick
+
+1492
+00:26:16,029 --> 00:26:16,039
+not often a concept I feel like i' pick
+ 
+
+1493
+00:26:16,039 --> 00:26:18,430
+not often a concept I feel like i' pick
+up on on business websites so yeah like
+
+1494
+00:26:18,430 --> 00:26:18,440
+up on on business websites so yeah like
+ 
+
+1495
+00:26:18,440 --> 00:26:20,710
+up on on business websites so yeah like
+where are all the areas that you have
+
+1496
+00:26:20,710 --> 00:26:20,720
+where are all the areas that you have
+ 
+
+1497
+00:26:20,720 --> 00:26:22,549
+where are all the areas that you have
+seen this done well besides just the
+
+1498
+00:26:22,549 --> 00:26:22,559
+seen this done well besides just the
+ 
+
+1499
+00:26:22,559 --> 00:26:25,230
+seen this done well besides just the
+sales process here's the big one every
+
+1500
+00:26:25,230 --> 00:26:25,240
+sales process here's the big one every
+ 
+
+1501
+00:26:25,240 --> 00:26:27,710
+sales process here's the big one every
+freaking website loves to do an Roi
+
+1502
+00:26:27,710 --> 00:26:27,720
+freaking website loves to do an Roi
+ 
+
+1503
+00:26:27,720 --> 00:26:30,029
+freaking website loves to do an Roi
+calculator right and what is the flaw
+
+1504
+00:26:30,029 --> 00:26:30,039
+calculator right and what is the flaw
+ 
+
+1505
+00:26:30,039 --> 00:26:33,310
+calculator right and what is the flaw
+with Roi is it's massively biased we all
+
+1506
+00:26:33,310 --> 00:26:33,320
+with Roi is it's massively biased we all
+ 
+
+1507
+00:26:33,320 --> 00:26:36,269
+with Roi is it's massively biased we all
+know Roi is largely dependent on a ton
+
+1508
+00:26:36,269 --> 00:26:36,279
+know Roi is largely dependent on a ton
+ 
+
+1509
+00:26:36,279 --> 00:26:38,430
+know Roi is largely dependent on a ton
+of factors that are within without our
+
+1510
+00:26:38,430 --> 00:26:38,440
+of factors that are within without our
+ 
+
+1511
+00:26:38,440 --> 00:26:40,269
+of factors that are within without our
+control with with good implementation
+
+1512
+00:26:40,269 --> 00:26:40,279
+control with with good implementation
+ 
+
+1513
+00:26:40,279 --> 00:26:41,750
+control with with good implementation
+working with the right team like there's
+
+1514
+00:26:41,750 --> 00:26:41,760
+working with the right team like there's
+ 
+
+1515
+00:26:41,760 --> 00:26:44,149
+working with the right team like there's
+so many ifs to that but we love putting
+
+1516
+00:26:44,149 --> 00:26:44,159
+so many ifs to that but we love putting
+ 
+
+1517
+00:26:44,159 --> 00:26:45,710
+so many ifs to that but we love putting
+those Roi calculators on there thinking
+
+1518
+00:26:45,710 --> 00:26:45,720
+those Roi calculators on there thinking
+ 
+
+1519
+00:26:45,720 --> 00:26:47,029
+those Roi calculators on there thinking
+customers are going to like do the math
+
+1520
+00:26:47,029 --> 00:26:47,039
+customers are going to like do the math
+ 
+
+1521
+00:26:47,039 --> 00:26:48,870
+customers are going to like do the math
+and be like wow it's a million per Roi
+
+1522
+00:26:48,870 --> 00:26:48,880
+and be like wow it's a million per Roi
+ 
+
+1523
+00:26:48,880 --> 00:26:51,630
+and be like wow it's a million per Roi
+let's buy this today doesn't work like
+
+1524
+00:26:51,630 --> 00:26:51,640
+let's buy this today doesn't work like
+ 
+
+1525
+00:26:51,640 --> 00:26:54,870
+let's buy this today doesn't work like
+that on the front end said COI
+
+1526
+00:26:54,870 --> 00:26:54,880
+that on the front end said COI
+ 
+
+1527
+00:26:54,880 --> 00:26:57,470
+that on the front end said COI
+calculators label the problem give
+
+1528
+00:26:57,470 --> 00:26:57,480
+calculators label the problem give
+ 
+
+1529
+00:26:57,480 --> 00:26:59,430
+calculators label the problem give
+someone a way to calculate the cost of
+
+1530
+00:26:59,430 --> 00:26:59,440
+someone a way to calculate the cost of
+ 
+
+1531
+00:26:59,440 --> 00:27:02,830
+someone a way to calculate the cost of
+an action and then when they hit enter
+
+1532
+00:27:02,830 --> 00:27:02,840
+an action and then when they hit enter
+ 
+
+1533
+00:27:02,840 --> 00:27:04,350
+an action and then when they hit enter
+that information obviously you have to
+
+1534
+00:27:04,350 --> 00:27:04,360
+that information obviously you have to
+ 
+
+1535
+00:27:04,360 --> 00:27:06,389
+that information obviously you have to
+do some sort of like Clause here that
+
+1536
+00:27:06,389 --> 00:27:06,399
+do some sort of like Clause here that
+ 
+
+1537
+00:27:06,399 --> 00:27:08,350
+do some sort of like Clause here that
+where the information's going but not
+
+1538
+00:27:08,350 --> 00:27:08,360
+where the information's going but not
+ 
+
+1539
+00:27:08,360 --> 00:27:10,389
+where the information's going but not
+only helps you help that customer but
+
+1540
+00:27:10,389 --> 00:27:10,399
+only helps you help that customer but
+ 
+
+1541
+00:27:10,399 --> 00:27:12,430
+only helps you help that customer but
+then you start to build a data asset of
+
+1542
+00:27:12,430 --> 00:27:12,440
+then you start to build a data asset of
+ 
+
+1543
+00:27:12,440 --> 00:27:14,470
+then you start to build a data asset of
+like what is it typically costing people
+
+1544
+00:27:14,470 --> 00:27:14,480
+like what is it typically costing people
+ 
+
+1545
+00:27:14,480 --> 00:27:15,909
+like what is it typically costing people
+and it's doesn't require us to do a
+
+1546
+00:27:15,909 --> 00:27:15,919
+and it's doesn't require us to do a
+ 
+
+1547
+00:27:15,919 --> 00:27:17,590
+and it's doesn't require us to do a
+survey it's just people filling it out
+
+1548
+00:27:17,590 --> 00:27:17,600
+survey it's just people filling it out
+ 
+
+1549
+00:27:17,600 --> 00:27:20,269
+survey it's just people filling it out
+so that can be used on a website that
+
+1550
+00:27:20,269 --> 00:27:20,279
+so that can be used on a website that
+ 
+
+1551
+00:27:20,279 --> 00:27:23,750
+so that can be used on a website that
+could be used in BD Outreach but most
+
+1552
+00:27:23,750 --> 00:27:23,760
+could be used in BD Outreach but most
+ 
+
+1553
+00:27:23,760 --> 00:27:25,750
+could be used in BD Outreach but most
+importantly I think when it comes to
+
+1554
+00:27:25,750 --> 00:27:25,760
+importantly I think when it comes to
+ 
+
+1555
+00:27:25,760 --> 00:27:27,110
+importantly I think when it comes to
+outbound which is something obviously I
+
+1556
+00:27:27,110 --> 00:27:27,120
+outbound which is something obviously I
+ 
+
+1557
+00:27:27,120 --> 00:27:28,750
+outbound which is something obviously I
+love talking about
+
+1558
+00:27:28,750 --> 00:27:28,760
+love talking about
+ 
+
+1559
+00:27:28,760 --> 00:27:31,909
+love talking about
+it gives your BD folks and sdrs
+
+1560
+00:27:31,909 --> 00:27:31,919
+it gives your BD folks and sdrs
+ 
+
+1561
+00:27:31,919 --> 00:27:34,510
+it gives your BD folks and sdrs
+something else to talk about in an email
+
+1562
+00:27:34,510 --> 00:27:34,520
+something else to talk about in an email
+ 
+
+1563
+00:27:34,520 --> 00:27:37,110
+something else to talk about in an email
+other than your product and I don't know
+
+1564
+00:27:37,110 --> 00:27:37,120
+other than your product and I don't know
+ 
+
+1565
+00:27:37,120 --> 00:27:39,310
+other than your product and I don't know
+if you've downloaded like the new app
+
+1566
+00:27:39,310 --> 00:27:39,320
+if you've downloaded like the new app
+ 
+
+1567
+00:27:39,320 --> 00:27:41,230
+if you've downloaded like the new app
+like Apple update on your phone where
+
+1568
+00:27:41,230 --> 00:27:41,240
+like Apple update on your phone where
+ 
+
+1569
+00:27:41,240 --> 00:27:42,870
+like Apple update on your phone where
+it's like summarizing your text and your
+
+1570
+00:27:42,870 --> 00:27:42,880
+it's like summarizing your text and your
+ 
+
+1571
+00:27:42,880 --> 00:27:44,269
+it's like summarizing your text and your
+emails have you done this yet no not
+
+1572
+00:27:44,269 --> 00:27:44,279
+emails have you done this yet no not
+ 
+
+1573
+00:27:44,279 --> 00:27:47,110
+emails have you done this yet no not
+yeah it scares me a little bit but I use
+
+1574
+00:27:47,110 --> 00:27:47,120
+yeah it scares me a little bit but I use
+ 
+
+1575
+00:27:47,120 --> 00:27:48,750
+yeah it scares me a little bit but I use
+AI a lot but I don't know why the phone
+
+1576
+00:27:48,750 --> 00:27:48,760
+AI a lot but I don't know why the phone
+ 
+
+1577
+00:27:48,760 --> 00:27:50,750
+AI a lot but I don't know why the phone
+thing is like I want AI at work I don't
+
+1578
+00:27:50,750 --> 00:27:50,760
+thing is like I want AI at work I don't
+ 
+
+1579
+00:27:50,760 --> 00:27:53,310
+thing is like I want AI at work I don't
+want it on my phone see I don't either
+
+1580
+00:27:53,310 --> 00:27:53,320
+want it on my phone see I don't either
+ 
+
+1581
+00:27:53,320 --> 00:27:55,149
+want it on my phone see I don't either
+but I'm like I'm always thinking about
+
+1582
+00:27:55,149 --> 00:27:55,159
+but I'm like I'm always thinking about
+ 
+
+1583
+00:27:55,159 --> 00:27:56,350
+but I'm like I'm always thinking about
+well what is this like what is this
+
+1584
+00:27:56,350 --> 00:27:56,360
+well what is this like what is this
+ 
+
+1585
+00:27:56,360 --> 00:27:59,830
+well what is this like what is this
+going to do to outbound and what is this
+
+1586
+00:27:59,830 --> 00:27:59,840
+going to do to outbound and what is this
+ 
+
+1587
+00:27:59,840 --> 00:28:01,789
+going to do to outbound and what is this
+now if look at it it just summar your
+
+1588
+00:28:01,789 --> 00:28:01,799
+now if look at it it just summar your
+ 
+
+1589
+00:28:01,799 --> 00:28:04,190
+now if look at it it just summar your
+email so don't slick you think you are
+
+1590
+00:28:04,190 --> 00:28:04,200
+email so don't slick you think you are
+ 
+
+1591
+00:28:04,200 --> 00:28:05,789
+email so don't slick you think you are
+if you're like the leading provider of
+
+1592
+00:28:05,789 --> 00:28:05,799
+if you're like the leading provider of
+ 
+
+1593
+00:28:05,799 --> 00:28:07,230
+if you're like the leading provider of
+this and we help companies with this
+
+1594
+00:28:07,230 --> 00:28:07,240
+this and we help companies with this
+ 
+
+1595
+00:28:07,240 --> 00:28:08,870
+this and we help companies with this
+problem it's going to summarize it as a
+
+1596
+00:28:08,870 --> 00:28:08,880
+problem it's going to summarize it as a
+ 
+
+1597
+00:28:08,880 --> 00:28:11,310
+problem it's going to summarize it as a
+cold email and so I it's like they do
+
+1598
+00:28:11,310 --> 00:28:11,320
+cold email and so I it's like they do
+ 
+
+1599
+00:28:11,320 --> 00:28:13,669
+cold email and so I it's like they do
+this you're like okay I have to
+
+1600
+00:28:13,669 --> 00:28:13,679
+this you're like okay I have to
+ 
+
+1601
+00:28:13,679 --> 00:28:15,710
+this you're like okay I have to
+fundamentally think differently about
+
+1602
+00:28:15,710 --> 00:28:15,720
+fundamentally think differently about
+ 
+
+1603
+00:28:15,720 --> 00:28:17,430
+fundamentally think differently about
+what I am writing in cold Outreach so
+
+1604
+00:28:17,430 --> 00:28:17,440
+what I am writing in cold Outreach so
+ 
+
+1605
+00:28:17,440 --> 00:28:19,830
+what I am writing in cold Outreach so
+that I'm not pitching my solution but
+
+1606
+00:28:19,830 --> 00:28:19,840
+that I'm not pitching my solution but
+ 
+
+1607
+00:28:19,840 --> 00:28:22,269
+that I'm not pitching my solution but
+rather I'm helping a customer say hm wow
+
+1608
+00:28:22,269 --> 00:28:22,279
+rather I'm helping a customer say hm wow
+ 
+
+1609
+00:28:22,279 --> 00:28:24,310
+rather I'm helping a customer say hm wow
+I hadn't considered that problem and so
+
+1610
+00:28:24,310 --> 00:28:24,320
+I hadn't considered that problem and so
+ 
+
+1611
+00:28:24,320 --> 00:28:26,509
+I hadn't considered that problem and so
+if you ask the least experienc least
+
+1612
+00:28:26,509 --> 00:28:26,519
+if you ask the least experienc least
+ 
+
+1613
+00:28:26,519 --> 00:28:28,509
+if you ask the least experienc least
+trained people on the team to go figure
+
+1614
+00:28:28,509 --> 00:28:28,519
+trained people on the team to go figure
+ 
+
+1615
+00:28:28,519 --> 00:28:30,509
+trained people on the team to go figure
+that out well that's why people sit here
+
+1616
+00:28:30,509 --> 00:28:30,519
+that out well that's why people sit here
+ 
+
+1617
+00:28:30,519 --> 00:28:31,710
+that out well that's why people sit here
+and Shout from the rooftops like
+
+1618
+00:28:31,710 --> 00:28:31,720
+and Shout from the rooftops like
+ 
+
+1619
+00:28:31,720 --> 00:28:33,190
+and Shout from the rooftops like
+outbound is dead and outbound doesn't
+
+1620
+00:28:33,190 --> 00:28:33,200
+outbound is dead and outbound doesn't
+ 
+
+1621
+00:28:33,200 --> 00:28:35,909
+outbound is dead and outbound doesn't
+work well maybe it does work if you talk
+
+1622
+00:28:35,909 --> 00:28:35,919
+work well maybe it does work if you talk
+ 
+
+1623
+00:28:35,919 --> 00:28:38,149
+work well maybe it does work if you talk
+about different things meaning Not Your
+
+1624
+00:28:38,149 --> 00:28:38,159
+about different things meaning Not Your
+ 
+
+1625
+00:28:38,159 --> 00:28:39,990
+about different things meaning Not Your
+solution but the problem so I think
+
+1626
+00:28:39,990 --> 00:28:40,000
+solution but the problem so I think
+ 
+
+1627
+00:28:40,000 --> 00:28:41,470
+solution but the problem so I think
+there's a million Avenues where it can
+
+1628
+00:28:41,470 --> 00:28:41,480
+there's a million Avenues where it can
+ 
+
+1629
+00:28:41,480 --> 00:28:44,110
+there's a million Avenues where it can
+be used if companies just took the time
+
+1630
+00:28:44,110 --> 00:28:44,120
+be used if companies just took the time
+ 
+
+1631
+00:28:44,120 --> 00:28:45,990
+be used if companies just took the time
+to sit down and do the hard thinking
+
+1632
+00:28:45,990 --> 00:28:46,000
+to sit down and do the hard thinking
+ 
+
+1633
+00:28:46,000 --> 00:28:47,710
+to sit down and do the hard thinking
+around it's much harder to think about
+
+1634
+00:28:47,710 --> 00:28:47,720
+around it's much harder to think about
+ 
+
+1635
+00:28:47,720 --> 00:28:49,070
+around it's much harder to think about
+that than it is to say here's our
+
+1636
+00:28:49,070 --> 00:28:49,080
+that than it is to say here's our
+ 
+
+1637
+00:28:49,080 --> 00:28:51,710
+that than it is to say here's our
+feature and here's why it's awesome I do
+
+1638
+00:28:51,710 --> 00:28:51,720
+feature and here's why it's awesome I do
+ 
+
+1639
+00:28:51,720 --> 00:28:53,070
+feature and here's why it's awesome I do
+I'm going to sneak in one last question
+
+1640
+00:28:53,070 --> 00:28:53,080
+I'm going to sneak in one last question
+ 
+
+1641
+00:28:53,080 --> 00:28:55,070
+I'm going to sneak in one last question
+then I promise we'll we'll be done I
+
+1642
+00:28:55,070 --> 00:28:55,080
+then I promise we'll we'll be done I
+ 
+
+1643
+00:28:55,080 --> 00:28:56,669
+then I promise we'll we'll be done I
+said the last one was the last one good
+
+1644
+00:28:56,669 --> 00:28:56,679
+said the last one was the last one good
+ 
+
+1645
+00:28:56,679 --> 00:28:58,350
+said the last one was the last one good
+I'm glad I'm glad this isn't a this is
+
+1646
+00:28:58,350 --> 00:28:58,360
+I'm glad I'm glad this isn't a this is
+ 
+
+1647
+00:28:58,360 --> 00:29:01,070
+I'm glad I'm glad this isn't a this is
+awesome so this makes me so I'm like I'm
+
+1648
+00:29:01,070 --> 00:29:01,080
+awesome so this makes me so I'm like I'm
+ 
+
+1649
+00:29:01,080 --> 00:29:03,310
+awesome so this makes me so I'm like I'm
+I'm trying to like on the Fly Like apply
+
+1650
+00:29:03,310 --> 00:29:03,320
+I'm trying to like on the Fly Like apply
+ 
+
+1651
+00:29:03,320 --> 00:29:05,190
+I'm trying to like on the Fly Like apply
+this you know a data box I'm like okay
+
+1652
+00:29:05,190 --> 00:29:05,200
+this you know a data box I'm like okay
+ 
+
+1653
+00:29:05,200 --> 00:29:07,710
+this you know a data box I'm like okay
+it brings this question is there ever a
+
+1654
+00:29:07,710 --> 00:29:07,720
+it brings this question is there ever a
+ 
+
+1655
+00:29:07,720 --> 00:29:09,669
+it brings this question is there ever a
+time when it makes sense for there to be
+
+1656
+00:29:09,669 --> 00:29:09,679
+time when it makes sense for there to be
+ 
+
+1657
+00:29:09,679 --> 00:29:13,149
+time when it makes sense for there to be
+multiple cois or in other words like
+
+1658
+00:29:13,149 --> 00:29:13,159
+multiple cois or in other words like
+ 
+
+1659
+00:29:13,159 --> 00:29:16,310
+multiple cois or in other words like
+matching a COI to an ICP or to like a
+
+1660
+00:29:16,310 --> 00:29:16,320
+matching a COI to an ICP or to like a
+ 
+
+1661
+00:29:16,320 --> 00:29:19,750
+matching a COI to an ICP or to like a
+specific Persona like yeah it Ur like we
+
+1662
+00:29:19,750 --> 00:29:19,760
+specific Persona like yeah it Ur like we
+ 
+
+1663
+00:29:19,760 --> 00:29:21,710
+specific Persona like yeah it Ur like we
+we find for example like companies go
+
+1664
+00:29:21,710 --> 00:29:21,720
+we find for example like companies go
+ 
+
+1665
+00:29:21,720 --> 00:29:23,630
+we find for example like companies go
+through you'll see like two this is
+
+1666
+00:29:23,630 --> 00:29:23,640
+through you'll see like two this is
+ 
+
+1667
+00:29:23,640 --> 00:29:25,110
+through you'll see like two this is
+Broad brush RS but you'll see like two
+
+1668
+00:29:25,110 --> 00:29:25,120
+Broad brush RS but you'll see like two
+ 
+
+1669
+00:29:25,120 --> 00:29:26,870
+Broad brush RS but you'll see like two
+grow stages and inflection points when
+
+1670
+00:29:26,870 --> 00:29:26,880
+grow stages and inflection points when
+ 
+
+1671
+00:29:26,880 --> 00:29:28,870
+grow stages and inflection points when
+they'll come to data box for exle one is
+
+1672
+00:29:28,870 --> 00:29:28,880
+they'll come to data box for exle one is
+ 
+
+1673
+00:29:28,880 --> 00:29:30,990
+they'll come to data box for exle one is
+these like much smaller businesses that
+
+1674
+00:29:30,990 --> 00:29:31,000
+these like much smaller businesses that
+ 
+
+1675
+00:29:31,000 --> 00:29:33,630
+these like much smaller businesses that
+for a long time juggling the D the
+
+1676
+00:29:33,630 --> 00:29:33,640
+for a long time juggling the D the
+ 
+
+1677
+00:29:33,640 --> 00:29:35,830
+for a long time juggling the D the
+native dashboards in their like software
+
+1678
+00:29:35,830 --> 00:29:35,840
+native dashboards in their like software
+ 
+
+1679
+00:29:35,840 --> 00:29:37,870
+native dashboards in their like software
+tools and having like 20 browser tabs
+
+1680
+00:29:37,870 --> 00:29:37,880
+tools and having like 20 browser tabs
+ 
+
+1681
+00:29:37,880 --> 00:29:39,990
+tools and having like 20 browser tabs
+open and copying and pasting data into
+
+1682
+00:29:39,990 --> 00:29:40,000
+open and copying and pasting data into
+ 
+
+1683
+00:29:40,000 --> 00:29:42,070
+open and copying and pasting data into
+spreadsheets and Google Slides like what
+
+1684
+00:29:42,070 --> 00:29:42,080
+spreadsheets and Google Slides like what
+ 
+
+1685
+00:29:42,080 --> 00:29:44,630
+spreadsheets and Google Slides like what
+we call manual monitoring or manual
+
+1686
+00:29:44,630 --> 00:29:44,640
+we call manual monitoring or manual
+ 
+
+1687
+00:29:44,640 --> 00:29:46,789
+we call manual monitoring or manual
+tracking or reporting like that gets by
+
+1688
+00:29:46,789 --> 00:29:46,799
+tracking or reporting like that gets by
+ 
+
+1689
+00:29:46,799 --> 00:29:48,430
+tracking or reporting like that gets by
+for a while until usually something
+
+1690
+00:29:48,430 --> 00:29:48,440
+for a while until usually something
+ 
+
+1691
+00:29:48,440 --> 00:29:50,029
+for a while until usually something
+breaks there's an inflection point where
+
+1692
+00:29:50,029 --> 00:29:50,039
+breaks there's an inflection point where
+ 
+
+1693
+00:29:50,039 --> 00:29:51,470
+breaks there's an inflection point where
+like something falls through the cracks
+
+1694
+00:29:51,470 --> 00:29:51,480
+like something falls through the cracks
+ 
+
+1695
+00:29:51,480 --> 00:29:53,950
+like something falls through the cracks
+or they have a typo or this is T now
+
+1696
+00:29:53,950 --> 00:29:53,960
+or they have a typo or this is T now
+ 
+
+1697
+00:29:53,960 --> 00:29:55,750
+or they have a typo or this is T now
+gone from taking 5 minutes to taking two
+
+1698
+00:29:55,750 --> 00:29:55,760
+gone from taking 5 minutes to taking two
+ 
+
+1699
+00:29:55,760 --> 00:29:58,110
+gone from taking 5 minutes to taking two
+hours every week so like that's F and I
+
+1700
+00:29:58,110 --> 00:29:58,120
+hours every week so like that's F and I
+ 
+
+1701
+00:29:58,120 --> 00:29:59,710
+hours every week so like that's F and I
+would imagine we could craft a COI
+
+1702
+00:29:59,710 --> 00:29:59,720
+would imagine we could craft a COI
+ 
+
+1703
+00:29:59,720 --> 00:30:01,230
+would imagine we could craft a COI
+around that then there's this whole
+
+1704
+00:30:01,230 --> 00:30:01,240
+around that then there's this whole
+ 
+
+1705
+00:30:01,240 --> 00:30:03,909
+around that then there's this whole
+other group where like they're bigger
+
+1706
+00:30:03,909 --> 00:30:03,919
+other group where like they're bigger
+ 
+
+1707
+00:30:03,919 --> 00:30:05,710
+other group where like they're bigger
+they've been using visualization tools
+
+1708
+00:30:05,710 --> 00:30:05,720
+they've been using visualization tools
+ 
+
+1709
+00:30:05,720 --> 00:30:07,230
+they've been using visualization tools
+or analytics tools for a while but now
+
+1710
+00:30:07,230 --> 00:30:07,240
+or analytics tools for a while but now
+ 
+
+1711
+00:30:07,240 --> 00:30:08,710
+or analytics tools for a while but now
+they're ready for like increased
+
+1712
+00:30:08,710 --> 00:30:08,720
+they're ready for like increased
+ 
+
+1713
+00:30:08,720 --> 00:30:09,990
+they're ready for like increased
+features and function like they need
+
+1714
+00:30:09,990 --> 00:30:10,000
+features and function like they need
+ 
+
+1715
+00:30:10,000 --> 00:30:11,509
+features and function like they need
+more power they need to answer more
+
+1716
+00:30:11,509 --> 00:30:11,519
+more power they need to answer more
+ 
+
+1717
+00:30:11,519 --> 00:30:13,470
+more power they need to answer more
+questions and that seems like it'd be a
+
+1718
+00:30:13,470 --> 00:30:13,480
+questions and that seems like it'd be a
+ 
+
+1719
+00:30:13,480 --> 00:30:14,870
+questions and that seems like it'd be a
+completely different one that would be
+
+1720
+00:30:14,870 --> 00:30:14,880
+completely different one that would be
+ 
+
+1721
+00:30:14,880 --> 00:30:16,710
+completely different one that would be
+like cost of being able to look around
+
+1722
+00:30:16,710 --> 00:30:16,720
+like cost of being able to look around
+ 
+
+1723
+00:30:16,720 --> 00:30:18,269
+like cost of being able to look around
+the corner and better forecast and
+
+1724
+00:30:18,269 --> 00:30:18,279
+the corner and better forecast and
+ 
+
+1725
+00:30:18,279 --> 00:30:20,669
+the corner and better forecast and
+you're missing opportunities and like so
+
+1726
+00:30:20,669 --> 00:30:20,679
+you're missing opportunities and like so
+ 
+
+1727
+00:30:20,679 --> 00:30:22,950
+you're missing opportunities and like so
+the two of them are quite different and
+
+1728
+00:30:22,950 --> 00:30:22,960
+the two of them are quite different and
+ 
+
+1729
+00:30:22,960 --> 00:30:24,509
+the two of them are quite different and
+so do you see that at companies where
+
+1730
+00:30:24,509 --> 00:30:24,519
+so do you see that at companies where
+ 
+
+1731
+00:30:24,519 --> 00:30:26,509
+so do you see that at companies where
+like they'll craft multiple cois for
+
+1732
+00:30:26,509 --> 00:30:26,519
+like they'll craft multiple cois for
+ 
+
+1733
+00:30:26,519 --> 00:30:28,710
+like they'll craft multiple cois for
+personas or for those use yes what
+
+1734
+00:30:28,710 --> 00:30:28,720
+personas or for those use yes what
+ 
+
+1735
+00:30:28,720 --> 00:30:30,430
+personas or for those use yes what
+you're talking about is starting with
+
+1736
+00:30:30,430 --> 00:30:30,440
+you're talking about is starting with
+ 
+
+1737
+00:30:30,440 --> 00:30:32,310
+you're talking about is starting with
+the customer first and then thinking
+
+1738
+00:30:32,310 --> 00:30:32,320
+the customer first and then thinking
+ 
+
+1739
+00:30:32,320 --> 00:30:33,870
+the customer first and then thinking
+about your messaging and as simple and
+
+1740
+00:30:33,870 --> 00:30:33,880
+about your messaging and as simple and
+ 
+
+1741
+00:30:33,880 --> 00:30:36,029
+about your messaging and as simple and
+stupid as that sounds I cannot tell you
+
+1742
+00:30:36,029 --> 00:30:36,039
+stupid as that sounds I cannot tell you
+ 
+
+1743
+00:30:36,039 --> 00:30:38,149
+stupid as that sounds I cannot tell you
+how many times I just see companies Miss
+
+1744
+00:30:38,149 --> 00:30:38,159
+how many times I just see companies Miss
+ 
+
+1745
+00:30:38,159 --> 00:30:39,990
+how many times I just see companies Miss
+completely there this is exactly why I
+
+1746
+00:30:39,990 --> 00:30:40,000
+completely there this is exactly why I
+ 
+
+1747
+00:30:40,000 --> 00:30:42,830
+completely there this is exactly why I
+say start this process by doing it with
+
+1748
+00:30:42,830 --> 00:30:42,840
+say start this process by doing it with
+ 
+
+1749
+00:30:42,840 --> 00:30:45,389
+say start this process by doing it with
+an end of one and you will realize very
+
+1750
+00:30:45,389 --> 00:30:45,399
+an end of one and you will realize very
+ 
+
+1751
+00:30:45,399 --> 00:30:47,190
+an end of one and you will realize very
+quickly by looking at let's say 30
+
+1752
+00:30:47,190 --> 00:30:47,200
+quickly by looking at let's say 30
+ 
+
+1753
+00:30:47,200 --> 00:30:49,350
+quickly by looking at let's say 30
+different accounts how many different
+
+1754
+00:30:49,350 --> 00:30:49,360
+different accounts how many different
+ 
+
+1755
+00:30:49,360 --> 00:30:51,350
+different accounts how many different
+potential COI stories that you have
+
+1756
+00:30:51,350 --> 00:30:51,360
+potential COI stories that you have
+ 
+
+1757
+00:30:51,360 --> 00:30:53,509
+potential COI stories that you have
+because of exactly what you mentioned
+
+1758
+00:30:53,509 --> 00:30:53,519
+because of exactly what you mentioned
+ 
+
+1759
+00:30:53,519 --> 00:30:55,669
+because of exactly what you mentioned
+different circumstances different
+
+1760
+00:30:55,669 --> 00:30:55,679
+different circumstances different
+ 
+
+1761
+00:30:55,679 --> 00:30:57,190
+different circumstances different
+problem States different level of
+
+1762
+00:30:57,190 --> 00:30:57,200
+problem States different level of
+ 
+
+1763
+00:30:57,200 --> 00:30:58,509
+problem States different level of
+maturity
+
+1764
+00:30:58,509 --> 00:30:58,519
+maturity
+ 
+
+1765
+00:30:58,519 --> 00:31:00,509
+maturity
+you have this like bag of things where
+
+1766
+00:31:00,509 --> 00:31:00,519
+you have this like bag of things where
+ 
+
+1767
+00:31:00,519 --> 00:31:02,389
+you have this like bag of things where
+you can then give sellers direction to
+
+1768
+00:31:02,389 --> 00:31:02,399
+you can then give sellers direction to
+ 
+
+1769
+00:31:02,399 --> 00:31:04,669
+you can then give sellers direction to
+say here are the three circumstantial
+
+1770
+00:31:04,669 --> 00:31:04,679
+say here are the three circumstantial
+ 
+
+1771
+00:31:04,679 --> 00:31:06,549
+say here are the three circumstantial
+things you want to look for like is this
+
+1772
+00:31:06,549 --> 00:31:06,559
+things you want to look for like is this
+ 
+
+1773
+00:31:06,559 --> 00:31:09,789
+things you want to look for like is this
+a I don't know Zer million doll company
+
+1774
+00:31:09,789 --> 00:31:09,799
+a I don't know Zer million doll company
+ 
+
+1775
+00:31:09,799 --> 00:31:12,870
+a I don't know Zer million doll company
+with one person in Ops and then if it's
+
+1776
+00:31:12,870 --> 00:31:12,880
+with one person in Ops and then if it's
+ 
+
+1777
+00:31:12,880 --> 00:31:14,710
+with one person in Ops and then if it's
+you see this circumstance that's
+
+1778
+00:31:14,710 --> 00:31:14,720
+you see this circumstance that's
+ 
+
+1779
+00:31:14,720 --> 00:31:16,710
+you see this circumstance that's
+different that might lead you to lead
+
+1780
+00:31:16,710 --> 00:31:16,720
+different that might lead you to lead
+ 
+
+1781
+00:31:16,720 --> 00:31:19,389
+different that might lead you to lead
+with this one we can never be 100% sure
+
+1782
+00:31:19,389 --> 00:31:19,399
+with this one we can never be 100% sure
+ 
+
+1783
+00:31:19,399 --> 00:31:22,110
+with this one we can never be 100% sure
+the goal is to be specific but bring
+
+1784
+00:31:22,110 --> 00:31:22,120
+the goal is to be specific but bring
+ 
+
+1785
+00:31:22,120 --> 00:31:24,590
+the goal is to be specific but bring
+that hypothesis loosely held seek to be
+
+1786
+00:31:24,590 --> 00:31:24,600
+that hypothesis loosely held seek to be
+ 
+
+1787
+00:31:24,600 --> 00:31:26,549
+that hypothesis loosely held seek to be
+corrected and that's how you get this
+
+1788
+00:31:26,549 --> 00:31:26,559
+corrected and that's how you get this
+ 
+
+1789
+00:31:26,559 --> 00:31:28,909
+corrected and that's how you get this
+two-way dialogue so even if we're wrong
+
+1790
+00:31:28,909 --> 00:31:28,919
+two-way dialogue so even if we're wrong
+ 
+
+1791
+00:31:28,919 --> 00:31:30,509
+two-way dialogue so even if we're wrong
+we're not just showing up being like
+
+1792
+00:31:30,509 --> 00:31:30,519
+we're not just showing up being like
+ 
+
+1793
+00:31:30,519 --> 00:31:32,110
+we're not just showing up being like
+what are your problems and how can we
+
+1794
+00:31:32,110 --> 00:31:32,120
+what are your problems and how can we
+ 
+
+1795
+00:31:32,120 --> 00:31:34,789
+what are your problems and how can we
+help like that's low value so yes yes
+
+1796
+00:31:34,789 --> 00:31:34,799
+help like that's low value so yes yes
+ 
+
+1797
+00:31:34,799 --> 00:31:38,070
+help like that's low value so yes yes
+yes yes to your question okay awesome
+
+1798
+00:31:38,070 --> 00:31:38,080
+yes yes to your question okay awesome
+ 
+
+1799
+00:31:38,080 --> 00:31:39,950
+yes yes to your question okay awesome
+Jad this was so much fun thank you for
+
+1800
+00:31:39,950 --> 00:31:39,960
+Jad this was so much fun thank you for
+ 
+
+1801
+00:31:39,960 --> 00:31:41,950
+Jad this was so much fun thank you for
+breaking all this down uh can't wait to
+
+1802
+00:31:41,950 --> 00:31:41,960
+breaking all this down uh can't wait to
+ 
+
+1803
+00:31:41,960 --> 00:31:43,669
+breaking all this down uh can't wait to
+share it with people what how can people
+
+1804
+00:31:43,669 --> 00:31:43,679
+share it with people what how can people
+ 
+
+1805
+00:31:43,679 --> 00:31:45,029
+share it with people what how can people
+work with you because there's a few
+
+1806
+00:31:45,029 --> 00:31:45,039
+work with you because there's a few
+ 
+
+1807
+00:31:45,039 --> 00:31:46,070
+work with you because there's a few
+different ways I think and then where
+
+1808
+00:31:46,070 --> 00:31:46,080
+different ways I think and then where
+ 
+
+1809
+00:31:46,080 --> 00:31:48,590
+different ways I think and then where
+should people go to learn more about you
+
+1810
+00:31:48,590 --> 00:31:48,600
+should people go to learn more about you
+ 
+
+1811
+00:31:48,600 --> 00:31:50,710
+should people go to learn more about you
+yeah thanks for asking Demand genen with
+
+1812
+00:31:50,710 --> 00:31:50,720
+yeah thanks for asking Demand genen with
+ 
+
+1813
+00:31:50,720 --> 00:31:54,230
+yeah thanks for asking Demand genen with
+aj.com is my terrible website that we
+
+1814
+00:31:54,230 --> 00:31:54,240
+aj.com is my terrible website that we
+ 
+
+1815
+00:31:54,240 --> 00:31:55,310
+aj.com is my terrible website that we
+were joking out before it's in the
+
+1816
+00:31:55,310 --> 00:31:55,320
+were joking out before it's in the
+ 
+
+1817
+00:31:55,320 --> 00:31:57,629
+were joking out before it's in the
+middle of getting a refresh um the two
+
+1818
+00:31:57,629 --> 00:31:57,639
+middle of getting a refresh um the two
+ 
+
+1819
+00:31:57,639 --> 00:31:59,070
+middle of getting a refresh um the two
+way that I work with companies are
+
+1820
+00:31:59,070 --> 00:31:59,080
+way that I work with companies are
+ 
+
+1821
+00:31:59,080 --> 00:32:02,029
+way that I work with companies are
+either one bringing an idea like this
+
+1822
+00:32:02,029 --> 00:32:02,039
+either one bringing an idea like this
+ 
+
+1823
+00:32:02,039 --> 00:32:03,509
+either one bringing an idea like this
+into a sales kickoff so lots of
+
+1824
+00:32:03,509 --> 00:32:03,519
+into a sales kickoff so lots of
+ 
+
+1825
+00:32:03,519 --> 00:32:05,149
+into a sales kickoff so lots of
+companies who have sales kickoffs um
+
+1826
+00:32:05,149 --> 00:32:05,159
+companies who have sales kickoffs um
+ 
+
+1827
+00:32:05,159 --> 00:32:07,110
+companies who have sales kickoffs um
+they'll bring me in to get the
+
+1828
+00:32:07,110 --> 00:32:07,120
+they'll bring me in to get the
+ 
+
+1829
+00:32:07,120 --> 00:32:09,230
+they'll bring me in to get the
+organization thinking differently about
+
+1830
+00:32:09,230 --> 00:32:09,240
+organization thinking differently about
+ 
+
+1831
+00:32:09,240 --> 00:32:12,669
+organization thinking differently about
+selling on COI versus selling on Roi the
+
+1832
+00:32:12,669 --> 00:32:12,679
+selling on COI versus selling on Roi the
+ 
+
+1833
+00:32:12,679 --> 00:32:14,509
+selling on COI versus selling on Roi the
+second way is the really tactical jobs
+
+1834
+00:32:14,509 --> 00:32:14,519
+second way is the really tactical jobs
+ 
+
+1835
+00:32:14,519 --> 00:32:16,509
+second way is the really tactical jobs
+to be done with sellers so it's one
+
+1836
+00:32:16,509 --> 00:32:16,519
+to be done with sellers so it's one
+ 
+
+1837
+00:32:16,519 --> 00:32:18,590
+to be done with sellers so it's one
+thing to know what COI is it's another
+
+1838
+00:32:18,590 --> 00:32:18,600
+thing to know what COI is it's another
+ 
+
+1839
+00:32:18,600 --> 00:32:20,350
+thing to know what COI is it's another
+thing to say how do I write a cold email
+
+1840
+00:32:20,350 --> 00:32:20,360
+thing to say how do I write a cold email
+ 
+
+1841
+00:32:20,360 --> 00:32:22,029
+thing to say how do I write a cold email
+about it like how do I bring that to
+
+1842
+00:32:22,029 --> 00:32:22,039
+about it like how do I bring that to
+ 
+
+1843
+00:32:22,039 --> 00:32:23,590
+about it like how do I bring that to
+life in a discovery conversation so I do
+
+1844
+00:32:23,590 --> 00:32:23,600
+life in a discovery conversation so I do
+ 
+
+1845
+00:32:23,600 --> 00:32:25,509
+life in a discovery conversation so I do
+a lot of workshops with sales teams
+
+1846
+00:32:25,509 --> 00:32:25,519
+a lot of workshops with sales teams
+ 
+
+1847
+00:32:25,519 --> 00:32:27,870
+a lot of workshops with sales teams
+mostly selling into mid-market and
+
+1848
+00:32:27,870 --> 00:32:27,880
+mostly selling into mid-market and
+ 
+
+1849
+00:32:27,880 --> 00:32:29,950
+mostly selling into mid-market and
+Enterprise who are working with deal
+
+1850
+00:32:29,950 --> 00:32:29,960
+Enterprise who are working with deal
+ 
+
+1851
+00:32:29,960 --> 00:32:31,950
+Enterprise who are working with deal
+sizes that like warrant an approach like
+
+1852
+00:32:31,950 --> 00:32:31,960
+sizes that like warrant an approach like
+ 
+
+1853
+00:32:31,960 --> 00:32:34,190
+sizes that like warrant an approach like
+this so okay that's how you can find me
+
+1854
+00:32:34,190 --> 00:32:34,200
+this so okay that's how you can find me
+ 
+
+1855
+00:32:34,200 --> 00:32:35,629
+this so okay that's how you can find me
+awesome thank you so much again for
+
+1856
+00:32:35,629 --> 00:32:35,639
+awesome thank you so much again for
+ 
+
+1857
+00:32:35,639 --> 00:32:44,770
+awesome thank you so much again for
+coming on Chen thank you this is a blast
+
+1858
+00:32:44,770 --> 00:32:44,780
+
+ 
+
+1859
+00:32:44,780 --> 00:32:54,190
+
+[Music]
+
