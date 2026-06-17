@@ -1,67 +1,41 @@
-# 100Hires Portfolio Project
-**Bayu Poetra Ramadhan** | Growth Marketing Specialist Candidate
+# 100Hires Portfolio Project — Bayu Poetra Ramadhan
 
----
+## Step 2: Cold Outreach Pipeline for B2B SaaS
 
-## Tools Installed
+## Why This Topic
+Cold outreach pipeline is core to demand generation — directly relevant to my work at SawitPRO and across APAC markets.
 
-### 1. Cursor IDE
-- Downloaded from: https://cursor.com
-- Status: ✅ Successfully installed
+## Repository Structure
+- /research/sources.md — 10 curated experts with annotations
+- /research/linkedin-posts/ — LinkedIn posts per author (via Apify API)
+- /research/youtube-transcripts/ — Video transcripts (via yt-dlp)
+- /research/other/ — Supplementary materials
+- fetch_linkedin_posts.py — Apify scraper script
+- fetch_transcripts.py — YouTube transcript script
+- SETUP.md — Step-by-step setup guide
 
-### 2. Claude Code for VS Code
-- Publisher: Anthropic (Official)
-- Installed via: Cursor Extensions Marketplace
-- Downloads: 18 Million+
-- Status: ✅ Successfully installed
+## The 10 Experts
+1. Armand Farrokh & Nick Cegelski (30MPC) — Podcast/YouTube — Cold calling + sequencing
+2. Jason Bay (Outbound Squad) — LinkedIn/YouTube — Signal-based personalization
+3. Alex Berman (Galadon Gold) — YouTube — Cold email, 3C Framework
+4. Jack Reamer (SalesBread) + email combined
+5. Belal Batrawy (Death to Fluff) — LinkedIn — Pattern interrupt messaging
+6. Nick Abraham (Leadbird) — LinkedIn — Performance-based pipeline
+7. Jeremy Chatelaine (QuickMail) — Podcast/Blog — Email mechanics and deliverability
+8. Vin Matano (Creator Buzz) — LinkedIn/Multi — Buyer-side perspective
+9. Jen Allen-Knuth (DemandJen) — LinkedIn — Enterprise multi-threading
+10. Vincent Fourcade (ColdIQ) — YouTube/Blog — AI + Clay outbound systems
 
-### 3. Codex – OpenAI's Coding Agent
-- Publisher: OpenAI (Official)
-- Installed via: Cursor Extensions Marketplace
-- Downloads: 5.6 Million+
-- Status: ✅ Successfully installed
+## How Content Was Collected
+LinkedIn posts: Apify API (harvestapi/linkedin-profile-posts) — no cookies required. Cost ~0.06 USD for 50 posts.
+YouTube transcripts: yt-dlp — auto-generated subtitles stripped to clean text.
 
-### 4. GitHub
-- Account: github.com/bayueai-rgb
-- Visibility: Public ✅
-- Status: ✅ Done
+## Tools Used
+- Apify API — LinkedIn post scraping
+- yt-dlp — YouTube transcript extraction
+- Python 3 — collection scripts
+- Cursor IDE — development environment
+- GitHub — version control
 
----
-
-## Steps Completed
-
-1. ✅ Installed Cursor IDE from cursor.com
-2. ✅ Installed Claude Code extension (by Anthropic) in Cursor
-3. ✅ Installed Codex extension (by OpenAI) in Cursor
-4. ✅ Created a public GitHub repository
-5. ✅ Created and committed this README
-
----
-
-## Challenges & How I Solved Them
-
-**Challenge 1:** The instruction referenced "Claude Code add-on" 
-as a Cursor extension — no exact match was found by that name.
-
-**Solution:** Found "Claude Code for VS Code" by Anthropic 
-(18M+ downloads) as the official equivalent and installed it 
-successfully.
-
-**Challenge 2:** "Codex add-on" did not point to one specific 
-extension in the marketplace.
-
-**Solution:** Installed "Codex – OpenAI's Coding Agent" by OpenAI 
-as the most relevant and trusted option available.
-
----
-
-## Reflection
-
-This process trained me to adapt when instructions aren't 
-100% precise, solve problems independently using available 
-resources, and document my process clearly — skills that are 
-directly relevant to growth marketing in a fast-moving environment.
-
----
-
-*Submitted by Bayu Poetra Ramadhan — bayupoetrar@gmail.com*
+Bayu Poetra Ramadhan — Growth and Demand Generation — Jakarta
+bayupoetrar@gmail.com
