@@ -25,9 +25,11 @@ My experience building $5M+ GMV pipelines in Indonesia's fragmented agricultural
 ---
 
 ## Repository Structure
+
+```text
 /research/
-├── sources.md                    ← 10 curated experts with full annotations
-├── linkedin-posts/             ← Posts per author (collected via Apify API)
+├── sources.md ← 10 curated experts with full annotations
+├── linkedin-posts/ ← Posts per author (collected via Apify API)
 │   ├── armand-farrokh/
 │   ├── nick-cegelski/
 │   ├── jason-bay/
@@ -38,7 +40,7 @@ My experience building $5M+ GMV pipelines in Indonesia's fragmented agricultural
 │   ├── vin-matano/
 │   ├── jen-allen-knuth/
 │   └── vincent-fourcade/
-├── youtube-transcripts/        ← Video research notes per author
+├── youtube-transcripts/ ← Video research notes per author
 │   ├── 30mpc-armand-nick/
 │   ├── alex-berman/
 │   ├── jason-bay/
@@ -46,11 +48,12 @@ My experience building $5M+ GMV pipelines in Indonesia's fragmented agricultural
 │   ├── nick-abraham/
 │   └── jen-allen-knuth/
 └── other/
-└── playbook-outline.md     ← Synthesis of all frameworks into actionable pipeline
-fetch_linkedin_posts.py         ← Apify API scraper for LinkedIn posts
-fetch_transcripts.py            ← yt-dlp script for YouTube metadata
-SETUP.md                        ← Step-by-step setup guide
-README.md                       ← This file
+    └── playbook-outline.md ← Synthesis of all frameworks into actionable pipeline
+
+fetch_linkedin_posts.py ← Apify API scraper for LinkedIn posts
+fetch_transcripts.py ← yt-dlp script for YouTube metadata
+SETUP.md ← Step-by-step setup guide
+README.md ← This file
 
 ---
 
