@@ -1,15 +1,15 @@
-# LinkedIn Posts: Vin Matano
-
-URL: https://www.linkedin.com/in/vinmatano/
-Date: 2026-06-17
-Count: 1
-
----
-
-### Post 1
-Date:  | Likes: 0
-URL: 
-
-error
-
----
+*# LinkedIn Posts: Vin Matano
+*
+*URL: https://www.linkedin.com/in/vinmatano/
+*Date: 2026-06-17
+*Count: 1
+*
+*---
+*
+*### Post 1
+*Date:  | Likes: 0
+*URL: 
+*
+*error
+*
+*---
