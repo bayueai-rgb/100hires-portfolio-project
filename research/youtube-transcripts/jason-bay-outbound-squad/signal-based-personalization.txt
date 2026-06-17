@@ -1,13 +1,6 @@
-# Detailed Key Takeaways: Signal-Based Personalization (Jason Bay)
+Key Takeaways: Signal-Based Personalization (Jason Bay)
 
 Source: https://www.youtube.com/watch?v=Xm5YHJGc3X4
-Collected: June 2026
 
-## Core Idea
-- Volume-based outreach is dead in AI era
-- Signal-based + hyper-personalization is the new standard
-
-## Key Concepts
-- Martini Glass Funnel
-- Disqualification-first prospecting
-- Focus on real buying signals
+Volume outreach is dead. Use buying signals and personalized triggers.
+Martini Glass funnel, disqualification-first prospecting.

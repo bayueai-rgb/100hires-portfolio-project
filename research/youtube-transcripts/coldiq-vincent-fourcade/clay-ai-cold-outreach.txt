@@ -1,11 +1,6 @@
-# Detailed Key Takeaways: AI + Clay Powered Cold Outreach (Vincent Fourcade)
+Key Takeaways: Clay + AI Cold Outreach (Vincent Fourcade)
 
 Source: https://www.youtube.com/watch?v=3hVlMFqtBsQ
-Collected: June 2026
 
-## Modern Outbound Approach
-- Combining intent data, technographic, and behavioral signals
-- Clay + AI for large-scale personalization
-- End-to-end outbound system
-
-Vincent is one of only 4 Elite Clay Studio Experts in the world.
+Combine intent, technographic, and behavioral signals with Clay AI.
+One of the most advanced outbound setups in 2026.

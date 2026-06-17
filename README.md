@@ -39,3 +39,5 @@ YouTube transcripts: yt-dlp — auto-generated subtitles stripped to clean text.
 
 Bayu Poetra Ramadhan — Growth and Demand Generation — Jakarta
 bayupoetrar@gmail.com
+### Personal Connection
+As a Growth/Demand Generation practitioner at SawitPRO, I have built outbound pipelines across diverse APAC markets. Cold outreach is the most direct lever for qualified pipeline — a skill I use daily. This research allowed me to systematically study the top 1% of practitioners and synthesize their battle-tested frameworks into one actionable reference.
