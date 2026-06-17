@@ -74,7 +74,7 @@ def main():
     print("YouTube Transcript Fetcher — Updated June 2026")
     ok = fail = 0
     for expert in TARGETS:
-        adir = os.path.join(OUUT_DIR, expert["author"])
+        adir = os.path.join(OUTPUT_DIR, expert["author"])
         os.makedirs(adir, exist_ok=True)
         print(f"\n-- {expert['author']} --")
         for v in expert["videos"]:
