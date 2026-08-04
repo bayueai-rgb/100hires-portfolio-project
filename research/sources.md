@@ -70,12 +70,14 @@ Selected by cross-referencing practitioner output (live campaigns, documented re
 - **Why:** Trained enterprise teams at G2, GE, IBM. Previously closed 7-figure deals at Challenger. Covers enterprise multi-threading — a gap most SDR-focused content skips.
 - **Key frameworks:** Enterprise cold outreach, multi-threading buying committees, Challenger-style messaging
 
-### 10. Vincent Fourcade — ColdIQ
-- **LinkedIn:** linkedin.com/in/vincentfourcade
-- **YouTube:** youtube.com/@ColdIQ
+### 10. ColdIQ — Michel Lieben (Founder & CEO)
+- **LinkedIn:** linkedin.com/in/michel-lieben
+- **YouTube:** youtube.com/@MichLieben
 - **Website:** coldiq.com
-- **Why:** One of only 4 Elite Clay Studio Experts globally. Runs end-to-end cold outreach for B2B SaaS companies. Documents AI-powered outbound systems publicly — most technically advanced practitioner on this list.
+- **Why:** ColdIQ is one of only 4 Elite Clay Studio partners globally. Runs end-to-end cold outreach for 70+ B2B clients and documents AI-powered outbound systems publicly — the most technically advanced source on this list.
 - **Key frameworks:** Clay-powered outbound, intent signal capture, AI personalization at scale
+
+> **Correction (Stage 3, August 2026).** In the original Step 2 version of this file I attributed ColdIQ's founding to Vincent Fourcade. That was wrong: **Michel Lieben is Founder & CEO of ColdIQ** ([source](https://coldiq.com/blog/how-coldiq-grew-from-an-affiliate-side-project-to-a-65m-arr-agency)). I am recording the correction rather than silently overwriting it. The ColdIQ material I collected remains in the repository and is cited in the playbook; the attribution error was mine.
 
 ---
 
@@ -92,5 +94,5 @@ Selected by cross-referencing practitioner output (live campaigns, documented re
 | Jeremy Chatelaine | Podcast/Blog | Email mechanics/deliverability | All tiers |
 | Vin Matano | LinkedIn/Multi | Buyer-side perspective | SMB-Midmarket |
 | Jen Allen-Knuth | LinkedIn | Enterprise multi-threading | Enterprise |
-| Vincent Fourcade (ColdIQ) | YouTube/Blog | AI + Clay outbound systems | Mid-market/Enterprise |
+| ColdIQ (Michel Lieben) | YouTube/Blog | AI + Clay outbound systems | Mid-market/Enterprise |
 
